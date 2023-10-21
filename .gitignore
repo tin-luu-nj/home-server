@@ -1,7 +1,8 @@
 __pycache__
-htmlcov
+report/cov_ut/html
 .venv
 .coverage
+.coveragerc
 .vscode
 config/private_cfg.yml
 log
