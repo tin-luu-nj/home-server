@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Magnet Link Handler",
+    "version": "1.0",
+    "permissions": ["webNavigation"],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  

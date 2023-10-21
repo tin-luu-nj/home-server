@@ -1,0 +1,48 @@
+src\Application.py
+    F 4:0 main - A
+src\Configurator.py
+    F 1:0 main - A
+src\Generator.py
+    F 48:0 writeConfig - A
+    F 32:0 generateConfig - A
+    F 73:0 unnestDict - A
+    F 110:0 generateDTC - A
+    F 95:0 loadDTC - A
+    F 19:0 getLoggingLevel - A
+    F 142:0 loadConfig - A
+    F 157:0 main - A
+src\pyDiagnostic\diagnostic.py
+    M 9:4 clsDiagnostic.__init__ - B
+    C 8:0 clsDiagnostic - A
+    M 45:4 clsDiagnostic.clean_up - A
+    M 89:4 clsDiagnostic.look_up - A
+    M 99:4 clsDiagnostic.dump_DTC - A
+    M 60:4 clsDiagnostic.set_event_status - A
+    M 106:4 clsDiagnostic.last_event - A
+    M 42:4 clsDiagnostic.clear_DTC - A
+    M 78:4 clsDiagnostic._logging - A
+src\pyDummy\dummy.py
+    C 1:0 clsDummy - A
+    M 5:4 clsDummy.foo - A
+    M 2:4 clsDummy.__init__ - A
+    M 10:4 clsDummy.baz - A
+src\pyFileManagement\fileManage.py
+    F 4:0 walk_tree - A
+src\pyPkmHome\image_process.py
+    F 131:0 searchImage - C
+    F 17:0 extractText - C
+    F 99:0 extractColorHex - A
+src\pyPkmHome\pokemon_HOME.py
+    F 29:0 extractNatureStats - B
+    F 148:0 mainFunction - A
+    F 67:0 extractStatsIV - A
+    F 94:0 extractMain - A
+    F 122:0 extractGender - A
+src\pyUpdate\Update.py
+    C 9:0 GitHubRepo - A
+    M 49:4 GitHubRepo.update_application - A
+    M 19:4 GitHubRepo.__init__ - A
+    M 24:4 GitHubRepo.get_latest_version - A
+    M 36:4 GitHubRepo.pull_latest_version - A
+    M 43:4 GitHubRepo.restart_application - A
+    M 60:4 GitHubRepo.get_current_version - A

@@ -1,0 +1,670 @@
+No. 0001,Bulbasaur,MALE,Lv. 14,Bold,-Attack/+Defense,None,Overgrow,Fantastic,Fantastic,Fantastic,Fantastic,Fantastic,Fantastic,Amazing stats!,Vine Whip,Growth,Leech Seed,Razor Leaf,HOME,210601
+No. 0003,Venusaur,MALE,Lv. 41,Bold,-Attack/+Defense,None,Overgrow,Decent,Best,Best,Best,Pretty good,Decent,Good stats,Petal Dance,Leech Seed,Sleep Powder,Poison Powder,Aestas,612017
+No. 0004,Charmander,MALE,Lv. 1,Quirky,Neutral,None,Solar Power,Very good,Best,Best,Best,Decent,Pretty good,Great stats!,Scratch,Growl,,t-,Evi,140100
+No. 0007,Squirtle,MALE,Lv. 5,Quiet,-Speed/+Sp.Atk,None,Rain Dish,Pretty good,Pretty good,Pretty good,Pretty good,Pretty good,Pretty good,Good stats,Tackle,Tail Whip,Water Gun,_ ne,Shinryuu27,938944
+No.0010,Caterpie,MALE,Lv. 17,Hasty,-Defense/+Speed,None,Shield Dust,Best,Decent,Very good,Decent,Pretty good,Decent,Good stats,Bug Bite,Tackle,String Shot,ee,Aestas,612017
+No.0012,Butterfree,MALE,Lv. 11,Rash,-Sp.Def/+Sp.Atk,None,Compound Eyes,Decent,No good,Decent,Decent,Decent,Very good,OK stats,Tackle,String Shot,Harden,Gust,Aestas,612017
+No. 0023,Ekans,FEMALE,Lv. 35,Quiet,-Speed/+Sp.Atk,None,Intimidate,Best,Decent,Decent,Best,Pretty good,Decent,Good stats,Acid Spray,Sludge Bomb,Sucker Punch,Spite,Aestas,212471
+No.0024,Arbok,FEMALE,Lv. 67,Sassy,-Speed/+Sp.Def,None,Intimidate,Decent,Pretty good,Pretty good,Decent,Pretty good,Pretty good,Good stats,Belch,Haze,Coil,Gunk Shot,Aestas,212471
+No. 0025,Pikachu,MALE,Lv. 48,Naive,-Sp.Def/+Speed,None,Static,Best,Best,Best,Decent,Pretty good,Decent,Great stats!,Discharge,Slam,Spark,Feint,Aestas,612017
+No. 0025,Pikachu,FEMALE,Lv. 22,Gentle,-Defense/+Sp.Def,None,Static,Fantastic,Decent,Very good,Decent,Pretty good,Decent,Good stats,Double Team,Electro Ball,Feint,Spark,Aestas,612017
+No. 0026,Raichu,MALE,Lv. 45,Lax,-Sp.Def/+Defense,None,Static,Very good,Best,No good,Best,Decent,Best,Great stats!,Discharge,Iron Tail,Charm,Nuzzle,Aestas,212471
+No. 0026,Raichu,FEMALE,Lv. 75,Modest,-Attack/+Sp.Atk,None,Static,No good,Best,Best,Very good,Best,Best,Amazing stats!,Discharge,Iron Tail,Charm,Nuzzle,Aestas,212471
+No. 0027,Sandshrew,MALE,Lv. 35,Hardy,Neutral,None,Sand Veil,Decent,Very good,Best,Best,Pretty good,Decent,Great stats!,Flail,Bulldoze,Slash,Sandstorm,Aestas,212471
+No. 0028,Sandslash,FEMALE,Lv. 65,Adamant,-Sp.Atk/+Attack,None,Sand Veil,Decent,Decent,Decent,Very good,Decent,Decent,OK stats,Gyro Ball,Swords Dance,Sandstorm,Earthquake,Aestas,212471
+No. 0030,Nidorina,FEMALE,Lv. 28,Serious,Neutral,None,Hustle,Best,Best,Decent,Best,Decent,Best,Great stats!,Scratch,Poison Sting,Toxic Spikes,Tail Whip,Aestas,612017
+No. 0035,Clefairy,FEMALE,Lv. 35,Brave,-Speed/+Attack,None,Friend Guard,Decent,Best,Best,Decent,Decent,Decent,Good stats,Meteor Mash,Dazzling Gleam,Encore,Charm,Aestas,212471
+No. 0036,Clefable,MALE,Lv. 45,Impish,-Sp.Atk/+Defense,None,Unaware,Decent,Best,Best,Decent,Best,Decent,Good stats,Dazzling Gleam,Psychic,Misty Terrain,Meteor Mash,Aestas,212471
+No. 0037,Vulpix,FEMALE,Lv. 14,Modest,-Attack/+Sp.Atk,None,Flash Fire,Decent,Very good,Pretty good,Decent,No good,Decent,OK stats,Tail Whip,Disable,Quick Attack,Spite,Aestas,612017
+No. 0038,Ninetales,FEMALE,Lv. 60,Docile,Neutral,None,Flash Fire,Pretty good,Decent,Pretty good,Fantastic,Decent,Pretty good,Good stats,Safeguard,Inferno,Grudge,Fire Blast,Aestas,612017
+No. 0039,Jigglypuff,MALE,Lv. 25,Bashful,Neutral,None,Competitive,Best,Pretty good,Very good,Best,Fantastic,Best,Amazing stats!,Covet,Round,Echoed Voice,Spit Up,Aestas,612017
+No. 0040,Wigglytuff,MALE,Lv. 59,Impish,-Sp.Atk/+Defense,None,Competitive,Best,Best,Pretty good,Best,Decent,Best,Great stats!,Round,Echoed Voice,Disarming Voice,Play Rough,Aestas,612017
+No. 0043,Oddish,MALE,Lv. 9,Bold,-Attack/+Defense,None,Chlorophyll,Decent,Decent,Decent,Decent,No good,Pretty good,OK stats,Absorb,Growth,Acid,Sweet Scent,Aestas,612017
+No. 0044,Gloom,FEMALE,Lv. 26,Naughty,-Sp.Def/+Attack,None,Chlorophyll,Pretty good,Pretty good,Decent,Pretty good,Best,Decent,Good stats,Stun Spore,Sleep Powder,Giga Drain,Toxic,Aestas,612017
+No. 0045,Vileplume,FEMALE,Lv. 61,Hasty,-Defense/+Speed,None,Chlorophyll,Decent,Very good,Best,Very good,No good,Pretty good,Good stats,Moonblast,Grassy Terrain,Moonlight,Petal Dance,Aestas,612017
+No. 0048,Venonat,FEMALE,Lv. 21,Timid,-Attack/+Speed,None,Tinted Lens,Decent,No good,Best,Pretty good,Pretty good,Pretty good,Good stats,Supersonic,Confusion,Poison Powder,Psybeam,Aestas,212471
+No. 0049,Venomoth,MALE,Lv. 31,Calm,-Attack/+Sp.Def,None,Tinted Lens,Fantastic,Decent,Decent,Decent,Decent,Decent,OK stats,Psybeam,Stun Spore,Bug Buzz,Sleep Powder,Aestas,212471
+No. 0050,Diglett,MALE,Lv. 17,Hardy,Neutral,None,Sand Veil,Decent,Best,Pretty good,Pretty good,Best,Pretty good,Great stats!,Bulldoze,Astonish,Sand Attack,Rock Tomb,Aestas,212471
+No.0051,Dugtrio,FEMALE,Lv. 34,Naughty,-Sp.Def/+Attack,None,Sand Veil,Pretty good,Decent,Decent,Pretty good,Decent,Pretty good,Good stats,Growl,Astonish,Mud-Slap,Bulldoze,Aestas,612017
+No. 0052,Meowth,MALE,Lv. 25,Jolly,-Sp.Atk/+Speed,None,Technician,Fantastic,Decent,Pretty good,Pretty good,Decent,Very good,Good stats,Pay Day,Bite,Taunt,Assurance,Aestas,212471
+No. 0052,Meowth,FEMALE,Lv. 5,Serious,Neutral,None,Tough Claws,Best,Pretty good,Decent,Best,Decent,Best,Great stats!,Growl,Fake Out,Hone Claws,�il,Aestas,212471
+No. 0053,Persian,MALE,Lv. 34,Docile,Neutral,None,Limber,Fantastic,Decent,Decent,Pretty good,Pretty good,Decent,Good stats,Bite,Taunt,Assurance,Fury Swipes,Aestas,212471
+No.0054,Psyduck,MALE,Lv. 20,Quirky,Neutral,None,Cloud Nine,Decent,Decent,Decent,Best,Pretty good,Decent,OK stats,Water Pulse,Zen Headbutt,Disable,Hypnosis,Aestas,212471
+No.0055,Golduck,FEMALE,Lv. 51,Calm,-Attack/+Sp.Def,None,Damp,Decent,Very good,Pretty good,Decent,Decent,Pretty good,Good stats,Psych Up,Amnesia,Hydro Pump,Wonder Room,Aestas,212471
+No. 0056,Mankey,FEMALE,Lv. 18,Timid,-Attack/+Speed,None,Vital Spirit,Very good,Decent,Decent,Decent,Decent,Pretty good,OK stats,Fury Swipes,Low Kick,Seismic Toss,Swagger,Aestas,212471
+No. 0057,Primeape,MALE,Lv. 35,Jolly,-Sp.Atk/+Speed,None,Anger Point,Very good,Pretty good,Very good,Very good,Pretty good,Best,Amazing stats!,Cross Chop,Assurance,Thrash,Rage Fist,Aestas,212471
+No. 0058,Growlithe,MALE,Lv. 17,Gentle,-Defense/+Sp.Def,None,Flash Fire,Very good,Decent,Decent,Pretty good,Decent,Decent,OK stats,Howl,Bite,Flame Wheel,Helping Hand,Aestas,212471
+No. 0059,Arcanine,FEMALE,Lv. 50,Relaxed,-Speed/+Defense,None,Intimidate,Decent,Decent,Pretty good,Decent,Decent,Decent,OK stats,Leer,Flame Wheel,Take Down,Flamethrower,Aestas,212471
+No. 0060,Poliwag,MALE,Lv. 57,Quirky,Neutral,None,Water Absorb,Decent,Decent,Best,Decent,Decent,Pretty good,OK stats,Earth Power,Hydro Pump,Belly Drum,Double-Edge,Aestas,212471
+No. 0061,Poliwhirl,FEMALE,Lv. 68,Brave,-Speed/+Attack,None,Water Absorb,Pretty good,Pretty good,No good,Pretty good,Pretty good,Pretty good,Good stats,Earth Power,Hydro Pump,Belly Drum,Double-Edge,Aestas,212471
+No. 0062,Poliwrath,FEMALE,Lv. 68,Jolly,-Sp.Atk/+Speed,None,Damp,Pretty good,Best,Pretty good,Pretty good,Fantastic,Decent,Great stats!,Earth Power,Hydro Pump,Belly Drum,Dynamic Punch,Aestas,212471
+No. 0066,Machop,MALE,Lv. 16,Bold,-Attack/+Defense,None,Guts,Best,Best,Pretty good,Pretty good,Decent,Decent,Great stats!,Low Sweep,Revenge,Knock Off,Low Kick,Aestas,612017
+No. 0068,Machamp,MALE,Lv. 60,Adamant,-Sp.Atk/+Attack,None,Guts,Best,Best,Best,Decent,Best,Best,Amazing stats!,Cross Chop,Fire Punch,Ice Punch,Earthquake,Aestas,612017
+No. 0069,Bellsprout,MALE,Lv. 64,Naughty,-Sp.Def/+Attack,None,Chlorophyll,Decent,Very good,Decent,Fantastic,Pretty good,Decent,Good stats,Razor Leaf,Poison Jab,Slam,Power Whip,Aestas,212471
+No. 0071,Victreebel,MALE,Lv. 67,Bold,-Attack/+Defense,None,Chlorophyll,Very good,Decent,Decent,Decent,Best,Decent,OK stats,Razor Leaf,Poison Jab,Slam,Leaf Storm,Aestas,212471
+No. 0074,Geodude,FEMALE,Lv. 65,Gentle,-Defense/+Sp.Def,None,Sturdy,Decent,Decent,Decent,Pretty good,Pretty good,Decent,OK stats,Earthquake,Explosion,Double-Edge,Stone Edge,Aestas,212471
+No.0075,Graveler,FEMALE,Lv. 67,Impish,-Sp.Atk/+Defense,None,Rock Head,Decent,Fantastic,Best,No good,Decent,Decent,Good stats,Earthquake,Explosion,Double-Edge,Stone Edge,Aestas,212471
+No. 0076,Golem,MALE,Lv. 75,Rash,-Sp.Def/+Sp.Atk,None,Sturdy,Best,Best,Best,Best,Very good,Decent,Amazing stats!,Earthquake,Stone Edge,Heavy Slam,Defense Curl,Aestas,212471
+No. 0077,Ponyta,FEMALE,Lv. 1,Sassy,-Speed/+Sp.Def,None,Run Away,Best,Best,Decent,Decent,Best,Decent,Great stats!,Tackle,Growl,,,Aestas,612017
+No. 0078,Rapidash,MALE,Lv. 46,Gentle,-Defense/+Sp.Def,None,Run Away,Best,Very good,Best,Best,Fantastic,Decent,Amazing stats!,Tackle,Psybeam,Tail Whip,Psycho Cut,Aestas,612017
+No. 0079,Slowpoke,FEMALE,Lv. 23,Bold,-Attack/+Defense,None,Oblivious,Fantastic,Fantastic,Pretty good,Pretty good,Decent,Pretty good,Great stats!,Confusion,Disable,Water Pulse,Headbutt,Aestas,212471
+No. 0079,Slowpoke,FEMALE,Lv. 19,Impish,-Sp.Atk/+Defense,None,Own Tempo,Very good,Pretty good,Decent,Very good,Pretty good,Pretty good,Good stats,Disable,Water Pulse,Yawn,Confusion,Aestas,612017
+No. 0080,Slowbro,MALE,Lv. 49,Careful,-Sp.Atk/+Sp.Def,None,Own Tempo,Decent,Pretty good,Pretty good,Decent,Decent,Decent,OK stats,Slack Off,Psychic,Psych Up,Rain Dance,Aestas,212471
+No. 0081,Magnemite,GENDERLESS,Lv. 30,Hardy,Neutral,None,Magnet Pull,Very good,Pretty good,Decent,Decent,Pretty good,Decent,Good stats,Thunder Wave,Electro Ball,Gyro Ball,Spark,Aestas,212471
+No. 0082,Magneton,GENDERLESS,Lv. 37,Jolly,-Sp.Atk/+Speed,None,Magnet Pull,Pretty good,Decent,Decent,Pretty good,Decent,Fantastic,OK stats,Spark,Screech,Magnet Rise,Flash Cannon,Aestas,212471
+No. 0088,Grimer,MALE,Lv. 23,Brave,-Speed/+Attack,None,Sticky Hold,Decent,Pretty good,No good,Pretty good,Decent,Decent,OK stats,Disable,Sludge,Mud Shot,Minimize,Aestas,212471
+No. 0089,Muk,MALE,Lv. 38,Bold,-Attack/+Defense,None,Stench,Decent,Very good,Decent,Decent,Decent,Decent,OK stats,Mud-Slap,Disable,Sludge,Mud Shot,Aestas,212471
+No. 0090,Shellder,FEMALE,Lv. 60,Lonely,-Defense/+Attack,None,Shell Armor,Decent,Very good,Pretty good,Decent,Very good,Decent,Good stats,lron Defense,Ice Beam,Shell Smash,Hydro Pump,Aestas,612017
+No.0091,Cloyster,FEMALE,Lv. 75,Hardy,Neutral,None,Shell Armor,Best,Best,Best,Best,Pretty good,Best,Amazing stats!,Icicle Spear,Hydro Pump,Ice Shard,Supersonic,Aestas,212471
+No. 0092,Gastly,FEMALE,Lv. 22,Bashful,Neutral,None,Levitate,Decent,Pretty good,Best,Fantastic,Decent,Decent,Good stats,Mean Look,Payback,Spite,Curse,Aestas,212471
+No. 0093,Haunter,FEMALE,Lv. 60,Serious,Neutral,None,Levitate,No good,Pretty good,Decent,Pretty good,Pretty good,Pretty good,OK stats,Dark Pulse,Shadow Ball,Destiny Bond,Dream Eater,Aestas,612017
+No. 0094,Gengar,FEMALE,Lv. 25,Lonely,-Defense/+Attack,None,Cursed Body,Decent,Pretty good,Pretty good,Very good,Pretty good,Best,Great stats!,Payback,Spite,Curse,Hex,Blossom,016519
+No. 0095,Onix,MALE,Lv. 60,Jolly,-Sp.Atk/+Speed,None,Sturdy,Pretty good,Pretty good,Very good,Decent,Decent,No good,OK stats,Dig,Iron Tail,Stone Edge,Double-Edge,Aestas,612017
+No. 0096,Drowzee,MALE,Lv. 7,Sassy,-Speed/+Sp.Def,None,Insomnia,Pretty good,Pretty good,Pretty good,Decent,Decent,No good,OK stats,Pound,Hypnosis,Disable,,Aestas,212471
+No. 0097,Hypno,MALE,Lv. 40,Impish,-Sp.Atk/+Defense,None,Insomnia,Best,Fantastic,Pretty good,Pretty good,Decent,Decent,Good stats,Psybeam,Psych Up,Zen Headbutt,Swagger,Aestas,212471
+No. 0097,Hypno,FEMALE,Lv. 40,Docile,Neutral,None,Forewarn,Best,Very good,Decent,Pretty good,Pretty good,No good,Good stats,Psybeam,Psych Up,Zen Headbutt,Swagger,Aestas,212471
+No. 0098,Krabby,FEMALE,Lv. 12,Gentle,-Defense/+Sp.Def,None,Shell Armor,Very good,Decent,Decent,Decent,Best,Pretty good,Good stats,Leer,Harden,Metal Claw,Mud Shot,Aestas,612017
+No. 0099,Kingler,MALE,Lv. 60,Mild,-Defense/+Sp.Atk,None,Shell Armor,Best,Best,Best,Very good,Best,Best,Amazing stats!,Razor Shell,Metal Claw,Stomp,Harden,Aestas,612017
+No.0100,Voltorb,GENDERLESS,Lv. 27,Naughty,-Sp.Def/+Attack,None,Soundproof,Pretty good,Decent,No good,Decent,Decent,Pretty good,OK stats,Charge Beam,Swift,Electro Ball,Self-Destruct,Aestas,212471
+No.0101,Electrode,GENDERLESS,Lv. 31,Mild,-Defense/+Sp.Atk,None,Static,Decent,Decent,Decent,Decent,Decent,Decent,OK stats,Charge Beam,Swift,Electro Ball,Self-Destruct,Aestas,212471
+No.0106,Hitmonlee,MALE,Lv. 20,Bashful,Neutral,None,Reckless,Decent,Best,Pretty good,Best,Pretty good,Very good,Great stats!,Brick Break,Fake Out,Focus Energy,Mind Reader,Aestas,612017
+No.0109,Koffing,FEMALE,Lv. 23,Mild,-Defense/+Sp.Atk,None,Neutralizing Gas,Decent,Pretty good,Very good,Pretty good,Decent,Decent,OK stats,Smokescreen,Clear Smog,Assurance,Sludge,Aestas,612017
+No.0110,Weezing,MALE,Lv. 71,Jolly,-Sp.Atk/+Speed,None,Levitate,Very good,Pretty good,Pretty good,Pretty good,Pretty good,Decent,Good stats,Belch,Explosion,Memento,Destiny Bond,Aestas,212471
+No.0110,Weezing,MALE,Lv. 65,Relaxed,-Speed/+Defense,None,Neutralizing Gas,Pretty good,Decent,Pretty good,Very good,Decent,Decent,Good stats,Belch,Explosion,Memento,Destiny Bond,Aestas,612017
+No.0112,Rhydon,FEMALE,Lv. 35,Serious,Neutral,None,Rock Head,Decent,Best,Best,Decent,No good,Best,Good stats,Drill Run,Bulldoze,Smack Down,Stomp,Aestas,612017
+No.0113,Chansey,FEMALE,Lv. 54,Careful,-Sp.Atk/+Sp.Def,None,Natural Cure,Very good,Pretty good,Pretty good,Pretty good,Best,Pretty good,Great stats!,Double-Edge,Soft-Boiled,Last Resort,Healing Wish,Aestas,212471
+No.0114,Tangela,FEMALE,Lv. 40,Naive,-Sp.Def/+Speed,None,Chlorophyll,Fantastic,Best,Best,Decent,Best,Pretty good,Amazing stats!,Knock Off,Mega Drain,Slam,Giga Drain,Aestas,612017
+No.0118,Goldeen,FEMALE,Lv. 60,Quiet,-Speed/+Sp.Atk,None,Swift Swim,Pretty good,Decent,Very good,Pretty good,Pretty good,No good,OK stats,Waterfall,Soak,Megahorn,Horn Drill,Aestas,612017
+No.0119,Seaking,MALE,Lv. 61,Quiet,-Speed/+Sp.Atk,None,Swift Swim,Pretty good,Decent,Pretty good,Very good,Decent,Pretty good,Good stats,Waterfall,Soak,Megahorn,Horn Drill,Aestas,612017
+No.0122,Mr. Mime,MALE,Lv. 37,Timid,-Attack/+Speed,None,Screen Cleaner,Decent,Best,Pretty good,Best,Decent,Best,Good stats,Psybeam,Confusion,Ice Shard,Rapid Spin,Aestas,612017
+No.0123,Scyther,MALE,Lv. 52,Naive,-Sp.Def/+Speed,None,Swarm,Pretty good,Pretty good,Pretty good,Pretty good,Decent,Decent,Good stats,Agility,Air Slash,X-Scissor,Swords Dance,Aestas,212471
+No.0128,Tauros,MALE,Lv. 28,Careful,-Sp.Atk/+Sp.Def,None,Intimidate,Very good,Pretty good,Decent,Pretty good,Decent,Decent,Good stats,Double Kick,Assurance,Headbutt,Scary Face,Aestas,212471
+No.0128,Tauros,MALE,Lv. 30,Brave,-Speed/+Attack,None,Anger Point,Very good,Decent,Best,Decent,No good,Decent,OK stats,Double Kick,Flame Charge,Headbutt,Zen Headbutt,am,89614]
+No.0128,Tauros,MALE,Lv. 27,Docile,Neutral,None,Intimidate,Very good,Pretty good,Decent,Pretty good,Pretty good,Pretty good,Great stats!,Double Kick,Aqua Jet,Headbutt,Scary Face,Aestas,212471
+No.0129,Magikarp,FEMALE,Lv. 8,Careful,-Sp.Atk/+Sp.Def,None,Swift Swim,Very good,Decent,Very good,Decent,Decent,Decent,Good stats,Splash,,,��,Aestas,612017
+No.0130,Gyarados,MALE,Lv. 51,Impish,-Sp.Atk/+Defense,None,Intimidate,Pretty good,Decent,Very good,Very good,Pretty good,Decent,Good stats,Dragon Dance,Hydro Pump,Hurricane,Thrash,Aestas,212471
+No.0130,Gyarados,FEMALE,Lv. 60,Relaxed,-Speed/+Defense,None,Intimidate,Best,Decent,Pretty good,Pretty good,Very good,Decent,Great stats!,Hydro Pump,Hurricane,Thrash,Hyper Beam,Aestas,612017
+No.0133,Eevee,MALE,Lv. 35,Calm,-Attack/+Sp.Def,None,Anticipation,Pretty good,Best,Pretty good,Decent,Best,Decent,Good stats,Quick Attack,Calm Mind,Swift,Mud-Slap,Aestas,212471
+No.0134,Vaporeon,MALE,Lv. 50,Impish,-Sp.Atk/+Defense,None,Water Absorb,Pretty good,Decent,Decent,Pretty good,Pretty good,Decent,OK stats,Aqua Ring,Muddy Water,Acid Armor,Hydro Pump,Aestas,212471
+No.0135,Jolteon,MALE,Lv. 75,Calm,-Attack/+Sp.Def,None,Quick Feet,Best,Best,Best,Best,Best,Decent,Amazing stats!,Tera Blast,Thunderbolt,Shadow Ball,Thunder Wave,Aestas,212471
+No.0136,Flareon,MALE,Lv. 50,Careful,-Sp.Atk/+Sp.Def,None,Flash Fire,Best,Pretty good,Best,Decent,Best,Pretty good,Great stats!,Flare Blitz,Bite,Double Kick,Curse,Aestas,212471
+No. 0137,Porygon,GENDERLESS,Lv. 25,Lonely,-Defense/+Attack,None,Analytic,Decent,Best,Very good,Best,Decent,Best,Great stats!,Magnet Rise,Thunder Shock,Psybeam,Conversion 2,Aestas,612017
+No.0140,Kabuto,MALE,Lv. 1,Calm,-Attack/+Sp.Def,None,Battle Armor,Best,Best,Best,Best,Decent,Best,Amazing stats!,Absorb,Harden,,:-,Aestas,612017
+No.0141,Kabutops,MALE,Lv. 40,Hardy,Neutral,None,Battle Armor,Pretty good,Best,Best,Best,Fantastic,Decent,Amazing stats!,Slash,Ancient Power,Mud Shot,Aqua Jet,Aestas,612017
+No.0142,Aerodactyl,MALE,Lv. 65,Adamant,-Sp.Atk/+Attack,None,Pressure,Pretty good,Decent,Pretty good,Decent,Decent,Decent,OK stats,Stone Edge,Agility,Hyper Beam,Giga Impact,Aestas,612017
+No.0143,Snorlax,MALE,Lv. 76,Modest,-Attack/+Sp.Atk,None,Immunity,Pretty good,Very good,Decent,Decent,Decent,Decent,Good stats,Hammer Arm,Belly Drum,Belch,Giga Impact,Aestas,212471
+No.0144,Articuno,GENDERLESS,Lv. 70,Mild,-Defense/+Sp.Atk,None,Competitive,Decent,Best,Pretty good,Decent,Best,Best,Great stats!,Freezing Glare,Hurricane,Psycho Cut,Psycho Shift,Aestas,612017
+No.0145,Zapdos,GENDERLESS,Lv. 70,Bold,-Attack/+Defense,None,Defiant,Best,No good,Pretty good,Decent,Best,Best,Good stats,Thunderous Kick,Drill Peck,Reversal,Focus Energy,Aestas,612017
+No.0146,Moltres,GENDERLESS,Lv. 70,Relaxed,-Speed/+Defense,None,Berserk,Decent,Pretty good,Best,Decent,Best,Best,Great stats!,Fiery Wrath,Hurricane,Sucker Punch,Nasty Plot,Aestas,612017
+No.0147,Dratini,MALE,Lv. 52,Bold,-Attack/+Defense,None,Shed Skin,Very good,Decent,Decent,Pretty good,Decent,Pretty good,Good stats,Dragon Rush,Safeguard,Rain Dance,Dragon Dance,Aestas,212471
+No.0148,Dragonair,FEMALE,Lv. 50,Bold,-Attack/+Defense,None,Shed Skin,Decent,Pretty good,Pretty good,Decent,Very good,Decent,OK stats,Slam,Aqua Tail,Dragon Rush,Safeguard,Aestas,212471
+No.0149,Dragonite,MALE,Lv. 55,Hasty,-Defense/+Speed,None,Inner Focus,No good,Decent,Pretty good,Pretty good,Decent,Decent,OK stats,Slam,Aqua Tail,Dragon Rush,Hurricane,Aestas,212471
+No.0150,Mewtwo,GENDERLESS,Lv. 70,Hardy,Neutral,None,Pressure,Best,Best,Best,Decent,Best,Decent,Great stats!,Psychic,Disable,Recover,Blizzard,Aestas,612017
+No.0151,Mew,GENDERLESS,Lv. 100,Bashful,-Sp.Atk/+Attack,None,Synchronize,Best,Decent,Very good,Pretty good,Best,Best,Great stats!,Life Dew,Acid Spray,Light Screen,Amnesia,Mei,827011
+No.0150,Mewtwo,GENDERLESS,Lv. 100,Modest,-Attack/+Sp.Atk,None,Unnerve,Best,Best,Best,Best,Best,Best,Amazing stats!,Psystrike,Aura Sphere,Ice Beam,Calm Mind,Mei,827011
+No.0151,Mew,GENDERLESS,Lv. 5,Brave,-Speed/+Attack,None,Synchronize,Best,Very good,Best,No good,Best,Pretty good,Great stats!,Sludge Bomb,Swift,Light Screen,Life Dew,Aestas,212471
+No.0162,Furret,MALE,Lv. 59,Timid,-Attack/+Speed,None,Run Away,Decent,Fantastic,Decent,Pretty good,Very good,Decent,Good stats,Amnesia,Baton Pass,Double-Edge,Hyper Voice,Aestas,212471
+No.0163,Hoothoot,FEMALE,Lv. 68,Careful,-Sp.Atk/+Sp.Def,None,Insomnia,Pretty good,Decent,Pretty good,Decent,Decent,Decent,OK stats,Roost,Moonblast,Hypnosis,Dream Eater,Aestas,212471
+No.0164,Noctowl,FEMALE,Lv. 20,Lonely,-Defense/+Attack,None,Insomnia,Pretty good,Decent,Pretty good,Very good,Decent,Pretty good,Good stats,Psycho Shift,Confusion,Reflect,Air Slash,Aestas,612017
+No.0167,Spinarak,FEMALE,Lv. 54,Docile,Neutral,None,Swarm,Decent,Pretty good,Decent,Fantastic,Decent,Decent,OK stats,Poison Jab,Cross Poison,Sticky Web,Toxic Thread,Aestas,212471
+No.0168,Ariados,MALE,Lv. 35,Jolly,-Sp.Atk/+Speed,None,Sniper,Best,Fantastic,Decent,Best,Pretty good,Pretty good,Great stats!,Poison Jab,Bug Bite,Shadow Sneak,Trailblaze,Aestas,212471
+No.0172,Pichu,FEMALE,Lv. 6,Adamant,-Sp.Atk/+Attack,None,Static,Decent,Decent,Pretty good,Best,Decent,Pretty good,Good stats,Tail Whip,Thunder Shock,Play Nice,,Aestas,212471
+No.0173,Cleffa,FEMALE,Lv. 26,Adamant,-Sp.Atk/+Attack,None,Cute Charm,Decent,Best,Decent,Decent,Best,Decent,OK stats,Disarming Voice,Pound,Charm,Encore,Aestas,612017
+No.0174,Igglybuff,FEMALE,Lv. 8,Lax,-Sp.Def/+Defense,None,Competitive,Decent,Decent,Pretty good,Pretty good,Very good,Pretty good,Good stats,Sing,Copycat,Defense Curl,Sweet Kiss,Aestas,212471
+No.0175,Togepi,MALE,Lv. 17,Quiet,-Speed/+Sp.Atk,None,Serene Grace,Decent,Pretty good,Very good,Best,Pretty good,Very good,Great stats!,Ancient Power,Pound,Charm,Life Dew,Aestas,612017
+No.0178,Xatu,FEMALE,Lv. 60,Hasty,-Defense/+Speed,None,Early Bird,Pretty good,Decent,Pretty good,Pretty good,Best,Pretty good,Good stats,Guard Swap,Psychic,Wish,Future Sight,Aestas,612017
+No.0179,Mareep,MALE,Lv. 9,Relaxed,-Speed/+Defense,None,Static,Decent,Pretty good,Decent,Decent,Pretty good,Very good,Good stats,Tackle,Growl,Thunder Wave,Thunder Shock,Aestas,212471
+No.0180,Flaaffy,FEMALE,Lv. 29,Naughty,-Sp.Def/+Attack,None,Static,Best,Very good,Decent,Decent,Pretty good,Decent,Good stats,Charge,Take Down,Electro Ball,Confuse Ray,Aestas,212471
+No.0181,Ampharos,MALE,Lv. 33,Lonely,-Defense/+Attack,None,Static,Very good,Pretty good,Decent,Pretty good,Decent,Decent,Good stats,Thunder Punch,Growl,Thunder Wave,Thunder Shock,Aestas,212471
+No.0182,Bellossom,MALE,Lv. 60,Hasty,-Defense/+Speed,None,Chlorophyll,Decent,Best,Decent,Pretty good,Decent,Very good,Good stats,Moonblast,Grassy Terrain,Moonlight,Petal Dance,Degan,116553
+No.0183,Marill,MALE,Lv. 19,Adamant,-Sp.Atk/+Attack,None,Huge Power,Decent,Best,Decent,Very good,Decent,Decent,OK stats,Charm,Slam,Bounce,Aqua Tail,Aestas,212471
+No.0184,Azumarill,MALE,Lv. 49,Modest,-Attack/+Sp.Atk,None,Huge Power,Pretty good,Pretty good,Pretty good,Decent,Decent,Pretty good,OK stats,Aqua Ring,Rain Dance,Hydro Pump,Double-Edge,Aestas,212471
+No.0185,Sudowoodo,MALE,Lv. 34,Naive,-Sp.Def/+Speed,None,Rock Head,Decent,Decent,Decent,No good,Decent,Decent,OK stats,Rock Tomb,Tearful Look,Sucker Punch,Rock Slide,Aestas,212471
+No.0185,Sudowoodo,FEMALE,Lv. 25,Careful,-Sp.Atk/+Sp.Def,None,Sturdy,Pretty good,Decent,Pretty good,Very good,Pretty good,Decent,Good stats,Block,Mimic,Rock Tomb,Tearful Look,Aestas,612017
+No.0186,Politoed,FEMALE,Lv. 75,Docile,Neutral,None,Damp,Best,Best,Pretty good,Best,Best,Best,Amazing stats!,Surf,Hyper Voice,Weather Ball,Encore,Aestas,212471
+No. 0187,Hoppip,MALE,Lv. 16,Quirky,Neutral,None,Chlorophyll,Pretty good,Pretty good,Decent,Pretty good,Pretty good,Decent,Good stats,Splash,Tackle,Fairy Wind,Absorb,Aestas,212471
+No.0188,Skiploom,MALE,Lv. 45,Brave,-Speed/+Attack,None,Leaf Guard,Pretty good,Pretty good,Best,Best,Pretty good,Pretty good,Amazing stats!,U-turn,Giga Drain,Bounce,Memento,Aestas,212471
+No.0189,Jumpluff,FEMALE,Lv. 46,Hasty,-Defense/+Speed,None,Chlorophyll,Decent,Best,Very good,No good,Pretty good,No good,OK stats,Acrobatics,Cotton Spore,U-turn,Giga Drain,Aestas,212471
+No.0191,Sunkern,MALE,Lv. 5,Quiet,-Speed/+Sp.Atk,None,Solar Power,Decent,Decent,Pretty good,No good,Decent,Decent,OK stats,Tackle,Growth,,,Aestas,212471
+No.0192,Sunflora,FEMALE,Lv. 12,Quirky,Neutral,None,Solar Power,Best,Pretty good,Pretty good,Decent,Best,Very good,Great stats!,Absorb,Tackle,Light Screen,Mega Drain,Aestas,212471
+No.0193,Yanma,FEMALE,Lv. 56,Jolly,-Sp.Atk/+Speed,None,Speed Boost,Fantastic,Fantastic,Decent,Decent,Decent,Pretty good,Good stats,Wing Attack,Screech,U-turn,Air Slash,Aestas,212471
+No.0194,Wooper,MALE,Lv. 14,Naughty,-Sp.Def/+Attack,None,Damp,Decent,Decent,Very good,Decent,Decent,Decent,OK stats,Rain Dance,Mud Shot,Mist,Haze,Aestas,612017
+No.0194,Wooper,FEMALE,Lv. 5,Careful,-Sp.Atk/+Sp.Def,None,Water Absorb,Pretty good,Decent,Decent,Pretty good,Pretty good,Pretty good,OK stats,Tail Whip,Mud Shot,Tackle,,Aestas,212471
+No.0195,Quagsire,FEMALE,Lv. 56,Quiet,-Speed/+Sp.Atk,None,Water Absorb,Decent,Decent,Pretty good,Best,Decent,Decent,OK stats,Muddy Water,Amnesia,Toxic,Earthquake,Aestas,212471
+No.0196,Espeon,FEMALE,Lv. 59,Rash,-Sp.Def/+Sp.Atk,None,Synchronize,Best,Decent,Decent,Decent,Decent,Very good,Good stats,Psychic,Psych Up,Future Sight,Last Resort,Aestas,212471
+No.0197,Umbreon,FEMALE,Lv. 41,Brave,-Speed/+Attack,None,Synchronize,Pretty good,Decent,Decent,Very good,Pretty good,Decent,Good stats,Assurance,Moonlight,Guard Swap,Dark Pulse,Aestas,212471
+No.0198,Murkrow,MALE,Lv. 15,Bashful,Neutral,None,Super Luck,Pretty good,Decent,Decent,Pretty good,Decent,Pretty good,OK stats,Astonish,Gust,Haze,Wing Attack,Aestas,212471
+No.0198,Murkrow,FEMALE,Lv. 20,Modest,-Attack/+Sp.Atk,None,Super Luck,Pretty good,Decent,Decent,Best,Decent,Pretty good,Good stats,Wing Attack,Astonish,Assurance,Haze,Aestas,212471
+No.0199,Slowking,MALE,Lv. 65,Lonely,-Defense/+Attack,None,Own Tempo,Best,Very good,Pretty good,Best,Best,Best,Amazing stats!,Psychic,Psych Up,Rain Dance,Heal Pulse,Aestas,612017
+No.0200,Misdreavus,MALE,Lv. 18,Lonely,-Defense/+Attack,None,Levitate,Pretty good,Decent,Very good,Pretty good,Pretty good,Very good,Good stats,Growl,Confusion,Astonish,Confuse Ray,Aestas,212471
+No.0202,Wobbuffet,FEMALE,Lv. 29,Calm,-Attack/+Sp.Def,None,Shadow Tag,Pretty good,Decent,Pretty good,Fantastic,Pretty good,Decent,Good stats,Counter,Mirror Coat,Safeguard,Destiny Bond,Aestas,612017
+No.0204,Pineco,FEMALE,Lv. 28,Naughty,-Sp.Def/+Attack,None,Sturdy,Decent,Decent,Pretty good,Decent,Decent,Pretty good,OK stats,Rapid Spin,Rollout,Curse,Spikes,Aestas,212471
+No.0205,Forretress,FEMALE,Lv. 52,Jolly,-Sp.Atk/+Speed,None,Sturdy,Decent,Pretty good,Decent,Decent,Decent,Pretty good,OK stats,Explosion,lron Defense,Gyro Ball,Double-Edge,Aestas,212471
+No. 0206,Dunsparce,MALE,Lv. 12,Modest,-Attack/+Sp.Atk,None,Serene Grace,Best,Decent,Decent,Pretty good,Best,Decent,Good stats,Mud-Slap,Rollout,Defense Curl,Flail,Aestas,212471
+No.0211,Qwilfish,FEMALE,Lv. 35,Lax,-Sp.Def/+Defense,None,Swift Swim,Pretty good,Best,Decent,Very good,Best,Very good,Amazing stats!,Waterfall,Poison Jab,Pin Missile,Minimize,Aestas,212471
+No.0212,Scizor,FEMALE,Lv. 75,Impish,-Sp.Atk/+Defense,None,Technician,Best,Best,Best,Best,Pretty good,Pretty good,Amazing stats!,Iron Head,X-Scissor,Bullet Punch,Slash,Aestas,212471
+No.0213,Shuckle,MALE,Lv. 22,Sassy,-Speed/+Sp.Def,None,Sturdy,Pretty good,Very good,Very good,Pretty good,Decent,Pretty good,Good stats,Rollout,Struggle Bug,Rock Throw,Safeguard,Aestas,612017
+No.0214,Heracross,MALE,Lv. 63,Serious,Neutral,None,Guts,No good,Pretty good,Decent,Decent,Pretty good,Pretty good,OK stats,Thrash,Swords Dance,Megahorn,Close Combat,Aestas,212471
+No.0214,Heracross,FEMALE,Lv. 45,Docile,Neutral,None,Swarm,Best,No good,Best,Best,Decent,Pretty good,Good stats,Brick Break,Throat Chop,Facade,Pounce,Aestas,212471
+No.0215,Sneasel,MALE,Lv. 55,Naive,-Sp.Def/+Speed,None,Inner Focus,Best,Pretty good,Pretty good,Decent,Very good,Decent,Great stats!,Hone Claws,Beat Up,Agility,Screech,Aestas,212471
+No.0215,Sneasel,FEMALE,Lv. 60,Serious,Neutral,None,Inner Focus,Decent,Pretty good,Pretty good,Pretty good,Pretty good,Decent,OK stats,Beat Up,Agility,Screech,Slash,Aestas,612017
+No.0216,Teddiursa,MALE,Lv. 19,Modest,-Attack/+Sp.Atk,None,Quick Feet,Decent,Decent,Decent,Pretty good,Decent,Decent,OK stats,Baby-Doll Eyes,Fury Swipes,Payback,Sweet Scent,Aestas,212471
+No.0217,Ursaring,MALE,Lv. 37,Sassy,-Speed/+Sp.Def,None,Quick Feet,Pretty good,Decent,Pretty good,Decent,Decent,Decent,OK stats,Baby-Doll Eyes,Fury Swipes,Payback,Sweet Scent,Aestas,212471
+No.0218,Slugma,FEMALE,Lv. 66,Impish,-Sp.Atk/+Defense,None,Flame Body,Pretty good,Pretty good,Pretty good,Pretty good,Decent,Decent,Good stats,Body Slam,Recover,Flamethrower,Earth Power,Aestas,212471
+No.0219,Magcargo,MALE,Lv. 45,Serious,Neutral,None,Weak Armor,Pretty good,Decent,Best,Decent,Best,Best,Great stats!,Flamethrower,Rock Tomb,Harden,Rock Slide,Aestas,212471
+No.0220,Swinub,FEMALE,Lv. 60,Calm,-Attack/+Sp.Def,None,Oblivious,Pretty good,Pretty good,Decent,Decent,Very good,Decent,Good stats,Amnesia,Take Down,Earthquake,Blizzard,Aestas,212471
+No.0221,Piloswine,FEMALE,Lv. 68,Lonely,-Defense/+Attack,None,Snow Cloak,Decent,Fantastic,Decent,Pretty good,Decent,Decent,OK stats,Amnesia,Take Down,Earthquake,Ice Fang,Aestas,212471
+No.0222,Corsola,MALE,Lv. 1,Careful,-Sp.Atk/+Sp.Def,None,Weak Armor,Pretty good,Best,Pretty good,Best,Best,Decent,Great stats!,Tackle,Harden,,,Aestas,612017
+No.0225,Delibird,FEMALE,Lv. 75,Jolly,-Sp.Atk/+Speed,None,Insomnia,Best,Best,Decent,Best,Best,No good,Great stats!,Present,Drill Peck,Ice Punch,Blizzard,Aestas,212471
+No.0228,Houndour,FEMALE,Lv. 19,Sassy,-Speed/+Sp.Def,None,Flash Fire,Decent,Decent,Pretty good,Very good,Decent,Decent,OK stats,Howl,Smog,Roar,Bite,Aestas,212471
+No.0229,Houndoom,FEMALE,Lv. 67,Bold,-Attack/+Defense,None,Early Bird,Best,No good,Pretty good,Pretty good,Pretty good,Pretty good,Good stats,Foul Play,Flamethrower,Crunch,Inferno,Aestas,212471
+No.0231,Phanpy,MALE,Lv. 14,Bashful,Neutral,None,Pickup,Decent,Very good,Decent,Decent,Pretty good,Decent,OK stats,Growl,Defense Curl,Flail,Rollout,Aestas,212471
+No. 0232,Donphan,FEMALE,Lv. 35,Bold,-Attack/+Defense,None,Sturdy,Pretty good,Decent,Decent,Decent,Very good,Decent,OK stats,Assurance,Knock Off,Slam,Stomping Tantrum,Aestas,212471
+No.0234,Stantler,FEMALE,Lv. 20,Careful,-Sp.Atk/+Sp.Def,None,Intimidate,Decent,Decent,Pretty good,Decent,Pretty good,Pretty good,OK stats,Astonish,Hypnosis,Stomp,Sand Attack,Aestas,212471
+No.0241,Miltank,FEMALE,Lv. 28,Careful,-Sp.Atk/+Sp.Def,None,Thick Fat,Best,Very good,Best,Very good,Decent,Decent,Great stats!,Rollout,Tackle,Stomp,Headbutt,Aestas,612017
+No.0242,Blissey,FEMALE,Lv. 75,Impish,-Sp.Atk/+Defense,None,Natural Cure,Best,Best,Best,Pretty good,Best,Pretty good,Amazing stats!,Heal Pulse,Last Resort,Soft-Boiled,Seismic Toss,Aestas,212471
+No.0244,Entei,GENDERLESS,Lv. 70,Timid,-Attack/+Speed,None,Pressure,Decent,Best,Decent,Best,Best,Best,Great stats!,Flamethrower,Scary Face,Extreme Speed,Crunch,Aestas,612017
+No.0245,Suicune,GENDERLESS,Lv. 70,Impish,-Sp.Atk/+Defense,None,Pressure,Best,Best,Decent,Best,Best,Best,Amazing stats!,Liquidation,Extrasensory,Extreme Speed,Rain Dance,Aestas,612017
+No. 0246,Larvitar,FEMALE,Lv. 3,Impish,-Sp.Atk/+Defense,None,Guts,Decent,Decent,Pretty good,Pretty good,Decent,Best,Good stats,Tackle,Leer,Rock Throw,,Aestas,212471
+No. 0247,Pupitar,MALE,Lv. 33,Bold,-Attack/+Defense,None,Shed Skin,Best,Decent,Decent,Best,Fantastic,Fantastic,Great stats!,Tackle,Leer,Iron Defense,,Aestas,212471
+No. 0248,Tyranitar,MALE,Lv. 56,Lonely,-Defense/+Attack,None,Sand Stream,Very good,Decent,Decent,Best,Decent,Best,Good stats,Tackle,Leer,Iron Defense,,Aestas,212471
+No.0252,Treecko,MALE,Lv. 1,Brave,-Speed/+Attack,None,Overgrow,Very good,No good,Decent,Fantastic,Best,Best,Great stats!,Pound,Leer,,,Skull,966810
+No.0254,Sceptile,MALE,Lv. 65,Jolly,-Sp.Atk/+Speed,None,Unburden,Pretty good,Best,Decent,Best,Best,Best,Great stats!,Grass Pledge,Breaking Swipe,Leaf Storm,X-Scissor,Aestas,612017
+No.0261,Poochyena,MALE,Lv. 56,Lonely,-Defense/+Attack,None,Quick Feet,Pretty good,Decent,Decent,Decent,Decent,Pretty good,OK stats,Yawn,Take Down,Sucker Punch,Play Rough,Aestas,212471
+No. 0262,Mightyena,MALE,Lv. 69,Relaxed,-Speed/+Defense,None,Intimidate,Very good,Very good,Decent,Very good,Decent,Decent,Good stats,Yawn,Take Down,Sucker Punch,Play Rough,Aestas,212471
+No. 0263,Zigzagoon,FEMALE,Lv. 61,Calm,-Attack/+Sp.Def,None,Gluttony,Decent,Decent,Decent,Fantastic,Pretty good,Pretty good,OK stats,Scary Face,Counter,Taunt,Double-Edge,Aestas,612017
+No.0264,Linoone,MALE,Lv. 27,Careful,-Sp.Atk/+Sp.Def,None,Pickup,Decent,Pretty good,Very good,Decent,Decent,Pretty good,OK stats,Night Slash,Headbutt,Baby-Doll Eyes,Pin Missile,Aestas,612017
+No.0270,Lotad,FEMALE,Lv. 70,Hasty,-Defense/+Speed,None,Swift Swim,Pretty good,Pretty good,Decent,Decent,No good,Pretty good,OK stats,Giga Drain,Rain Dance,Zen Headbutt,Energy Ball,Ost,320322
+No.0271,Lombre,MALE,Lv. 35,Docile,Neutral,None,Swift Swim,Best,Pretty good,Best,Decent,Very good,Decent,Great stats!,Razor Leaf,Water Pulse,Chilling Water,Fake Out,Aestas,212471
+No.0272,Ludicolo,MALE,Lv. 75,Hasty,-Defense/+Speed,None,Own Tempo,Best,Best,Best,Very good,Best,Best,Amazing stats!,Energy Ball,Hydro Pump,Fake Out,Chilling Water,Aestas,212471
+No.0273,Seedot,FEMALE,Lv. 6,Docile,Neutral,None,Chlorophyll,Decent,Pretty good,Best,Pretty good,Very good,Decent,Good stats,Tackle,Harden,Absorb,Astonish,Aestas,612017
+No.0274,Nuzleaf,FEMALE,Lv. 13,Quiet,-Speed/+Sp.Atk,None,Chlorophyll,Very good,Decent,Pretty good,Decent,Pretty good,Best,Good stats,Absorb,Astonish,Growth,Rollout,Aestas,612017
+No.0275,Shiftry,FEMALE,Lv. 66,Relaxed,-Speed/+Defense,None,Chlorophyll,Decent,Decent,Decent,Pretty good,Decent,Very good,Good stats,Sunny Day,Leaf Blade,Sucker Punch,Explosion,Aestas,212471
+No.0278,Wingull,MALE,Lv. 11,Modest,-Attack/+Sp.Atk,None,Keen Eye,Pretty good,Pretty good,No good,Decent,Decent,Pretty good,OK stats,Growl,Water Gun,Quick Attack,Supersonic,Aestas,612017
+No.0279,Pelipper,FEMALE,Lv. 35,Relaxed,-Speed/+Defense,None,Keen Eye,Decent,Best,Decent,Best,Pretty good,Pretty good,Good stats,Air Slash,Surf,Mist,Supersonic,Aestas,212471
+No. 0280,Ralts,FEMALE,Lv. 6,Brave,-Speed/+Attack,None,Trace,No good,No good,Decent,Decent,Decent,Pretty good,OK stats,Growl,Disarming Voice,Double Team,Confusion,Aestas,212471
+No.0281,Kislia,MALE,Lv. 30,Lax,-Sp.Def/+Defense,None,Trace,Decent,Decent,Decent,Pretty good,Pretty good,Decent,OK stats,Life Dew,Draining Kiss,Psybeam,Hypnosis,Aestas,612017
+No. 0282,Gardevoir,FEMALE,Lv. 43,Docile,Neutral,None,Synchronize,Very good,Best,Best,Best,Decent,Decent,Great stats!,Dazzling Gleam,Heal Pulse,Calm Mind,Psychic,Aestas,612017
+No. 0283,Surskit,MALE,Lv. 19,Brave,-Speed/+Attack,None,Swift Swim,Fantastic,Decent,No good,Decent,Very good,Very good,Good stats,Quick Attack,Sweet Scent,Soak,Bubble Beam,Aestas,212471
+No.0284,Masquerain,MALE,Lv. 23,Mild,-Defense/+Sp.Atk,None,Intimidate,Decent,Very good,Pretty good,Very good,No good,Decent,Good stats,Soak,Gust,Scary Face,Air Cutter,Aestas,212471
+No.0285,Shroomish,FEMALE,Lv. 12,Naive,-Sp.Def/+Speed,None,Poison Heal,Pretty good,Decent,Best,Very good,Pretty good,Decent,Good stats,Headbutt,Bullet Seed,Spore,Absorb,Aestas,212471
+No. 0286,Breloom,MALE,Lv. 30,Careful,-Sp.Atk/+Sp.Def,None,Poison Heal,Best,Pretty good,Best,Pretty good,Best,Decent,Great stats!,Rock Tomb,Mach Punch,Bullet Seed,Spore,Aestas,212471
+No. 0287,Slakoth,MALE,Lv. 1,Hardy,Neutral,None,Truant,No good,Decent,Decent,Pretty good,Pretty good,Decent,OK stats,Scratch,Yawn,Slash,,Chrissy,586175
+No. 0288,Vigoroth,MALE,Lv. 22,Relaxed,-Speed/+Defense,None,Vital Spirit,Decent,Pretty good,Very good,Pretty good,Pretty good,Decent,Great stats!,Encore,Uproar,Fury Swipes,Endure,Aestas,212471
+No. 0289,Slaking,MALE,Lv. 54,Careful,-Sp.Atk/+Sp.Def,None,Truant,Decent,Best,Pretty good,Decent,Very good,Decent,Good stats,Counter,Flail,Fling,Mega Kick,Aestas,212471
+No.0291,Ninjask,FEMALE,Lv. 15,Impish,-Sp.Atk/+Defense,None,Speed Boost,Decent,Decent,Decent,Pretty good,Very good,Decent,OK stats,Scratch,Harden,False Swipe,Agility,Aestas,612017
+No.0293,Whismur,FEMALE,Lv. 27,Hardy,Neutral,None,Soundproof,No good,Decent,Pretty good,Best,Decent,Decent,OK stats,Pound,Astonish,Stomp,Echoed Voice,Aestas,612017
+No. 0296,Makuhita,MALE,Lv. 14,Brave,-Speed/+Attack,None,Thick Fat,Decent,Pretty good,Very good,Decent,Decent,Fantastic,Good stats,Sand Attack,Arm Thrust,Fake Out,Force Palm,Aestas,212471
+No. 0297,Hariyama,MALE,Lv. 41,Docile,Neutral,None,Guts,Pretty good,Very good,Pretty good,Pretty good,Decent,Decent,Good stats,Belly Drum,Detect,Seismic Toss,Focus Punch,Aestas,212471
+No. 0298,Azutrill,MALE,Lv. 7,Bold,-Attack/+Defense,None,Thick Fat,Very good,Very good,Pretty good,Fantastic,Pretty good,Pretty good,Great stats!,Tail Whip,Splash,Helping Hand,Bubble Beam,Aestas,212471
+No.0299,Nosepass,FEMALE,Lv. 65,Careful,-Sp.Atk/+Sp.Def,None,Sturdy,Very good,Very good,Pretty good,Decent,Decent,Very good,Good stats,Earth Power,Stone Edge,Zap Cannon,Lock-On,Aestas,212471
+No. 0302,Sableye,FEMALE,Lv. 41,Sassy,-Speed/+Sp.Def,None,Keen Eye,Decent,Pretty good,Fantastic,Decent,Pretty good,Pretty good,Good stats,Quash,Shadow Claw,Mean Look,Power Gem,Aestas,212471
+No. 0307,Meditite,FEMALE,Lv. 20,Lonely,-Defense/+Attack,None,Pure Power,Decent,Decent,Pretty good,Decent,Pretty good,Pretty good,Good stats,Endure,Feint,Force Palm,Psybeam,Aestas,212471
+No. 0308,Medicham,MALE,Lv. 42,Serious,Neutral,None,Pure Power,Decent,Decent,Pretty good,Very good,Pretty good,Very good,Great stats!,High Jump Kick,Psych Up,Acupressure,Power Trick,Aestas,212471
+No. 0308,Medicham,FEMALE,Lv. 41,Naughty,-Sp.Def/+Attack,None,Pure Power,Very good,No good,Decent,Very good,Decent,Decent,OK stats,High Jump Kick,Psych Up,Acupressure,Power Trick,Aestas,212471
+No. 0309,Electrike,FEMALE,Lv. 15,Gentle,-Defense/+Sp.Def,None,Static,Pretty good,Pretty good,No good,Decent,Pretty good,Decent,OK stats,Thunder Wave,Leer,Howl,Quick Attack,Aestas,612017
+No. 0313,Volbeat,MALE,Lv. 57,Jolly,-Sp.Atk/+Speed,None,Swarm,No good,Decent,Decent,Decent,Very good,Decent,OK stats,Bug Buzz,Play Rough,Double-Edge,Infestation,Aestas,212471
+No.0314,Illumise,FEMALE,Lv. 54,Rash,-Sp.Def/+Sp.Atk,None,Oblivious,Pretty good,Decent,Decent,Pretty good,Decent,Decent,OK stats,Helping Hand,Bug Buzz,Play Rough,Infestation,Aestas,212471
+No.0316,Gulpin,FEMALE,Lv. 14,Quirky,Neutral,None,Sticky Hold,Decent,Very good,Decent,Pretty good,Decent,Fantastic,Good stats,Yawn,Poison Gas,Sludge,Amnesia,Aestas,212471
+No.0317,Swalot,MALE,Lv. 51,Mild,-Defense/+Sp.Atk,None,Sticky Hold,Decent,Decent,Decent,Very good,Pretty good,Decent,OK stats,Swallow,Sludge Bomb,Gastro Acid,Belch,Aestas,212471
+No.0320,Wailmer,FEMALE,Lv. 60,Docile,Neutral,None,Oblivious,Pretty good,Decent,Pretty good,Decent,Decent,Pretty good,OK stats,Rest,Amnesia,Hydro Pump,Water Spout,Aestas,612017
+No. 0322,Numel,FEMALE,Lv. 57,Calm,-Attack/+Sp.Def,None,Simple,Decent,Decent,Best,Decent,Pretty good,Decent,Good stats,Take Down,Earthquake,Flamethrower,Double-Edge,Aestas,212471
+No. 0323,Camerupt,MALE,Lv. 75,Adamant,-Sp.Atk/+Attack,None,Magma Armor,Best,Decent,Best,Best,Best,Very good,Amazing stats!,Flamethrower,Earth Power,Yawn,Eruption,Aestas,212471
+No. 0323,Camerupt,FEMALE,Lv. 55,Modest,-Attack/+Sp.Atk,None,Solid Rock,Decent,Pretty good,Decent,Decent,Decent,Pretty good,OK stats,Curse,Take Down,Yawn,Earthquake,Aestas,212471
+No.0324,Torkoal,FEMALE,Lv. 29,Rash,-Sp.Def/+Sp.Atk,None,Drought,Decent,Decent,No good,Decent,Decent,Decent,OK stats,Clear Smog,Flame Wheel,Protect,Lava Plume,Aestas,212471
+No.0325,Spoink,FEMALE,Lv. 17,Naive,-Sp.Def/+Speed,None,Thick Fat,Decent,Decent,Decent,Decent,Decent,Very good,OK stats,Splash,Confusion,Growl,Psybeam,Aestas,212471
+No. 0326,Grumpig,MALE,Lv. 49,Quiet,-Speed/+Sp.Atk,None,Thick Fat,Best,Decent,Pretty good,Decent,Decent,Pretty good,Good stats,Rest,Snore,Psyshock,Payback,Aestas,212471
+No. 0330,Flygon,FEMALE,Lv. 57,Serious,Neutral,None,Levitate,Decent,Best,Best,Decent,Best,Best,Great stats!,Uproar,Earth Power,Bug Buzz,Dragon Tail,Aestas,612017
+No. 0331,Cacnea,FEMALE,Lv. 22,Hardy,Neutral,None,Sand Veil,Decent,Pretty good,Fantastic,Decent,Pretty good,Decent,Good stats,Sand Attack,Bullet Seed,Power Trip,Ingrain,Aestas,212471
+No. 0332,Cacturne,MALE,Lv. 45,Hardy,Neutral,None,Sand Veil,Pretty good,Decent,Best,Decent,Best,Best,Great stats!,Energy Ball,Payback,Pin Missile,Sand Attack,Aestas,212471
+No. 0332,Cacturne,FEMALE,Lv. 35,Careful,-Sp.Atk/+Sp.Def,None,Sand Veil,Decent,Decent,Very good,Pretty good,Decent,Decent,OK stats,Ingrain,Payback,Spikes,Sucker Punch,Aestas,212471
+No. 0333,Swablu,FEMALE,Lv. 20,Lonely,-Defense/+Attack,None,Natural Cure,Decent,Pretty good,Decent,Very good,Decent,Very good,Good stats,Mist,Fury Attack,Round,Dragon Breath,Aestas,212471
+No. 0334,Altaria,FEMALE,Lv. 50,Calm,-Attack/+Sp.Def,None,Natural Cure,Decent,Decent,Decent,Best,Very good,Decent,Good stats,Cotton Guard,Take Down,Moonblast,Perish Song,Aestas,212471
+No.0335,Zangoose,MALE,Lv. 23,Serious,Neutral,None,Immunity,Pretty good,Pretty good,Decent,Pretty good,Decent,Decent,OK stats,Metal Claw,Hone Claws,Slash,Power Trip,Aestas,212471
+No. 0336,Seviper,MALE,Lv. 20,Relaxed,-Speed/+Defense,None,Shed Skin,Very good,Pretty good,Pretty good,Decent,Pretty good,Pretty good,Great stats!,Poison Tail,Feint,Screech,Glare,Aestas,212471
+No. 0339,Barboach,MALE,Lv. 22,Lonely,-Defense/+Attack,None,Anticipation,Very good,Pretty good,Pretty good,Decent,Pretty good,Best,Great stats!,Rest,Snore,Water Pulse,Amnesia,Aestas,612017
+No.0340,Whiscash,MALE,Lv. 45,Hardy,Neutral,None,Anticipation,Decent,Best,Very good,Best,Best,Best,Amazing stats!,Muddy Water,Earth Power,Tickle,Aqua Tail,Aestas,212471
+No. 0341,Corphish,FEMALE,Lv. 23,Brave,-Speed/+Attack,None,Hyper Cutter,Decent,Very good,Pretty good,Decent,Very good,Decent,Good stats,Taunt,Bubble Beam,Knock Off,Double Hit,Aestas,612017
+No. 0342,Crawdaunt,FEMALE,Lv. 58,Lonely,-Defense/+Attack,None,Hyper Cutter,Pretty good,Very good,Very good,Decent,Pretty good,Very good,Great stats!,Crunch,Crabhammer,Endeavor,Guillotine,Aestas,212471
+No.0344,Claydol,GENDERLESS,Lv. 61,Mild,-Defense/+Sp.Atk,None,Levitate,Pretty good,Decent,Pretty good,Very good,Decent,Decent,OK stats,Guard Split,Hyper Beam,Sandstorm,Explosion,Aestas,612017
+No.0350,Milotic,MALE,Lv. 75,Modest,-Attack/+Sp.Atk,None,Marvel Scale,Best,Best,Decent,Best,Decent,Best,Great stats!,Chilling Water,Surf,Dragon Pulse,Attract,Aestas,212471
+No.0350,Milotic,FEMALE,Lv. 75,Rash,-Sp.Def/+Sp.Atk,None,Competitive,Best,Best,Best,Decent,Very good,Best,Amazing stats!,Chilling Water,Surf,Dragon Pulse,Attract,Aestas,212471
+No.0353,Shuppet,MALE,Lv. 16,Serious,Neutral,None,Frisk,Decent,Decent,Pretty good,Decent,Decent,Pretty good,OK stats,Screech,Night Shade,Spite,Will-O-Wisp,Aestas,212471
+No.0354,Banette,MALE,Lv. 37,Adamant,-Sp.Atk/+Attack,None,Insomnia,Pretty good,Decent,Pretty good,Decent,Decent,Decent,OK stats,Night Shade,Spite,Will-O-Wisp,Shadow Sneak,Aestas,212471
+No.0355,Duskull,MALE,Lv. 60,Careful,-Sp.Atk/+Sp.Def,None,Levitate,Decent,Pretty good,Very good,Pretty good,Decent,Pretty good,Good stats,Hex,Curse,Shadow Ball,Future Sight,Aestas,612017
+No. 0356,Dusclops,FEMALE,Lv. 45,Impish,-Sp.Atk/+Defense,None,Pressure,Best,Decent,Best,Best,Very good,Decent,Great stats!,Shadow Punch,Will-O-Wisp,Hex,Dark Pulse,Aestas,212471
+No. 0357,Tropius,MALE,Lv. 49,Quirky,Neutral,None,Chlorophyll,Pretty good,Decent,Decent,Decent,Pretty good,Best,OK stats,Wide Guard,Air Slash,Body Slam,Outrage,Aestas,212471
+No. 0358,Chimecho,FEMALE,Lv. 68,Mild,-Defense/+Sp.Atk,None,Levitate,Pretty good,Decent,Decent,Pretty good,Very good,Pretty good,Good stats,Uproar,Safeguard,Double-Edge,Heal Pulse,Aestas,212471
+No.0359,Absol,FEMALE,Lv. 68,Hardy,Neutral,None,Pressure,Decent,Best,Best,Best,Best,Pretty good,Great stats!,False Swipe,Night Slash,Slash,Fire Blast,Aestas,612017
+No. 0361,Snorunt,MALE,Lv. 39,Serious,Neutral,None,Ice Body,Decent,Pretty good,Decent,Decent,Very good,Decent,OK stats,Protect,Icy Wind,Frost Breath,Bite,Aestas,212471
+No. 0362,Glalie,FEMALE,Lv. 52,Serious,Neutral,None,Inner Focus,Pretty good,Decent,Decent,Decent,No good,Pretty good,OK stats,Frost Breath,Bite,Ice Fang,Snowscape,Aestas,212471
+No.0370,Luvdise,FEMALE,Lv. 16,Rash,-Sp.Def/+Sp.Atk,None,Swift Swim,Decent,Pretty good,Pretty good,Decent,Pretty good,Pretty good,Good stats,Charm,Water Gun,Agility,Wish,Aestas,212471
+No. 0371,Bagon,FEMALE,Lv. 19,Sassy,-Speed/+Sp.Def,None,Rock Head,No good,Decent,Decent,Pretty good,Pretty good,Very good,Good stats,Ember,Bite,Dragon Breath,Headbutt,Aestas,212471
+No. 0372,Shelgon,MALE,Lv. 32,Bashful,Neutral,None,Rock Head,No good,Pretty good,No good,Decent,Decent,Best,OK stats,Bite,Dragon Breath,Headbutt,Scary Face,Aestas,212471
+No. 0373,Salamence,MALE,Lv. 52,Sassy,-Speed/+Sp.Def,None,Intimidate,Fantastic,Decent,Pretty good,Decent,Pretty good,Pretty good,Good stats,Bite,Dragon Breath,Headbutt,Scary Face,Aestas,212471
+No.0374,Beldum,GENDERLESS,Lv. 28,Lonely,-Defense/+Attack,None,Clear Body,Best,Best,Decent,Very good,Pretty good,Best,Great stats!,Tackle,,ee,,Aestas,612017
+No. 0381,Latios,MALE,Lv. 70,Hasty,-Defense/+Speed,None,Levitate,Decent,Best,Best,Decent,Best,Best,Great stats!,Dragon Dance,Dragon Pulse,Zen Headbutt,Aura Sphere,Aestas,612017
+No. 0384,Rayquaza,GENDERLESS,Lv. 70,Lax,-Sp.Def/+Defense,None,Air Lock,Best,Best,Best,Best,Pretty good,Very good,Amazing stats!,Dragon Ascent,Brutal Swing,Extreme Speed,Twister,Aestas,612017
+No. 0387,Turtwig,MALE,Lv. 5,Adamant,-Sp.Atk/+Attack,None,Shell Armor,Best,Best,Pretty good,Pretty good,Pretty good,Pretty good,Great stats!,Tackle,Withdraw,,,Shinryuu27,938944
+No. 0390,Chimchar,MALE,Lv. 5,Hasty,-Defense/+Speed,None,Iron Fist,Pretty good,Best,Pretty good,Pretty good,Pretty good,Best,Great stats!,Scratch,Leer,,,Shinryuu27,938944
+No. 0392,Infernape,MALE,Lv. 44,Serious,Neutral,None,Blaze,Best,No good,Decent,Pretty good,Decent,Decent,OK stats,Fury Swipes,Flame Wheel,Feint,Close Combat,Aestas,212471
+No. 0393,Piplup,MALE,Lv. 5,Modest,-Attack/+Sp.Atk,None,Defiant,Best,Pretty good,Pretty good,Best,Pretty good,Pretty good,Great stats!,Pound,Growl,,:-,Shinryuu27,938944
+No. 0396,Starly,FEMALE,Lv. 12,Relaxed,-Speed/+Defense,None,Keen Eye,Pretty good,Pretty good,Best,Pretty good,Decent,Decent,Good stats,Aerial Ace,Quick Attack,Double Team,Growl,Aestas,212471
+No. 0397,Staravia,MALE,Lv. 35,Timid,-Attack/+Speed,None,Intimidate,Pretty good,No good,Decent,Pretty good,Very good,Decent,OK stats,Endeavor,Whirlwind,Aerial Ace,Take Down,Aestas,212471
+No. 0398,Staraptor,FEMALE,Lv. 53,Calm,-Attack/+Sp.Def,None,Intimidate,Decent,Decent,Pretty good,Pretty good,Decent,Pretty good,OK stats,Aerial Ace,Take Down,Agility,Brave Bird,Aestas,212471
+No.0401,Kricketot,MALE,Lv. 10,Bashful,Neutral,None,Shed Skin,Pretty good,Decent,Pretty good,Decent,Decent,Very good,Good stats,Tackle,Growl,Struggle Bug,,Aestas,212471
+No. 0402,Kricketune,FEMALE,Lv. 49,Mild,-Defense/+Sp.Atk,None,Swarm,Pretty good,Decent,Very good,Pretty good,Pretty good,Decent,Good stats,Taunt,Night Slash,Sticky Web,Bug Buzz,Aestas,212471
+No. 0403,Shinx,MALE,Lv. 14,Modest,-Attack/+Sp.Atk,None,Rivalry,Decent,Pretty good,Pretty good,Best,Best,Pretty good,Great stats!,Ice Fang,Spark,Charge,Thunder Wave,Aestas,212471
+No. 0404,Luxio,FEMALE,Lv. 21,Lonely,-Defense/+Attack,None,Intimidate,Decent,Pretty good,Pretty good,Pretty good,Decent,Decent,OK stats,Thunder Shock,Charge,Bite,Spark,Aestas,212471
+No. 0405,Luxray,FEMALE,Lv. 50,Timid,-Attack/+Speed,None,Intimidate,Pretty good,Very good,Decent,Decent,No good,Fantastic,Good stats,Roar,Volt Switch,Scary Face,Thunder Wave,Aestas,212471
+No. 0406,Budew,MALE,Lv. 7,Naive,-Sp.Def/+Speed,None,Natural Cure,Decent,Decent,Pretty good,Pretty good,Very good,Pretty good,Good stats,Absorb,Growth,Stun Spore,Worry Seed,Aestas,612017
+No.0415,Combee,FEMALE,Lv. 60,Brave,-Speed/+Attack,None,Honey Gather,Decent,Decent,Decent,Decent,Decent,Pretty good,OK stats,Sweet Scent,Gust,Struggle Bug,Bug Bite,Aestas,612017
+No.0415,Combee,FEMALE,Lv. 60,Lonely,-Defense/+Attack,None,Honey Gather,Best,Pretty good,Decent,Decent,Best,Pretty good,Good stats,Gust,Sweet Scent,Bug Bite,Struggle Bug,Aestas,612017
+No.0416,Vespiquen,FEMALE,Lv. 25,Naive,-Sp.Def/+Speed,None,Pressure,Fantastic,Decent,Decent,No good,Decent,Decent,OK stats,Fell Stinger,Fury Swipes,Swagger,Roost,Aestas,212471
+No.0417,Pachirisu,FEMALE,Lv. 18,Naive,-Sp.Def/+Speed,None,Pickup,No good,Decent,Pretty good,Decent,Best,Decent,OK stats,Quick Attack,Charm,Spark,Endure,Aestas,212471
+No. 0418,Buizel,MALE,Lv. 21,Gentle,-Defense/+Sp.Def,None,Swift Swim,Decent,Pretty good,Decent,Very good,Decent,Pretty good,OK stats,Quick Attack,Water Gun,Bite,Swift,Aestas,212471
+No.0419,Floatzel,FEMALE,Lv. 45,Brave,-Speed/+Attack,None,Swift Swim,Best,Very good,Best,Decent,Best,Decent,Great stats!,Liquidation,Double Hit,Water Pulse,Bite,Aestas,212471
+No. 0422,Shellos,FEMALE,Lv. 20,Careful,-Sp.Atk/+Sp.Def,None,Sticky Hold,Pretty good,Decent,Fantastic,Decent,Decent,Decent,OK stats,Harden,Recover,Water Pulse,Ancient Power,Aestas,612017
+No. 0423,Gastrodon,FEMALE,Lv. 34,Relaxed,-Speed/+Defense,None,Sticky Hold,Decent,Pretty good,Decent,Very good,Decent,Decent,OK stats,Harden,Recover,Water Pulse,Ancient Power,Aestas,212471
+No.0424,Ambipom,MALE,Lv. 75,Naive,-Sp.Def/+Speed,None,Skill Link,Best,Best,Very good,Best,Best,Best,Amazing stats!,Double Hit,Ice Punch,Fire Punch,Thunder Punch,Aestas,212471
+No.0425,Drifloon,MALE,Lv. 1,Modest,-Attack/+Sp.Atk,None,Unburden,Best,Pretty good,Pretty good,Decent,Pretty good,Pretty good,Great stats!,Minimize,Astonish,,,Aestas,212471
+No. 0426,Drifblim,MALE,Lv. 28,Careful,-Sp.Atk/+Sp.Def,None,Unburden,Pretty good,Best,Very good,Best,Decent,Very good,Great stats!,Minimize,Astonish,Phantom Force,,Aestas,212471
+No. 0429,Mismagius,MALE,Lv. 20,Modest,-Attack/+Sp.Atk,None,Levitate,Decent,Pretty good,Decent,Very good,Very good,Pretty good,Good stats,Confusion,Astonish,Confuse Ray,Mean Look,Aestas,212471
+No. 0430,Honchkrow,MALE,Lv. 51,Quiet,-Speed/+Sp.Atk,None,Super Luck,Decent,Decent,Decent,Very good,Fantastic,Decent,OK stats,Quash,Swagger,Nasty Plot,Foul Play,Aestas,212471
+No. 0433,Chingling,FEMALE,Lv. 68,Relaxed,-Speed/+Defense,None,Levitate,Decent,Pretty good,Decent,Very good,Decent,Pretty good,Good stats,Yawn,Last Resort,Entrainment,Uproar,Aestas,212471
+No. 0434,Stunky,MALE,Lv. 13,Sassy,-Speed/+Sp.Def,None,Stench,Pretty good,Decent,Pretty good,Fantastic,Decent,Pretty good,Good stats,Feint,Smokescreen,Acid Spray,Fury Swipes,Aestas,612017
+No. 0435,Skuntank,MALE,Lv. 35,Naive,-Sp.Def/+Speed,None,Aftermath,Best,Best,Decent,Fantastic,Best,Pretty good,Amazing stats!,Scratch,Poison Gas,Flamethrower,,Aestas,212471
+No. 0436,Bronzor,GENDERLESS,Lv. 40,Hardy,Neutral,None,Heatproof,Decent,Decent,Best,Decent,Pretty good,Best,Good stats,Gyro Ball,Payback,Extrasensory,Confusion,Aestas,612017
+No. 0437,Bronzong,GENDERLESS,Lv. 46,Calm,-Attack/+Sp.Def,None,Heatproof,Best,Best,Best,Best,Decent,Best,Amazing stats!,Tackle,Confusion,Heavy Slam,Extrasensory,Aestas,612017
+No. 0438,Bonsly,MALE,Lv. 60,Bashful,Neutral,None,Rock Head,Very good,Very good,Decent,Very good,Very good,Decent,Great stats!,Rock Slide,Low Kick,Counter,Double-Edge,Isaiker,824300
+No. 0439,Mime Jr.,FEMALE,Lv. 60,Naive,-Sp.Def/+Speed,None,Soundproof,Very good,Pretty good,Pretty good,Pretty good,Pretty good,Pretty good,Great stats!,Sucker Punch,Dazzling Gleam,Psychic,Teeter Dance,Aestas,612017
+No.0440,Happiny,FEMALE,Lv. 17,Lonely,-Defense/+Attack,None,Natural Cure,Pretty good,Very good,Very good,Best,Pretty good,Very good,Amazing stats!,Defense Curl,Sweet Kiss,Disarming Voice,Covet,Aestas,612017
+No. 0442,Spiritomb,MALE,Lv. 49,Careful,-Sp.Atk/+Sp.Def,None,Pressure,Pretty good,Decent,Decent,Decent,Decent,Very good,OK stats,Memento,Sucker Punch,Curse,Shadow Ball,Aestas,212471
+No. 0443,Gible,MALE,Lv. 35,Impish,-Sp.Atk/+Defense,None,Rough Skin,Decent,Very good,Pretty good,Best,Pretty good,Best,Great stats!,Dragon Claw,Bulldoze,Bite,Rock Tomb,Aestas,212471
+No.0444,Gabite,FEMALE,Lv. 42,Gentle,-Defense/+Sp.Def,None,Sand Veil,Pretty good,Pretty good,Pretty good,Pretty good,Decent,Decent,Good stats,Bulldoze,Bite,Slash,Dragon Claw,Aestas,212471
+No.0445,Garchomp,MALE,Lv. 48,Quirky,Neutral,None,Sand Veil,Decent,Decent,Pretty good,Very good,Very good,Pretty good,Good stats,Bite,Slash,Dragon Claw,Dig,Aestas,212471
+No. 0446,Munchlax,FEMALE,Lv. 38,Brave,-Speed/+Attack,None,Pickup,Decent,Decent,Decent,Best,Best,Decent,Good stats,Body Slam,Covet,Tackle,Bite,Aestas,612017
+No. 0447,Riolu,MALE,Lv. 61,Timid,-Attack/+Speed,None,Inner Focus,Pretty good,Decent,Decent,Decent,Decent,Decent,OK stats,Helping Hand,Copycat,Final Gambit,Reversal,Blazer,764716
+No. 0448,Lucario,FEMALE,Lv. 75,Careful,-Sp.Atk/+Sp.Def,None,Steadfast,Very good,Decent,Best,Decent,Best,Best,Great stats!,Ice Punch,Close Combat,Meteor Mash,Bullet Punch,Aestas,212471
+No. 0449,Hippopotas,MALE,Lv. 33,Lax,-Sp.Def/+Defense,None,Sand Stream,Decent,Pretty good,Decent,Pretty good,Pretty good,Very good,Good stats,Crunch,Sandstorm,Take Down,Roar,Aestas,212471
+No.0450,Hippowdon,FEMALE,Lv. 40,Serious,Neutral,None,Sand Stream,Decent,Decent,Decent,Pretty good,Decent,Best,Good stats,Sandstorm,Take Down,Roar,Rest,Aestas,212471
+No.0451,Skorupi,FEMALE,Lv. 60,Quiet,-Speed/+Sp.Atk,None,Battle Armor,Decent,Pretty good,Pretty good,Decent,Decent,Decent,OK stats,Cross Poison,X-Scissor,Acupressure,Crunch,Aestas,612017
+No.0453,Croagunk,MALE,Lv. 50,Hardy,Neutral,None,Dry Skin,Pretty good,Decent,Very good,Decent,Pretty good,Decent,OK stats,Toxic,Nasty Plot,Sludge Bomb,Belch,Aestas,212471
+No.0454,Toxicroak,FEMALE,Lv. 51,Modest,-Attack/+Sp.Atk,None,Dry Skin,Pretty good,Decent,Very good,Decent,Very good,Decent,Good stats,Poison Jab,Toxic,Nasty Plot,Sludge Bomb,Aestas,212471
+No. 0456,Finneon,FEMALE,Lv. 35,Hardy,Neutral,None,Storm Drain,Decent,Pretty good,Decent,Decent,Decent,Pretty good,OK stats,Water Pulse,Attract,Safeguard,Aqua Ring,Aestas,212471
+No. 0457,Lumineon,MALE,Lv. 45,Sassy,-Speed/+Sp.Def,None,Storm Drain,Best,Decent,Best,Best,Decent,Pretty good,Good stats,Surf,Aurora Beam,Psybeam,Safeguard,Aestas,212471
+No. 0457,Lumineon,FEMALE,Lv. 38,Mild,-Defense/+Sp.Atk,None,Storm Drain,Decent,Decent,Decent,Very good,Decent,Decent,OK stats,Water Pulse,Attract,Safeguard,Aqua Ring,Aestas,212471
+No. 0461,Weavile,FEMALE,Lv. 75,Naive,-Sp.Def/+Speed,None,Pressure,Pretty good,Best,Decent,Best,Best,Best,Great stats!,Ice Punch,Night Slash,Taunt,Facade,Aestas,212471
+No.0459,Snover,MALE,Lv. 60,Lonely,-Defense/+Attack,None,Snow Warning,Decent,Pretty good,Decent,Pretty good,Decent,Decent,OK stats,Ingrain,Wood Hammer,Blizzard,Sheer Cold,Aestas,612017
+No.0459,Snover,FEMALE,Lv. 39,Hardy,Neutral,None,Snow Warning,Decent,Decent,Pretty good,Very good,Pretty good,Decent,Good stats,Razor Leaf,Icy Wind,Swagger,Ingrain,Aestas,212471
+No. 0460,Abomasnow,MALE,Lv. 41,Careful,-Sp.Atk/+Sp.Def,None,Snow Warning,Fantastic,Decent,Pretty good,No good,Decent,Very good,Good stats,Razor Leaf,Icy Wind,Swagger,Ingrain,Aestas,212471
+No. 0462,Magnezone,GENDERLESS,Lv. 57,Lonely,-Defense/+Attack,None,Sturdy,Very good,Decent,Pretty good,Decent,Pretty good,Decent,Good stats,Flash Cannon,Discharge,Metal Sound,Light Screen,Aestas,212471
+No. 0469,Yanmega,MALE,Lv. 75,Quirky,Neutral,None,Speed Boost,Decent,Best,Best,Decent,Best,Best,Great stats!,Bug Buzz,Air Slash,Quick Attack,Hypnosis,Aestas,212471
+No.0470,Leafeon,MALE,Lv. 54,Quirky,Neutral,None,Leaf Guard,Pretty good,Decent,Pretty good,Decent,Decent,Pretty good,OK stats,Sunny Day,Giga Drain,Swords Dance,Leaf Blade,Aestas,212471
+No. 0471,Glaceon,MALE,Lv. 50,Docile,Neutral,None,Snow Cloak,Decent,Pretty good,Pretty good,Best,Best,Best,Great stats!,Ice Beam,Snowscape,Curse,Calm Mind,Aestas,212471
+No. 0472,Gliscor,MALE,Lv. 64,Lonely,-Defense/+Attack,None,Sand Veil,Pretty good,Pretty good,Pretty good,Decent,Decent,Decent,Good stats,Screech,X-Scissor,Crabhammer,Swords Dance,ax,524815
+No. 0473,Mamoswine,MALE,Lv. 75,Hardy,Neutral,None,Thick Fat,Best,Best,Best,Very good,Decent,Best,Amazing stats!,Earthquake,Blizzard,Ice Shard,Ancient Power,Aestas,212471
+No.0475,Gallade,MALE,Lv. 35,Naive,-Sp.Def/+Speed,None,Justified,Pretty good,Best,No good,Decent,Decent,Best,OK stats,Dazzling Gleam,Psybeam,Calm Mind,Charm,Aestas,212471
+No. 0476,Probopass,FEMALE,Lv. 75,Hasty,-Defense/+Speed,None,Sturdy,Best,Very good,Best,Best,Best,Pretty good,Amazing stats!,Body Press,Power Gem,Flash Cannon,Harden,Aestas,212471
+No. 0477,Dusknoir,MALE,Lv. 71,Quirky,Neutral,None,Pressure,Decent,Decent,Decent,Pretty good,Pretty good,Pretty good,OK stats,Hex,Curse,Shadow Ball,Future Sight,gio,711876
+No. 0478,Froslass,FEMALE,Lv. 45,Adamant,-Sp.Atk/+Attack,None,Snow Cloak,Decent,Pretty good,Pretty good,Decent,Very good,Decent,Good stats,Icy Wind,Frost Breath,Confuse Ray,Snowscape,Aestas,212471
+No. 0479,Rotom,GENDERLESS,Lv. 28,Careful,-Sp.Atk/+Sp.Def,None,Levitate,Fantastic,Decent,Very good,Decent,Pretty good,Decent,Good stats,Confuse Ray,Charge,Electro Ball,Thunder Wave,Aestas,212471
+No. 0479,Rotom,GENDERLESS,Lv. 21,Docile,Neutral,None,Levitate,Pretty good,Decent,Decent,Pretty good,Pretty good,Very good,Good stats,Thunder Shock,Confuse Ray,Charge,Electro Ball,Aestas,212471
+No. 0479,Rotom,GENDERLESS,Lv. 75,Brave,-Speed/+Attack,None,Levitate,Best,Best,Best,Best,Decent,Decent,Great stats!,Discharge,Air Slash,Hex,Thunder Wave,Aestas,212471
+No. 0479,Rotom,GENDERLESS,Lv. 50,Naughty,-Sp.Def/+Attack,None,Levitate,Decent,Decent,Decent,Very good,Pretty good,Pretty good,OK stats,Leaf Storm,Discharge,Hex,Charge,Aestas,612017
+No. 0487,Giratina,GENDERLESS,Lv. 70,Quirky,Neutral,None,Pressure,Best,Decent,Best,Best,Pretty good,Best,Great stats!,Dragon Claw,Scary Face,Shadow Ball,Ancient Power,Aestas,612017
+No. 0506,Lillipup,MALE,Lv. 16,Jolly,-Sp.Atk/+Speed,None,Vital Spirit,Very good,Very good,Pretty good,Decent,Best,Decent,Great stats!,Retaliate,Bite,Tackle,Work Up,Aestas,612017
+No. 0509,Purrloin,FEMALE,Lv. 60,Timid,-Attack/+Speed,None,Limber,Decent,Decent,Decent,Pretty good,Very good,Decent,OK stats,Sucker Punch,Nasty Plot,Night Slash,Play Rough,Aestas,612017
+No.0510,Liepard,FEMALE,Lv. 60,Careful,-Sp.Atk/+Sp.Def,None,Unburden,Decent,Decent,Very good,Decent,Very good,Decent,OK stats,Sucker Punch,Nasty Plot,Night Slash,Play Rough,Aestas,612017
+No.0520,Tranquill,FEMALE,Lv. 62,Rash,-Sp.Def/+Sp.Atk,None,Super Luck,Pretty good,Decent,Decent,Decent,Pretty good,Decent,OK stats,Air Slash,Roost,Tailwind,Sky Attack,Aestas,612017
+No.0521,Unfezant,MALE,Lv. 62,Hasty,-Defense/+Speed,None,Super Luck,Pretty good,Decent,Pretty good,Pretty good,Decent,Decent,OK stats,Air Slash,Roost,Tailwind,Sky Attack,Aestas,612017
+No.0521,Unfezant,FEMALE,Lv. 62,Quiet,-Speed/+Sp.Atk,None,Big Pecks,Very good,Pretty good,Decent,Pretty good,Decent,Pretty good,Good stats,Air Slash,Roost,Tailwind,Sky Attack,Aestas,612017
+No.0524,Roggenrola,MALE,Lv. 60,Adamant,-Sp.Atk/+Attack,None,Sturdy,Decent,Pretty good,Decent,Pretty good,Pretty good,Decent,OK stats,Rock Blast,Sandstorm,Stone Edge,Explosion,Aestas,612017
+No. 0527,Woobat,FEMALE,Lv. 14,Adamant,-Sp.Atk/+Attack,None,Klutz,Decent,Pretty good,Very good,Decent,Pretty good,No good,Good stats,Gust,Attract,Contusion,Endeavor,Aestas,612017
+No. 0529,Drilbur,FEMALE,Lv. 12,Rash,-Sp.Def/+Sp.Atk,None,Sand Rush,Decent,Decent,Decent,Decent,Decent,Decent,OK stats,Rapid Spin,Scratch,Hone Claws,Fury Swipes,Aestas,612017
+No. 0532,Timburr,MALE,Lv. 26,Bashful,Neutral,None,Guts,Best,Decent,Pretty good,Decent,Decent,Decent,Good stats,Low Kick,Rock Throw,Pound,Rock Slide,Aestas,612017
+No. 0533,Gurdurr,FEMALE,Lv. 64,Naive,-Sp.Def/+Speed,None,Sheer Force,Pretty good,Very good,Pretty good,Pretty good,Decent,Decent,Good stats,Hammer Arm,Stone Edge,Superpower,Focus Punch,Aestas,612017
+No. 0534,Conkeldurr,MALE,Lv. 68,Docile,Neutral,None,Guts,Decent,Pretty good,Decent,Decent,Pretty good,Decent,OK stats,Hammer Arm,Stone Edge,Superpower,Focus Punch,3,431869
+No.0535,Tympole,MALE,Lv. 18,Serious,Neutral,None,Hydration,Decent,Pretty good,Decent,Decent,Best,Pretty good,OK stats,Mud Shot,Acid,Echoed Voice,Round,Aestas,612017
+No. 0537,Seismitoad,MALE,Lv. 60,Relaxed,-Speed/+Defense,None,Swift Swim,Decent,Best,Decent,Decent,Decent,Decent,OK stats,Uproar,Aqua Ring,Hyper Voice,Muddy Water,Aestas,612017
+No. 0540,Sewaddle,FEMALE,Lv. 56,Naughty,-Sp.Def/+Attack,None,Swarm,Decent,Decent,Fantastic,Decent,Very good,Very good,Good stats,Endure,Sticky Web,Bug Buzz,Flail,Aestas,212471
+No.0541,Swadloon,FEMALE,Lv. 68,Sassy,-Speed/+Sp.Def,None,Chlorophyll,Pretty good,Decent,Best,Fantastic,Decent,Pretty good,Great stats!,Endure,Sticky Web,Bug Buzz,Flail,Aestas,212471
+No. 0542,Leavanny,MALE,Lv. 65,Timid,-Attack/+Speed,None,Chlorophyll,Decent,Decent,Decent,Decent,Pretty good,Decent,OK stats,X-Scissor,Entrainment,Swords Dance,Leaf Storm,Aestas,212471
+No. 0548,Petilil,FEMALE,Lv. 1,Modest,-Attack/+Sp.Atk,None,Chlorophyll,Very good,Best,Best,Best,Pretty good,Decent,Great stats!,Absorb,Growth,,,F2el,827170
+No. 0549,Lilligant,FEMALE,Lv. 45,Relaxed,-Speed/+Defense,None,Chlorophyll,Best,Best,Best,Best,Decent,Pretty good,Great stats!,Energy Ball,Pollen Puff,Petal Blizzard,Charm,Aestas,212471
+No.0550,Basculin,MALE,Lv. 64,Docile,Neutral,None,Reckless,Pretty good,Decent,Decent,Decent,Very good,Very good,Good stats,Aqua Tail,Thrash,Double-Edge,Head Smash,Aestas,612017
+No.0550,Basculin,MALE,Lv. 40,Lonely,-Defense/+Attack,None,Adaptability,Decent,Decent,Decent,Pretty good,Decent,Decent,OK stats,Soak,Crunch,Take Down,Final Gambit,Aestas,212471
+No.0550,Basculin,FEMALE,Lv. 35,Relaxed,-Speed/+Defense,None,Adaptability,No good,Very good,Best,Best,Pretty good,Pretty good,Great stats!,Aqua Jet,Bite,Headbutt,Last Respects,Aestas,212471
+No.0551,Sandile,FEMALE,Lv. 24,Lonely,-Defense/+Attack,None,Intimidate,No good,Pretty good,Pretty good,Pretty good,Pretty good,Decent,OK stats,Bite,Torment,Dig,Swagger,Aestas,212471
+No.0552,Krokorok,FEMALE,Lv. 31,Docile,Neutral,None,Intimidate,Decent,Very good,Decent,Decent,Decent,Best,OK stats,Bite,Torment,Dig,Swagger,Aestas,212471
+No.0553,Krookodile,FEMALE,Lv. 40,Hardy,Neutral,None,Moxie,Decent,Pretty good,Pretty good,Decent,Decent,Pretty good,Good stats,Bite,Torment,Dig,Swagger,Aestas,212471
+No. 0558,Crustle,MALE,Lv. 40,Hasty,-Defense/+Speed,None,Shell Armor,Pretty good,Very good,Decent,Pretty good,Pretty good,Pretty good,Good stats,X-Scissor,Rock Blast,Stealth Rock,Rock Slide,Aestas,612017
+No.0559,Scraggy,FEMALE,Lv. 21,Naive,-Sp.Def/+Speed,None,Moxie,Decent,Decent,Very good,Pretty good,Very good,Decent,Good stats,Headbutt,Sand Attack,Facade,Protect,Aestas,612017
+No.0570,Zorua,MALE,Lv. 31,Serious,Neutral,None,Illusion,Pretty good,Decent,Decent,Decent,Very good,Decent,OK stats,Scary Face,Taunt,Knock Off,Fake Tears,Aestas,212471
+No.0570,Zorua,MALE,Lv. 1,Modest,-Attack/+Sp.Atk,None,Illusion,Decent,Pretty good,Decent,Decent,Fantastic,Very good,Good stats,Scratch,Leer,Extrasensory,,Icaro,630939
+No.0571,Zoroark,MALE,Lv. 30,Adamant,-Sp.Atk/+Attack,None,Illusion,Best,Decent,Very good,Decent,Best,Fantastic,Great stats!,Fury Swipes,Scary Face,Taunt,Knock Off,Aestas,212471
+No.0571,Zoroark,MALE,Lv. 100,Bashful,-Attack/+Speed,None,Illusion,Best,Best,Very good,Pretty good,Decent,Best,Amazing stats!,Shadow Ball,Grass Knot,Flamethrower,Trick,Aestas,212471
+No. 0572,Minccino,FEMALE,Lv. 18,Quiet,-Speed/+Sp.Atk,None,Cute Charm,Best,Decent,Decent,Pretty good,Decent,Decent,OK stats,Echoed Voice,Pound,Charm,Sing,Aestas,612017
+No. 0572,Minccino,FEMALE,Lv. 21,Bold,-Attack/+Defense,None,Cute Charm,Fantastic,Pretty good,Fantastic,Fantastic,Decent,Decent,Great stats!,Echoed Voice,Sing,Charm,Swift,Aestas,612017
+No. 0576,Gothitelle,FEMALE,Lv. 42,Jolly,-Sp.Atk/+Speed,None,Frisk,Decent,Very good,Very good,Pretty good,Very good,Decent,Good stats,Psyshock,Hypnosis,Fake Tears,Psych Up,Aestas,212471
+No. 0577,Solosis,MALE,Lv. 1,Bold,-Attack/+Defense,None,Magic Guard,Pretty good,Pretty good,Best,Best,Very good,Best,Amazing stats!,Protect,Confusion, �,,Aestas,612017
+No. 0578,Duosion,MALE,Lv. 32,Brave,-Speed/+Attack,None,Magic Guard,Pretty good,Best,Decent,Best,Best,Decent,Great stats!,Protect,Confusion,Recover,Endeavor,Aestas,612017
+No.0579,Reuniclus,FEMALE,Lv. 41,Docile,Neutral,None,Magic Guard,Best,Pretty good,Best,Best,Pretty good,Best,Amazing stats!,Psybeam,Psychic,Recover,Endeavor,Aestas,612017
+No. 0580,Ducklett,FEMALE,Lv. 65,Quiet,-Speed/+Sp.Atk,None,Keen Eye,Pretty good,Pretty good,Very good,Pretty good,Decent,Decent,Good stats,Rain Dance,Tailwind,Brave Bird,Hurricane,Aestas,212471
+No. 0581,Swanna,FEMALE,Lv. 63,Careful,-Sp.Atk/+Sp.Def,None,Keen Eye,Pretty good,Decent,No good,Very good,Decent,Decent,OK stats,Rain Dance,Tailwind,Brave Bird,Hurricane,Aestas,212471
+No. 0583,Vanillish,MALE,Lv. 61,Hardy,Neutral,None,Snow Cloak,Fantastic,Decent,Very good,Decent,Very good,Decent,Good stats,Mirror Coat,Ice Beam,Blizzard,Sheer Cold,Aestas,612017
+No. 0585,Deerling,MALE,Lv. 20,Bashful,Neutral,None,Sap Sipper,Pretty good,Decent,Pretty good,Decent,Best,Pretty good,Good stats,Double Kick,Leech Seed,Bullet Seed,Take Down,Aestas,212471
+No. 0585,Deerling,FEMALE,Lv. 21,Brave,-Speed/+Attack,None,Chlorophyll,Pretty good,Pretty good,Pretty good,Best,Decent,Decent,Good stats,Double Kick,Leech Seed,Bullet Seed,Take Down,Aestas,212471
+No. 0585,Deerling,MALE,Lv. 28,Modest,-Attack/+Sp.Atk,None,Sap Sipper,Pretty good,Decent,Decent,Decent,Decent,Very good,OK stats,Bullet Seed,Take Down,Zen Headbutt,Energy Ball,Aestas,212471
+No. 0585,Deerling,FEMALE,Lv. 41,Careful,-Sp.Atk/+Sp.Def,None,Chlorophyll,Pretty good,Pretty good,Pretty good,Decent,Decent,Pretty good,OK stats,Zen Headbutt,Energy Ball,Charm,Double-Edge,Aestas,212471
+No. 0586,Sawsbuck,MALE,Lv. 45,Bold,-Attack/+Defense,None,Serene Grace,Best,Best,Decent,Best,Decent,Pretty good,Great stats!,Energy Ball,Double-Edge,Double Kick,Charm,Aestas,212471
+No. 0586,Sawsbuck,MALE,Lv. 36,Hardy,Neutral,None,Sap Sipper,Decent,Decent,Decent,Decent,Decent,Very good,OK stats,Double Kick,Leech Seed,Bullet Seed,Take Down,Aestas,212471
+No. 0586,Sawsbuck,FEMALE,Lv. 34,Rash,-Sp.Def/+Sp.Atk,None,Sap Sipper,Pretty good,Pretty good,Very good,Best,Very good,Pretty good,Great stats!,Bullet Seed,Horn Leech,Zen Headbutt,Energy Ball,Aestas,212471
+No. 0586,Sawsbuck,MALE,Lv. 38,Adamant,-Sp.Atk/+Attack,None,Chlorophyll,Fantastic,Very good,Pretty good,No good,Best,Decent,Good stats,Take Down,Zen Headbutt,Energy Ball,Charm,Aestas,212471
+No. 0588,Karrablast,MALE,Lv. 37,Hardy,Neutral,None,Swarm,Fantastic,Pretty good,Decent,Pretty good,Pretty good,Pretty good,Good stats,Flail,Scary Face,X-Scissor,Swords Dance,Aestas,612017
+No. 0590,Foongus,MALE,Lv. 32,Bashful,Neutral,None,Effect Spore,Decent,Pretty good,No good,Pretty good,Pretty good,Decent,OK stats,Clear Smog,Sweet Scent,Giga Drain,Ingrain,Aestas,212471
+No.0591,Amoonguss,FEMALE,Lv. 39,Adamant,-Sp.Atk/+Attack,None,Effect Spore,Pretty good,Decent,Decent,Decent,Decent,Decent,OK stats,Clear Smog,Sweet Scent,Giga Drain,Ingrain,Aestas,212471
+No. 0592,Frillish,MALE,Lv. 60,Jolly,-Sp.Atk/+Speed,None,Cursed Body,Pretty good,Decent,Very good,Decent,Decent,Pretty good,Good stats,Whirlpool,Hydro Pump,Destiny Bond,Water Spout,Aestas,612017
+No. 0592,Frillish,FEMALE,Lv. 60,Calm,-Attack/+Sp.Def,None,Cursed Body,Very good,Pretty good,Decent,Decent,Best,Decent,Good stats,Whirlpool,Hydro Pump,Destiny Bond,Water Spout,Aestas,612017
+No. 0594,Alomomola,FEMALE,Lv. 43,Impish,-Sp.Atk/+Defense,None,Hydration,Pretty good,Decent,Decent,Pretty good,Decent,Decent,OK stats,Healing Wish,Soak,Wish,Brine,Aestas,212471
+No. 0595,Joltik,MALE,Lv. 17,Quirky,Neutral,None,Unnerve,Decent,Decent,Best,Decent,Decent,Pretty good,OK stats,Electroweb,Absorb,Fury Cutter,Bug Bite,Aestas,612017
+No. 0602,Tynamo,MALE,Lv. 72,Quirky,Neutral,None,Levitate,No good,Decent,Pretty good,Pretty good,Decent,Decent,OK stats,Tackle,Thunder Wave,Spark,Charge Beam,Aestas,212471
+No. 0603,Eelektrik,MALE,Lv. 73,Brave,-Speed/+Attack,None,Levitate,Pretty good,Pretty good,Decent,Decent,Very good,Pretty good,Good stats,Coil,Wild Charge,Gastro Acid,Zap Cannon,Aestas,212471
+No. 0607,Litwick,MALE,Lv. 30,Lonely,-Defense/+Attack,None,Flash Fire,No good,Best,Pretty good,Pretty good,Very good,Decent,Good stats,Night Shade,Smog,Hex,Astonish,Aestas,612017
+No. 0609,Chandelure,MALE,Lv. 75,Naughty,-Sp.Def/+Attack,None,Flame Body,Best,Pretty good,Decent,Best,Best,Best,Amazing stats!,Shadow Ball,Heat Wave,Confuse Ray,Flamethrower,Aestas,212471
+No.0610,Axew,MALE,Lv. 35,Hardy,Neutral,None,Rivalry,Best,Pretty good,Best,Decent,Decent,Decent,Good stats,Bite,Dragon Claw,Take Down,Dragon Pulse,Aestas,212471
+No.0611,Fraxure,MALE,Lv. 44,Rash,-Sp.Def/+Sp.Atk,None,Rivalry,No good,Decent,Pretty good,Decent,Pretty good,Decent,OK stats,Taunt,Slash,Dragon Claw,Scary Face,Aestas,212471
+No.0612,Haxorus,FEMALE,Lv. 75,Docile,Neutral,None,Mold Breaker,Best,Best,Best,Best,Decent,Decent,Great stats!,Dragon Claw,Crunch,Giga Impact,First Impression,Aestas,212471
+No.0613,Cubchoo,FEMALE,Lv. 41,Mild,-Defense/+Sp.Atk,None,Snow Cloak,Decent,Very good,Pretty good,Decent,Pretty good,No good,OK stats,Snowscape,Thrash,Rest,Blizzard,Aestas,212471
+No.0614,Beartic,MALE,Lv. 55,Mild,-Defense/+Sp.Atk,None,Snow Cloak,Very good,Decent,Pretty good,Decent,Very good,Pretty good,Good stats,Superpower,Blizzard,Rest,Sheer Cold,Aestas,612017
+No.0615,Cryogonal,GENDERLESS,Lv. 65,Jolly,-Sp.Atk/+Speed,None,Levitate,Decent,Decent,Decent,Pretty good,Decent,Very good,OK stats,Ice Beam,Acid Armor,Solar Beam,Sheer Cold,Aestas,612017
+No.0618,Stunfisk,FEMALE,Lv. 15,Jolly,-Sp.Atk/+Speed,None,Sand Veil,Very good,Pretty good,Best,Best,Decent,Best,Great stats!,Endure,Mud Shot,Revenge,Yawn,Regina,101141
+No.0619,Mienfoo,FEMALE,Lv. 61,Serious,Neutral,None,Regenerator,Fantastic,Decent,Pretty good,Very good,Very good,Decent,Good stats,Aura Sphere,Bounce,Calm Mind,High Jump Kick,Aestas,212471
+No. 0620,Mienshao,MALE,Lv. 69,Naughty,-Sp.Def/+Attack,None,Regenerator,Very good,Fantastic,Decent,Very good,Best,Pretty good,Great stats!,Aura Sphere,Bounce,Calm Mind,High Jump Kick,Aestas,212471
+No. 0622,Golett,GENDERLESS,Lv. 37,Adamant,-Sp.Atk/+Attack,None,Klutz,Decent,Decent,Decent,Best,Best,Best,Great stats!,Pound,Night Shade,Mega Punch,Shadow Punch,Aestas,612017
+No. 0624,Pawniard,FEMALE,Lv. 22,Naughty,-Sp.Def/+Attack,None,Inner Focus,Decent,Decent,Decent,Decent,Decent,Decent,OK stats,Fury Cutter,Metal Claw,Torment,Scary Face,Aestas,612017
+No. 0625,Bisharp,MALE,Lv. 45,Mild,-Defense/+Sp.Atk,None,Defiant,Very good,Decent,Best,Best,Pretty good,Best,Great stats!,Iron Head,Night Slash,Slash,Scary Face,Aestas,212471
+No. 0626,Bouffalant,FEMALE,Lv. 46,Rash,-Sp.Def/+Sp.Atk,None,Sap Sipper,Best,Best,Best,Pretty good,Best,Very good,Amazing stats!,Tackle,Throat Chop,Horn Attack,Reversal,Aestas,612017
+No. 0627,Rufflet,MALE,Lv. 21,Timid,-Attack/+Speed,None,Keen Eye,Pretty good,Decent,No good,Best,No good,Pretty good,OK stats,Peck,Hone Claws,Wing Attack,Tailwind,Aestas,212471
+No. 0628,Braviary,MALE,Lv. 55,Lonely,-Defense/+Attack,None,Keen Eye,Very good,Very good,Decent,Very good,Pretty good,Very good,Great stats!,Aerial Ace,Slash,Whirlwind,Crush Claw,Aestas,212471
+No. 0630,Mandibuzz,FEMALE,Lv. 75,Adamant,-Sp.Atk/+Attack,None,Weak Armor,Best,Best,Best,Best,Best,Very good,Amazing stats!,Dual Wingbeat,Dark Pulse,Toxic,Bone Rush,Aestas,212471
+No. 0632,Durant,MALE,Lv. 30,Rash,-Sp.Def/+Sp.Atk,None,Swarm,Decent,Decent,Decent,Decent,Decent,Pretty good,OK stats,Bug Bite,Bite,Agility,Dig,Aestas,612017
+No. 0633,Deino,MALE,Lv. 30,Modest,-Attack/+Sp.Atk,None,Hustle,Best,Best,Pretty good,Pretty good,Decent,Pretty good,Great stats!,Slam,Dragon Breath,Bite,Tackle,Aestas,612017
+No. 0634,Zweilous,FEMALE,Lv. 50,Quirky,Neutral,None,Hustle,Best,Decent,Best,Decent,Pretty good,Decent,Good stats,Tackle,Focus Energy,ee,OO,Aestas,212471
+No. 0635,Hydreigon,FEMALE,Lv. 64,Sassy,-Speed/+Sp.Def,None,Levitate,Pretty good,Best,Best,Best,Decent,Pretty good,Great stats!,Tackle,Focus Energy,_,OO,Aestas,212471
+No. 0636,Larvesta,MALE,Lv. 24,Docile,Neutral,None,Flame Body,Pretty good,Decent,Very good,Decent,Very good,Pretty good,Good stats,String Shot,Flame Charge,Struggle Bug,Flame Wheel,Aestas,212471
+No. 0645,Landorus,MALE,Lv. 70,Serious,Neutral,None,Sand Force,Best,Best,Fantastic,Best,No good,Best,Amazing stats!,Sand Tomb,Rock Slide,Bulldoze,Focus Blast,Aestas,612017
+No. 0659,Bunnelby,MALE,Lv. 18,Quiet,-Speed/+Sp.Atk,None,Cheek Pouch,Decent,Pretty good,Very good,Pretty good,Decent,Pretty good,Good stats,Quick Attack,Mud Shot,Flail,Double Kick,Aestas,612017
+No. 0660,Diggersby,MALE,Lv. 60,Naughty,-Sp.Def/+Attack,None,Cheek Pouch,Very good,Pretty good,Very good,Pretty good,Pretty good,Fantastic,Great stats!,Swords Dance,Earthquake,Super Fang,Hammer Arm,Aestas,612017
+No. 0661,Fletchling,FEMALE,Lv. 7,Sassy,-Speed/+Sp.Def,None,Big Pecks,No good,Pretty good,Decent,Best,Fantastic,Pretty good,Good stats,Growl,Peck,Quick Attack,,Aestas,212471
+No. 0662,Fletchinder,MALE,Lv. 21,Calm,-Attack/+Sp.Def,None,Flame Body,Pretty good,Best,Best,Pretty good,Best,Pretty good,Amazing stats!,Flame Charge,Quick Attack,Peck,Flail,Aestas,212471
+No. 0663,Talonflame,MALE,Lv. 35,Hardy,Neutral,None,Flame Body,Pretty good,Pretty good,Decent,Decent,Very good,Decent,OK stats,Growl,Peck,Flame Charge,,Aestas,212471
+No. 0664,Scatterbug,MALE,Lv. 4,Impish,-Sp.Atk/+Defense,None,Shield Dust,Fantastic,Pretty good,Decent,Pretty good,Very good,Pretty good,Good stats,Tackle,String Shot,,,Aestas,212471
+No. 0667,Litleo,FEMALE,Lv. 18,Mild,-Defense/+Sp.Atk,None,Rivalry,Very good,Decent,Best,Very good,Pretty good,Pretty good,Great stats!,Ember,Work Up,Headbutt,Noble Roar,Aestas,212471
+No. 0668,Pyroar,MALE,Lv. 35,Hasty,-Defense/+Speed,None,Rivalry,Decent,Decent,Pretty good,Pretty good,Pretty good,Very good,Good stats,Take Down,Fire Fang,Endeavor,Echoed Voice,Aestas,212471
+No. 0668,Pyroar,FEMALE,Lv. 37,Sassy,-Speed/+Sp.Def,None,Rivalry,Decent,Pretty good,Pretty good,Decent,Decent,Pretty good,OK stats,Work Up,Headbutt,Noble Roar,Fire Fang,Aestas,212471
+No. 0669,Flab�b�,FEMALE,Lv. 12,Brave,-Speed/+Attack,None,Flower Veil,Pretty good,Decent,Decent,Decent,Best,Decent,Good stats,Fairy Wind,Tearful Look,Vine Whip,Tackle,Aestas,212471
+No. 0669,Flab�b�,FEMALE,Lv. 18,Hardy,Neutral,None,Flower Veil,Pretty good,Decent,Pretty good,Pretty good,Very good,Pretty good,Great stats!,Tackle,Fairy Wind,Safeguard,Razor Leaf,Aestas,212471
+No. 0670,Floette,FEMALE,Lv. 41,Hasty,-Defense/+Speed,None,Flower Veil,Pretty good,Pretty good,Very good,Pretty good,Decent,Decent,Good stats,Magical Leaf,Grassy Terrain,Petal Blizzard,Synthesis,Aestas,212471
+No. 0670,Floette,FEMALE,Lv. 40,Rash,-Sp.Def/+Sp.Atk,None,Flower Veil,Pretty good,Pretty good,Pretty good,Pretty good,Pretty good,Pretty good,Great stats!,Magical Leaf,Grassy Terrain,Petal Blizzard,Synthesis,Aestas,212471
+No. 0670,Floette,FEMALE,Lv. 44,Quiet,-Speed/+Sp.Atk,None,Flower Veil,Decent,Pretty good,Decent,Decent,Pretty good,Decent,OK stats,Grassy Terrain,Petal Blizzard,Synthesis,Misty Terrain,Aestas,212471
+No. 0670,Floette,FEMALE,Lv. 49,Hasty,-Defense/+Speed,None,Flower Veil,Very good,No good,Decent,Decent,Pretty good,Pretty good,OK stats,Petal Blizzard,Synthesis,Misty Terrain,Moonblast,Aestas,212471
+No. 0671,Florges,FEMALE,Lv. 43,Bashful,Neutral,None,Flower Veil,Very good,Decent,Decent,Decent,Pretty good,Pretty good,Good stats,Magical Leaf,Grassy Terrain,Petal Blizzard,Synthesis,Aestas,212471
+No. 0672,Skiddo,MALE,Lv. 19,Quiet,-Speed/+Sp.Atk,None,Sap Sipper,Pretty good,Decent,Very good,Decent,Pretty good,Decent,Good stats,Tail Whip,Leech Seed,Razor Leaf,Worry Seed,Aestas,212471
+No. 0673,Gogoat,FEMALE,Lv. 40,Naive,-Sp.Def/+Speed,None,Sap Sipper,Very good,Decent,Pretty good,Decent,Decent,Decent,OK stats,Bulldoze,Seed Bomb,Bulk Up,Double-Edge,Aestas,212471
+No. 0674,Pancham,FEMALE,Lv. 9,Docile,Neutral,None,Iron Fist,Pretty good,Decent,Pretty good,Pretty good,Very good,Decent,Good stats,Tackle,Leer,Arm Thrust,Taunt,Aestas,612017
+No.0675,Pangoro,MALE,Lv. 60,Quiet,-Speed/+Sp.Atk,None,Mold Breaker,Best,Decent,Decent,Pretty good,Pretty good,Decent,Good stats,Body Slam,Parting Shot,Entrainment,Hammer Arm,Aestas,612017
+No. 0684,Swirlix,MALE,Lv. 21,Calm,-Attack/+Sp.Def,None,Sweet Veil,Pretty good,Decent,Best,No good,Decent,Pretty good,OK stats,Draining Kiss,Fake Tears,Round,String Shot,Aestas,612017
+No. 0688,Binacle,FEMALE,Lv. 23,Docile,Neutral,None,Tough Claws,Best,Pretty good,Pretty good,Decent,Pretty good,Pretty good,Good stats,Water Gun,Fury Cutter,Fury Swipes,Ancient Power,Aestas,612017
+No. 0690,Skrelp,FEMALE,Lv. 1,Naive,-Sp.Def/+Speed,None,Poison Point,Decent,Best,No good,Best,Pretty good,Decent,Good stats,Tackle,Smokescreen,,,Aestas,212471
+No.0691,Dragalge,MALE,Lv. 51,Careful,-Sp.Atk/+Sp.Def,None,Poison Point,Decent,Best,Pretty good,Pretty good,Pretty good,Best,Great stats!,Tackle,Smokescreen,Acid,Water Gun,Aestas,212471
+No. 0692,Clauncher,FEMALE,Lv. 40,Mild,-Defense/+Sp.Atk,None,Mega Launcher,Decent,Decent,Pretty good,Very good,Pretty good,Decent,OK stats,Hone Claws,Water Pulse,Swords Dance,Aura Sphere,Aestas,212471
+No. 0693,Clawitzer,MALE,Lv. 42,Hardy,Neutral,None,Mega Launcher,Best,Decent,Decent,Pretty good,Pretty good,Decent,Good stats,Hone Claws,Water Pulse,Swords Dance,Aura Sphere,Aestas,212471
+No. 0696,Tyrunt,MALE,Lv. 63,Hasty,-Defense/+Speed,None,Strong Jaw,Decent,Very good,Decent,Decent,Decent,Pretty good,OK stats,Dragon Claw,Thrash,Earthquake,Horn Drill,Aestas,612017
+No.0700,Sylveon,MALE,Lv. 50,Quirky,Neutral,None,Cute Charm,Decent,Decent,Best,Decent,Best,Best,Great stats!,Moonblast,Calm Mind,Yawn,Shadow Ball,Aestas,212471
+No.0701,Hawlucha,FEMALE,Lv. 53,Timid,-Attack/+Speed,None,Limber,Decent,Decent,Decent,Best,Fantastic,Decent,OK stats,Swords Dance,Flying Press,High Jump Kick,Endeavor,Aestas,212471
+No.0702,Dedenne,MALE,Lv. 60,Careful,-Sp.Atk/+Sp.Def,None,Pickup,Decent,Decent,Decent,Pretty good,Pretty good,Decent,OK stats,Play Rough,Super Fang,Entrainment,Thunder,Aestas,612017
+No.0703,Carbink,GENDERLESS,Lv. 64,Relaxed,-Speed/+Defense,None,Clear Body,Decent,Fantastic,Decent,Decent,Decent,Pretty good,OK stats,Power Gem,Stealth Rock,Moonblast,Stone Edge,Aestas,212471
+No.0704,Goomy,MALE,Lv. 21,Calm,-Attack/+Sp.Def,None,Sap Sipper,Decent,Very good,Pretty good,Pretty good,Pretty good,Decent,Good stats,Water Gun,Dragon Breath,Protect,Flail,Aestas,212471
+No.0705,Sliggoo,MALE,Lv. 50,Mild,-Defense/+Sp.Atk,None,Hydration,Pretty good,Pretty good,Decent,Decent,Decent,Decent,OK stats,Rain Dance,Dragon Pulse,Curse,Body Slam,Aestas,212471
+No. 0706,Goodra,MALE,Lv. 75,Bold,-Attack/+Defense,None,Gooey,Best,Pretty good,Best,Best,Best,Best,Amazing stats!,Dragon Pulse,Surf,Sludge Bomb,Power Whip,Aestas,212471
+No. 0707,Klefki,FEMALE,Lv. 43,Bold,-Attack/+Defense,None,Prankster,Pretty good,Decent,Very good,No good,Decent,Decent,OK stats,Recycle,Imprison,Flash Cannon,Play Rough,Aestas,212471
+No. 0708,Phantump,MALE,Lv. 35,Lax,-Sp.Def/+Defense,None,Frisk,Very good,Best,Best,Decent,Very good,Very good,Amazing stats!,Horn Leech,Curse,Sucker Punch,Phantom Force,Aestas,212471
+No.0709,Trevenant,FEMALE,Lv. 75,Lonely,-Defense/+Attack,None,Frisk,Best,Best,Pretty good,Decent,Best,Best,Amazing stats!,Wood Hammer,Shadow Claw,Will-O-Wisp,Hex,Aestas,212471
+No.0710,Pumpkaboo,FEMALE,Lv. 15,Careful,-Sp.Atk/+Sp.Def,None,Frisk,Pretty good,Best,Decent,Decent,Pretty good,Decent,Good stats,Astonish,Shadow Sneak,Confuse Ray,Razor Leaf,Aestas,612017
+No.0711,Gourgeist,MALE,Lv. 56,Modest,-Attack/+Sp.Atk,None,Pickup,Decent,Best,Pretty good,Best,Best,Best,Amazing stats!,Phantom Force,Razor Leaf,Shadow Sneak,Shadow Ball,Aestas,612017
+No.0712,Bergmite,FEMALE,Lv. 53,Lonely,-Defense/+Attack,None,Ice Body,Decent,Decent,Decent,Pretty good,Decent,Very good,OK stats,Crunch,Take Down,Blizzard,Double-Edge,Aestas,212471
+No.0713,Avalugg,FEMALE,Lv. 38,Mild,-Defense/+Sp.Atk,None,Ice Body,Pretty good,Decent,Pretty good,Decent,Decent,Decent,OK stats,lron Defense,Recover,Crunch,Take Down,Aestas,212471
+No.0714,Noibat,FEMALE,Lv. 32,Naughty,-Sp.Def/+Attack,None,Frisk,Decent,Decent,Decent,Decent,Best,Very good,Good stats,Super Fang,Wing Attack,Bite,Air Cutter,Aestas,612017
+No.0715,Noivern,MALE,Lv. 66,Hardy,Neutral,None,Frisk,Pretty good,Pretty good,Pretty good,Decent,Decent,Decent,OK stats,Dragon Pulse,Roost,Tailwind,Hurricane,Aestas,212471
+No.0734,Yungoos,FEMALE,Lv. 12,Bashful,Neutral,None,Strong Jaw,Best,Decent,Decent,Decent,No good,Decent,OK stats,Tackle,Bite,Sand Attack,Work Up,Aestas,212471
+No.0735,Gumshoos,MALE,Lv. 35,Docile,Neutral,None,Strong Jaw,Decent,Pretty good,Best,Very good,Best,Very good,Great stats!,Take Down,Mud-Slap,Trailblaze,Fire Fang,Aestas,212471
+No. 0736,Grubbin,FEMALE,Lv. 14,Rash,-Sp.Def/+Sp.Atk,None,Swarm,Decent,Pretty good,Very good,Decent,Pretty good,Very good,Good stats,Vise Grip,Mud-Slap,String Shot,Bug Bite,Aestas,612017
+No. 0737,Charjabug,FEMALE,Lv. 21,Quirky,Neutral,None,Battery,Very good,Pretty good,Pretty good,Pretty good,Very good,Very good,Amazing stats!,Vise Grip,Charge,Bite,Bug Bite,Aestas,612017
+No. 0738,Vikavolt,MALE,Lv. 35,Naive,-Sp.Def/+Speed,None,Levitate,Decent,Pretty good,Best,Best,Very good,Fantastic,Amazing stats!,Bite,Thunderbolt,Discharge,Charge,Aestas,212471
+No. 0739,Crabrawler,FEMALE,Lv. 12,Naive,-Sp.Def/+Speed,None,Iron Fist,Pretty good,Decent,Decent,Fantastic,Best,No good,Good stats,Vise Grip,Rock Smash,Leer,Payback,Aestas,212471
+No. 0740,Crabominable,MALE,Lv. 29,Sassy,-Speed/+Sp.Def,None,Iron Fist,No good,Very good,Pretty good,Decent,Very good,Pretty good,Good stats,Ice Punch,Bubble Beam,Protect,Brick Break,Aestas,212471
+No.0741,Oricorio,FEMALE,Lv. 16,Hardy,Neutral,None,Dancer,Very good,Decent,Fantastic,Decent,Very good,Pretty good,Great stats!,Peck,Helping Hand,Air Cutter,Baton Pass,Aestas,212471
+No.0741,Oricorio,MALE,Lv. 6,Timid,-Attack/+Speed,None,Dancer,Pretty good,Pretty good,Pretty good,Decent,Pretty good,Decent,Good stats,Pound,Growl,Peck,a,Aestas,212471
+No.0741,Oricorio,MALE,Lv. 45,Hasty,-Defense/+Speed,None,Dancer,Best,Best,Best,Pretty good,Pretty good,Pretty good,Amazing stats!,Revelation Dance,Air Slash,Attract,Teeter Dance,DOoSstl,647686
+No.0741,Oricorio,MALE,Lv. 69,Bashful,Neutral,None,Dancer,Decent,Pretty good,Decent,Decent,Pretty good,Pretty good,Good stats,Air Slash,Revelation Dance,Agility,Hurricane,Aestas,212471
+No.0742,Cutiefly,FEMALE,Lv. 63,Hasty,-Defense/+Speed,None,Honey Gather,Decent,Very good,Decent,Decent,Pretty good,Decent,OK stats,Switcheroo,Dazzling Gleam,Bug Buzz,Quiver Dance,Aestas,212471
+No.0743,Ribombee,MALE,Lv. 68,Hardy,Neutral,None,Honey Gather,Decent,Decent,Pretty good,Pretty good,No good,Decent,OK stats,Switcheroo,Dazzling Gleam,Bug Buzz,Quiver Dance,Aestas,212471
+No.0744,Rockruff,MALE,Lv. 17,Gentle,-Defense/+Sp.Def,None,Own Tempo,Decent,Decent,Pretty good,Decent,Pretty good,Decent,OK stats,Sand Attack,Double Team,Rock Throw,Howl,Aestas,212471
+No.0745,Lycanroc,FEMALE,Lv. 41,Naughty,-Sp.Def/+Attack,None,Keen Eye,Decent,Pretty good,Decent,Pretty good,Pretty good,Fantastic,Good stats,Bite,Rock Tomb,Roar,Rock Slide,Aestas,212471
+No.0745,Lycanroc,MALE,Lv. 40,Rash,-Sp.Def/+Sp.Atk,None,Keen Eye,Pretty good,Decent,Decent,Decent,Very good,Pretty good,OK stats,Bite,Rock Tomb,Roar,Rock Slide,Aestas,212471
+No.0745,Lycanroc,FEMALE,Lv. 26,Brave,-Speed/+Attack,None,Tough Claws,Fantastic,Decent,Decent,Pretty good,Pretty good,Decent,Good stats,Crush Claw,Sand Attack,Double Team,Rock Throw,Aestas,212471
+No. 0747,Mareanie,FEMALE,Lv. 21,Quirky,Neutral,None,Merciless,Decent,Decent,Very good,Decent,Decent,No good,OK stats,Wide Guard,Bite,Venoshock,Recover,Aestas,212471
+No. 0748,Toxapex,MALE,Lv. 37,Hasty,-Defense/+Speed,None,Merciless,Fantastic,Best,Decent,Best,Best,Pretty good,Amazing stats!,Body Slam,Liquidation,Haze,Recover,Aestas,212471
+No. 0749,Mudbray,FEMALE,Lv. 20,Rash,-Sp.Def/+Sp.Atk,None,Stamina,Decent,Decent,Pretty good,Best,Decent,Decent,OK stats,Double Kick,Bulldoze,Stomp,Mud-Slap,Aestas,212471
+No.0750,Mudsdale,FEMALE,Lv. 31,Relaxed,-Speed/+Defense,None,Own Tempo,Best,Pretty good,Very good,Pretty good,Decent,Very good,Great stats!,Double Kick,Bulldoze,Stomp,Mud-Slap,Aestas,212471
+No.0752,Araquanid,FEMALE,Lv. 34,Mild,-Defense/+Sp.Atk,None,Water Bubble,Decent,Decent,Very good,Very good,Pretty good,Pretty good,Good stats,Aqua Ring,Headbutt,Crunch,Soak,Aestas,612017
+No.0753,Fomantis,MALE,Lv. 63,Modest,-Attack/+Sp.Atk,None,Leaf Guard,Pretty good,Decent,Decent,Decent,Very good,Pretty good,OK stats,Synthesis,Leaf Blade,Sunny Day,Solar Beam,Aestas,212471
+No.0754,Lurantis,FEMALE,Lv. 36,Rash,-Sp.Def/+Sp.Atk,None,Leaf Guard,No good,Decent,Best,Decent,Best,Decent,OK stats,Fury Cutter,Solar Beam,Slash,Leafage,Aestas,612017
+No.0757,Salandit,MALE,Lv. 40,Lax,-Sp.Def/+Defense,None,Corrosion,Pretty good,Pretty good,Pretty good,Decent,Very good,Very good,Good stats,Nasty Plot,Incinerate,Venoshock,Dragon Pulse,Aestas,212471
+No.0758,Salazzle,FEMALE,Lv. 35,Impish,-Sp.Atk/+Defense,None,Corrosion,Best,Very good,Decent,Decent,Pretty good,Best,Great stats!,Poison Fang,Ember,Pound,Smog,Aestas,612017
+No.0759,Stufful,MALE,Lv. 19,Impish,-Sp.Atk/+Defense,None,Fluffy,Very good,Decent,Very good,Decent,Decent,Pretty good,Good stats,Brutal Swing,Endure,Baby-Doll Eyes,Payback,Aestas,612017
+No.0760,Bewear,FEMALE,Lv. 60,Docile,Neutral,None,Klutz,Pretty good,Pretty good,Decent,Fantastic,Decent,Very good,Good stats,Thrash,Pain Split,Double-Edge,Superpower,Aestas,612017
+No.0761,Bounsweet,FEMALE,Lv. 5,Adamant,-Sp.Atk/+Attack,None,Oblivious,Very good,Pretty good,No good,Decent,Fantastic,Decent,Good stats,Splash,Play Nice,,,Aestas,212471
+No. 0762,Steenee,FEMALE,Lv. 21,Lonely,-Defense/+Attack,None,Oblivious,Decent,Pretty good,Decent,Fantastic,Pretty good,Decent,OK stats,Flail,Rapid Spin,Play Nice,Sweet Scent,Aestas,212471
+No.0763,Tsareena,FEMALE,Lv. 48,Lonely,-Defense/+Attack,None,Leaf Guard,Decent,Pretty good,Decent,Decent,Pretty good,Pretty good,OK stats,Rapid Spin,Trop Kick,Sweet Scent,Magical Leaf,Aestas,212471
+No.0765,Oranguru,MALE,Lv. 1,Impish,-Sp.Atk/+Defense,None,Inner Focus,Decent,Pretty good,Best,Pretty good,Best,Best,Great stats!,Confusion,Taunt,,,Aestas,212471
+No. 0766,Passimian,FEMALE,Lv. 75,Bold,-Attack/+Defense,None,Receiver,Best,Best,Best,Decent,Decent,Best,Great stats!,Reversal,Rock Smash,Facade,Gunk Shot,Aestas,212471
+No. 0767,Wimpod,MALE,Lv. 20,Lax,-Sp.Def/+Defense,None,Wimp Out,Very good,Very good,Very good,Pretty good,Pretty good,Decent,Great stats!,Struggle Bug,Sand Attack,Defense Curl,,Aestas,612017
+No. 0769,Sandygast,MALE,Lv. 22,Bashful,Neutral,None,Water Compaction,Decent,Pretty good,Pretty good,Decent,Decent,Very good,OK stats,Astonish,Sand Tomb,Mega Drain,Sand Attack,Aestas,212471
+No.0770,Palossand,MALE,Lv. 42,Jolly,-Sp.Atk/+Speed,None,Water Compaction,Very good,Best,Decent,Best,Pretty good,Best,Great stats!,Giga Drain,Hypnosis,Curse,Destiny Bond,Aestas,212471
+No.0772,Type: Null,GENDERLESS,Lv. 50,Docile,Neutral,None,Battle Armor,Fantastic,Best,Pretty good,Best,Very good,Best,Amazing stats!,Tri Attack,X-Scissor,Iron Head,Take Down,Aestas,612017
+No.0775,Komala,MALE,Lv. 21,Hasty,-Defense/+Speed,None,Comatose,Decent,Decent,Pretty good,Decent,Decent,Best,OK stats,Swallow,Rapid Spin,Yawn,Slam,Aestas,212471
+No.0778,Mimikyu,FEMALE,Lv. 75,Lonely,-Defense/+Attack,None,Disguise,Best,Best,Best,Best,Best,Best,Amazing stats!,Play Rough,Shadow Claw,Shadow Sneak,Wood Hammer,Aestas,212471
+No.0779,Bruxish,FEMALE,Lv. 20,Modest,-Attack/+Sp.Atk,None,Strong Jaw,Decent,Decent,Pretty good,Pretty good,Very good,Pretty good,Good stats,Confusion,Bite,Aqua Jet,Disable,Aestas,212471
+No. 0782,Jangmo-o,MALE,Lv. 62,Hasty,-Defense/+Speed,None,Bulletproof,Decent,Pretty good,Pretty good,Very good,Decent,Decent,OK stats,Dragon Claw,Noble Roar,Dragon Dance,Outrage,Aestas,212471
+No. 0783,Hakamo-o,FEMALE,Lv. 40,Hardy,Neutral,None,Bulletproof,Best,Best,Decent,Pretty good,Very good,Best,Great stats!,Dragon Claw,Headbutt,Tackle,Dragon Tail,Aestas,612017
+No. 0784,Kommo-o,MALE,Lv. 65,Lonely,-Defense/+Attack,None,Soundproof,Very good,Pretty good,Best,Pretty good,Decent,Decent,Good stats,Dragon Claw,Noble Roar,Dragon Dance,Clanging Scales,Aestas,212471
+No. 0788,Tapu Fini,GENDERLESS,Lv. 70,Calm,-Attack/+Sp.Def,None,Misty Surge,Fantastic,Decent,Best,Best,Best,Best,Amazing stats!,Whirlpool,Water Pulse,Brine,Moonblast,Aestas,612017
+No. 0789,Cosmog,GENDERLESS,Lv. 5,Modest,-Attack/+Sp.Atk,None,Unaware,Best,Pretty good,Best,Pretty good,Best,Pretty good,Amazing stats!,Splash,Teleport,�,OO,Aestas,612017
+No.0794,Buzzwole,GENDERLESS,Lv. 70,Lonely,-Defense/+Attack,None,Beast Boost,Best,Decent,Decent,Best,Best,Best,Great stats!,Power-Up Punch,Taunt,Leech Life,Dynamic Punch,Aestas,612017
+No. 0800,Necrozma,GENDERLESS,Lv. 70,Bold,-Attack/+Defense,None,Prism Armor,Best,Best,Best,Pretty good,No good,Best,Great stats!,Psycho Cut,Charge Beam,Power Gem,Autotomize,Aestas,612017
+No.0810,Grookey,MALE,Lv. 5,Adamant,-Sp.Atk/+Attack,None,Grassy Surge,Best,Best,Pretty good,Pretty good,Pretty good,Pretty good,Great stats!,Scratch,Growl,,,Shinryuu27,938944
+No. 0813,Scorbunny,MALE,Lv. 5,Jolly,-Sp.Atk/+Speed,None,Libero,Pretty good,Best,Pretty good,Pretty good,Pretty good,Best,Great stats!,Tackle,Growl,,,Shinryuu27,938944
+No. 0816,Sobble,MALE,Lv. 5,Modest,-Attack/+Sp.Atk,None,Sniper,Pretty good,Pretty good,Pretty good,Best,Pretty good,Best,Great stats!,Pound,Growl,,,Shinryuu27,938944
+No.0819,Skwovet,FEMALE,Lv. 18,Serious,Neutral,None,Cheek Pouch,Pretty good,Decent,Very good,Pretty good,Decent,Decent,OK stats,Stockpile,Swallow,Spit Up,Stuff Cheeks,Aestas,612017
+No. 0820,Greedent,FEMALE,Lv. 75,Lonely,-Defense/+Attack,None,Cheek Pouch,Pretty good,Best,Best,Best,Best,Pretty good,Amazing stats!,Body Slam,Body Press,Bullet Seed,Tail Whip,Aestas,212471
+No. 0821,Rookidee,FEMALE,Lv. 9,Lonely,-Defense/+Attack,None,Keen Eye,Pretty good,Decent,Decent,Decent,Decent,Pretty good,OK stats,Leer,Peck,Power Trip,Hone Claws,Aestas,212471
+No. 0822,Corvisquire,MALE,Lv. 22,Hasty,-Defense/+Speed,None,Unnerve,Very good,No good,Pretty good,Very good,Best,Pretty good,Great stats!,Power Trip,Fury Attack,Pluck,Taunt,Aestas,212471
+No. 0823,Corviknight,MALE,Lv. 50,Lax,-Sp.Def/+Defense,None,Mirror Armor,Best,Best,Pretty good,Best,Best,Decent,Amazing stats!,Brave Bird,Iron Head,Body Slam,Power Trip,Aestas,612017
+No. 0825,Dottler,MALE,Lv. 38,Mild,-Defense/+Sp.Atk,None,Swarm,Best,Decent,Best,Decent,Best,Decent,Good stats,Struggle Bug,Confusion,Light Screen,,Aestas,612017
+No. 0826,Orbeetle,MALE,Lv. 30,Bold,-Attack/+Defense,None,Frisk,Decent,Best,Decent,Decent,Decent,Decent,OK stats,Struggle Bug,Reflect,Light Screen,Confusion,Aestas,612017
+No. 0828,Thievul,FEMALE,Lv. 18,Quirky,Neutral,None,Run Away,Decent,Very good,Decent,Very good,Pretty good,Decent,Good stats,Quick Attack,Snarl,Thief,Hone Claws,Aestas,612017
+No. 0829,Gossifleur,FEMALE,Lv. 10,Mild,-Defense/+Sp.Atk,None,Regenerator,Pretty good,Pretty good,Pretty good,Pretty good,Decent,No good,Good stats,Leafage,Sing,Rapid Spin,Sweet Scent,Aestas,612017
+No. 0830,Eldegoss,FEMALE,Lv. 22,Docile,Neutral,None,Regenerator,Decent,Decent,Pretty good,Decent,Decent,Best,OK stats,Cotton Spore,Round,Razor Leaf,Sing,Aestas,612017
+No. 0831,Wooloo,MALE,Lv. 30,Bashful,Neutral,None,Fluffy,Decent,Pretty good,Best,Best,Decent,Decent,Good stats,Take Down,Double Kick,Headbutt,Thunder Wave,Aestas,612017
+No. 0832,Dubwool,MALE,Lv. 35,Gentle,-Defense/+Sp.Def,None,Steadfast,Pretty good,Pretty good,Best,Best,Best,Very good,Amazing stats!,Take Down,Double Kick,Zen Headbutt,Thunder Wave,Aestas,612017
+No. 0833,Chewtle,MALE,Lv. 6,Rash,-Sp.Def/+Sp.Atk,None,Shell Armor,Pretty good,Decent,Pretty good,Pretty good,Decent,No good,OK stats,Tackle,Water Gun,,:�,Aestas,612017
+No. 0834,Drednaw,FEMALE,Lv. 24,Timid,-Attack/+Speed,None,Strong Jaw,Pretty good,Very good,Pretty good,Decent,Decent,Very good,Good stats,Rock Tomb,Headbutt,Water Gun,Bite,Aestas,612017
+No. 0835,Yamper,FEMALE,Lv. 7,Gentle,-Defense/+Sp.Def,None,Ball Fetch,Decent,Decent,Decent,Decent,Decent,Decent,OK stats,Tackle,Tail Whip,Nuzzle,J,Aestas,612017
+No. 0837,Rolycoly,MALE,Lv. 12,Brave,-Speed/+Attack,None,Steam Engine,Pretty good,Decent,Decent,Decent,Pretty good,Decent,OK stats,Tackle,Smokescreen,Rapid Spin,Smack Down,Milky,820765
+No. 0838,Carkol,FEMALE,Lv. 25,Hasty,-Defense/+Speed,None,Steam Engine,Pretty good,Very good,Decent,Pretty good,Decent,Pretty good,Good stats,Rapid Spin,Smack Down,Rock Polish,Ancient Power,Aestas,212471
+No. 0839,Coalossal,MALE,Lv. 75,Bashful,Neutral,None,Flash Fire,Best,Pretty good,Best,Best,Best,Very good,Amazing stats!,Heat Crash,Stone Edge,Incinerate,Ancient Power,Aestas,212471
+No. 0840,Applin,MALE,Lv. 15,Docile,Neutral,None,Ripen,Decent,Pretty good,Decent,Decent,Fantastic,Best,Good stats,Withdraw,Astonish, �,,Aestas,612017
+No. 0841,Flapple,MALE,Lv. 26,Rash,-Sp.Def/+Sp.Atk,None,Ripen,Pretty good,Decent,Pretty good,Decent,Decent,Decent,OK stats,Astonish,Withdraw,Wing Attack,,Aestas,212471
+No. 0842,Appletun,MALE,Lv. 64,Sassy,-Speed/+Sp.Def,None,Ripen,Decent,Decent,Decent,Best,Decent,Pretty good,OK stats,Body Slam,lron Defense,Dragon Pulse,Energy Ball,Aestas,212471
+No. 0843,Silicobra,MALE,Lv. 26,Bold,-Attack/+Defense,None,Sand Spit,Fantastic,Very good,Decent,Decent,Pretty good,Decent,OK stats,Brutal Swing,Bulldoze,Headbutt,Glare,Aestas,212471
+No. 0844,Sandaconda,MALE,Lv. 36,Docile,Neutral,None,Sand Spit,Pretty good,Decent,No good,Decent,Decent,Very good,OK stats,Headbutt,Glare,Dig,Sandstorm,Aestas,212471
+No. 0845,Cramorant,FEMALE,Lv. 66,Timid,-Attack/+Speed,None,Gulp Missile,Decent,Pretty good,Decent,Decent,No good,Decent,OK stats,Drill Peck,Amnesia,Thrash,Hydro Pump,CESS,387463
+No. 0846,Arrokuda,FEMALE,Lv. 24,Bold,-Attack/+Defense,None,Swift Swim,Pretty good,Best,Decent,Decent,Best,Pretty good,Great stats!,Bite,Agility,Dive,Acupressure,Aestas,612017
+No. 0846,Arrokuda,FEMALE,Lv. 24,Bold,-Attack/+Defense,None,Swift Swim,Pretty good,Best,Decent,Decent,Best,Pretty good,Great stats!,Bite,Agility,Dive,Acupressure,Aestas,612017
+No. 0847,Barraskewda,MALE,Lv. 29,Adamant,-Sp.Atk/+Attack,None,Swift Swim,Very good,Best,Decent,Decent,Decent,Very good,Good stats,Peck,Aqua Jet,Fury Attack,Bite,Aestas,212471
+No. 0848,Toxel,FEMALE,Lv. 12,Bold,-Attack/+Defense,None,Static,Pretty good,Pretty good,Pretty good,Pretty good,Decent,Best,Good stats,Nuzzle,Tearful Look,Acid,Flail,Aestas,212471
+No. 0849,Toxtricity,MALE,Lv. 33,Docile,Neutral,None,Plus,Pretty good,Pretty good,Decent,Pretty good,Decent,Pretty good,Good stats,Flail,Belch,Nuzzle,Tearful Look,Aestas,212471
+No. 0849,Toxtricity,FEMALE,Lv. 32,Lonely,-Defense/+Attack,None,Minus,Very good,Decent,No good,Decent,Decent,Decent,OK stats,Flail,Belch,Nuzzle,Tearful Look,Aestas,212471
+No. 0850,Sizzlipede,FEMALE,Lv. 26,Naughty,-Sp.Def/+Attack,None,White Smoke,No good,Best,Best,Very good,Best,Fantastic,Great stats!,Bite,Flame Wheel,Bug Bite,Coil,Aestas,612017
+No. 0850,Sizzlipede,FEMALE,Lv. 27,Docile,Neutral,None,Flash Fire,Pretty good,Best,Decent,Decent,Decent,Decent,OK stats,Flame Wheel,Bite,Bug Bite,Ember,Aestas,612017
+No. 0853,Grapploct,MALE,Lv. 55,Impish,-Sp.Atk/+Defense,None,Technician,Best,Best,Best,Best,Pretty good,Very good,Amazing stats!,Bind,Submission,Feint,Brick Break,Aestas,612017
+No. 0854,Sinistea,GENDERLESS,Lv. 38,Bashful,Neutral,None,Weak Armor,Pretty good,Decent,Decent,Decent,Very good,Pretty good,OK stats,Mega Drain,Sucker Punch,Sweet Scent,Giga Drain,Aestas,212471
+No. 0855,Polteageist,GENDERLESS,Lv. 75,Impish,-Sp.Atk/+Defense,None,Weak Armor,Decent,Best,Best,Decent,Best,Best,Great stats!,Shadow Ball,Mega Drain,Astonish,Will-O-Wisp,Aestas,212471
+No. 0856,Hatenna,FEMALE,Lv. 12,Sassy,-Speed/+Sp.Def,None,Anticipation,Decent,Decent,Very good,No good,Pretty good,Best,Good stats,Confusion,Disarming Voice,Magical Leaf,Thunder Wave,Aestas,212471
+No. 0857,Hattrem,FEMALE,Lv. 35,Timid,-Attack/+Speed,None,Anticipation,Decent,Very good,Pretty good,Pretty good,Best,Best,Great stats!,Dazzling Gleam,Brutal Swing,Psybeam,Thunder Wave,Aestas,212471
+No. 0858,Hatterene,FEMALE,Lv. 75,Relaxed,-Speed/+Defense,None,Magic Bounce,Best,Best,Decent,Best,Very good,Best,Amazing stats!,Mystical Fire,Psychic,Disarming Voice,Dark Pulse,Aestas,212471
+No. 0859,Impidimp,MALE,Lv. 28,Hasty,-Defense/+Speed,None,Frisk,Pretty good,Pretty good,Fantastic,Very good,Decent,Decent,Great stats!,Assurance,Swagger,Sucker Punch,Torment,Aestas,212471
+No. 0860,Morgrem,MALE,Lv. 37,Rash,-Sp.Def/+Sp.Atk,None,Prankster,Decent,Decent,Decent,Pretty good,Very good,Pretty good,Good stats,Swagger,Sucker Punch,Torment,Dark Pulse,Aestas,612017
+No. 0861,Grimmsnatl,MALE,Lv. 75,Naive,-Sp.Def/+Speed,None,Frisk,Best,Best,Very good,Very good,Best,Best,Amazing stats!,Spirit Break,False Surrender,Scary Face,Foul Play,Aestas,212471
+No. 0862,Obstagoon,FEMALE,Lv. 65,Hardy,Neutral,None,Reckless,Decent,Decent,Very good,Pretty good,Best,Fantastic,Great stats!,Scary Face,Counter,Taunt,Double-Edge,Aestas,612017
+No. 0865,Sirfetch�d,MALE,Lv. 56,Serious,Neutral,None,Steadfast,No good,Decent,Decent,Decent,Decent,Decent,OK stats,Swords Dance,First Impression,Brick Break,Leaf Blade,Aestas,612017
+No. 0866,Mr. Rime,MALE,Lv. 55,Hardy,Neutral,None,Tangled Feet,Best,Best,Best,Decent,Best,Very good,Amazing stats!,Psychic,Mirror Coat,Freeze-Dry,Sucker Punch,Aestas,612017
+No. 0868,Milcery,FEMALE,Lv. 15,Careful,-Sp.Atk/+Sp.Def,None,Sweet Veil,Very good,Decent,Pretty good,Decent,Decent,Pretty good,Good stats,Aromatic Mist,Sweet Kiss,Sweet Scent,Draining Kiss,Aestas,612017
+No. 0870,Falinks,GENDERLESS,Lv. 51,Impish,-Sp.Atk/+Defense,None,Battle Armor,Very good,Decent,Very good,Pretty good,Decent,Pretty good,Good stats,First Impression,No Retreat,Iron Defense,Close Combat,Aestas,212471
+No. 0871,Pincurchin,FEMALE,Lv. 75,Naive,-Sp.Def/+Speed,None,Electric Surge,Decent,Best,Best,Best,Best,Best,Amazing stats!,Zing Zap,Thunder,Surf,Poison Jab,Aestas,212471
+No. 0872,Snom,FEMALE,Lv. 12,Bashful,Neutral,None,Shield Dust,Decent,Pretty good,Decent,Pretty good,Decent,Best,OK stats,Powder Snow,Struggle Bug,Icy Wind,,Aestas,212471
+No. 0873,Frosmoth,MALE,Lv. 55,Jolly,-Sp.Atk/+Speed,None,Shield Dust,Decent,Pretty good,Decent,Fantastic,Fantastic,Pretty good,Good stats,Blizzard,Tailwind,Wide Guard,Quiver Dance,Aestas,212471
+No. 0874,Stonjourner,FEMALE,Lv. 1,Naive,-Sp.Def/+Speed,None,Power Spot,Decent,Decent,No good,Fantastic,Best,Decent,OK stats,Rock Throw,Block,,,Aestas,212471
+No. 0875,Eiscue,FEMALE,Lv. 44,Hardy,Neutral,None,Ice Face,Pretty good,Decent,Pretty good,Decent,Decent,Pretty good,OK stats,Headbutt,Amnesia,Freeze-Dry,Snowscape,Aestas,212471
+No. 0876,Indeedee,MALE,Lv. 50,Rash,-Sp.Def/+Sp.Atk,None,Inner Focus,Decent,Pretty good,Decent,Decent,No good,Very good,OK stats,Psychic,Calm Mind,Power Split,Psychic Terrain,Aestas,212471
+No. 0876,Indeedee,FEMALE,Lv. 46,Careful,-Sp.Atk/+Sp.Def,None,Own Tempo,Very good,Pretty good,Very good,Decent,Pretty good,Pretty good,Good stats,Healing Wish,Psychic,Calm Mind,Guard Split,Aestas,212471
+No. 0877,Morpeko,MALE,Lv. 37,Timid,-Attack/+Speed,None,Hunger Switch,Decent,Very good,Pretty good,Very good,Decent,Decent,Good stats,Flatter,Bite,Spark,Torment,Aestas,612017
+No. 0878,Cufant,FEMALE,Lv. 24,Quirky,Neutral,None,Sheer Force,Pretty good,Decent,Very good,Fantastic,Very good,Decent,Good stats,Rollout,Rock Smash,Bulldoze,Stomp,Aestas,212471
+No. 0885,Dreepy,MALE,Lv. 51,Mild,-Defense/+Sp.Atk,None,Clear Body,Decent,Very good,Decent,Decent,Decent,Decent,OK stats,Bite,Quick Attack,Astonish,Infestation,Aestas,212471
+No. 0886,Drakloak,FEMALE,Lv. 51,Gentle,-Defense/+Sp.Def,None,Clear Body,Pretty good,Decent,Best,Very good,Best,Pretty good,Great stats!,Double Hit,U-turn,Dragon Dance,Phantom Force,Aestas,212471
+No. 0887,Dragapult,MALE,Lv. 75,Quirky,Neutral,None,Clear Body,Pretty good,Pretty good,Decent,Decent,Decent,Decent,OK stats,Dragon Darts,U-turn,Dragon Dance,Phantom Force,Aestas,212471
+No. 0888,Zacian,GENDERLESS,Lv. 70,Quiet,-Speed/+Sp.Atk,None,Intrepid Sword,Very good,Pretty good,Best,Decent,Best,Best,Amazing stats!,Sacred Sword,Swords Dance,Iron Head,Crunch,Aestas,612017
+No. 0890,Eternatus,GENDERLESS,Lv. 60,Quiet,-Speed/+Sp.Atk,None,Pressure,Best,Best,No good,Decent,Best,Best,Great stats!,Cross Poison,Dragon Pulse,Flamethrower,Dynamax Cannon,Aestas,612017
+No. 0893,Zarude,GENDERLESS,Lv. 100,Sassy,-Sp.Atk/+Attack,None,Leaf Guard,Best,Best,Best,Best,Best,Best,Amazing stats!,Power Whip,Darkest Lariat,U-turn,Jungle Healing,Jungle,200807
+No. 0896,Glastrier,GENDERLESS,Lv. 75,Lax,-Sp.Def/+Defense,None,Chilling Neigh,Decent,Best,Decent,Best,Best,Decent,Great stats!,Taunt,Double-Edge,Swords Dance,Icicle Crash,Aestas,612017
+No. 0897,Spectrier,GENDERLESS,Lv. 75,Sassy,-Speed/+Sp.Def,None,Grim Neigh,Decent,Decent,No good,Best,Best,Best,Good stats,Disable,Double-Edge,Nasty Plot,Shadow Ball,Aestas,612017
+No. 0898,Calyrex,GENDERLESS,Lv. 80,Brave,-Speed/+Attack,None,Unnerve,Best,Decent,No good,Best,Decent,Best,Good stats,Psychic,Giga Drain,a,�,Aestas,612017
+No.0901,Ursaluna,MALE,Lv. 70,Hardy,Neutral,None,Mind�s Eye,Best,Best,Best,Very good,Pretty good,Decent,Great stats!,Blood Moon,Earth Power,Slash,Calm Mind,Aestas,212471
+No. 0902,Basculegion,MALE,Lv. 75,Adamant,-Sp.Atk/+Attack,None,Swift Swim,Decent,Decent,Decent,Decent,Decent,Pretty good,OK stats,Wave Crash,Thrash,Double-Edge,Head Smash,Aestas,212471
+No. 0902,Basculegion,FEMALE,Lv. 75,Sassy,-Speed/+Sp.Def,None,Mold Breaker,Pretty good,Best,Best,Best,Best,Best,Amazing stats!,Surf,Aqua Jet,Shadow Ball,Scary Face,Aestas,212471
+No. 0906,Sprigatito,MALE,Lv. 1,Naughty,-Sp.Def/+Attack,None,Protean,Very good,Very good,Decent,Best,Best,Pretty good,Great stats!,Scratch,Tail Whip,Leafage,�,Aestas,212471
+No. 0907,Floragato,MALE,Lv. 18,Careful,-Sp.Atk/+Sp.Def,None,Overgrow,Best,Very good,Decent,Decent,Pretty good,Best,Great stats!,Scratch,Tail Whip,Leafage,Bite,Aestas,212471
+No. 0908,Meowscarada,MALE,Lv. 37,Quirky,Neutral,None,Protean,Decent,Decent,Pretty good,Best,No good,Decent,OK stats,Scratch,Tail Whip,Leafage,Bite,Aestas,212471
+No. 0909,Fuecoco,FEMALE,Lv. 2,Docile,Neutral,None,Blaze,Pretty good,Best,Pretty good,Decent,Best,Pretty good,Great stats!,Tackle,Leer,Ember,,Aestas,212471
+No.0910,Crocalor,MALE,Lv. 21,Gentle,-Defense/+Sp.Def,None,Blaze,Pretty good,Decent,Pretty good,Very good,Best,Pretty good,Great stats!,Tackle,Leer,Ember,Round,Aestas,212471
+No.0911,Skeledirge,MALE,Lv. 37,Quirky,Neutral,None,Blaze,Decent,Decent,Very good,Decent,Very good,Pretty good,Good stats,Tackle,Leer,Ember,Round,Aestas,212471
+No.0912,Quaxly,MALE,Lv. 1,Lonely,-Defense/+Attack,None,Torrent,Decent,Decent,Decent,Decent,Decent,Pretty good,OK stats,Pound,Growl,Water Gun,,Aestas,212471
+No.0913,Quaxwell,MALE,Lv. 21,Mild,-Defense/+Sp.Atk,None,Torrent,Fantastic,Decent,Best,Decent,Decent,Decent,OK stats,Pound,Growl,Water Gun,Work Up,Aestas,212471
+No.0914,Quaquaval,FEMALE,Lv. 37,Sassy,-Speed/+Sp.Def,None,Torrent,Best,Decent,Best,Decent,Very good,Pretty good,Great stats!,Pound,Growl,Water Gun,Work Up,Aestas,212471
+No.0915,Lechonk,MALE,Lv. 15,Lonely,-Defense/+Attack,None,Aroma Veil,No good,No good,Decent,Very good,Decent,Decent,OK stats,Tackle,Tail Whip,,,Aestas,212471
+No.0916,Oinkologne,MALE,Lv. 26,Lax,-Sp.Def/+Defense,None,Gluttony,Pretty good,No good,Pretty good,Decent,Decent,Decent,OK stats,Covet,Dig,Headbutt,Take Down,Aestas,212471
+No.0916,Oinkologne,FEMALE,Lv. 23,Careful,-Sp.Atk/+Sp.Def,None,Gluttony,Very good,No good,Decent,Very good,Pretty good,Pretty good,Good stats,Covet,Dig,Headbutt,Yawn,Aestas,212471
+No.0917,Tarountula,FEMALE,Lv. 54,Docile,Neutral,None,Insomnia,Decent,Decent,Very good,Pretty good,Decent,Pretty good,Good stats,Gastro Acid,Circle Throw,Throat Chop,Skitter Smack,Aestas,212471
+No.0918,Spidops,MALE,Lv. 15,Hardy,Neutral,None,Insomnia,Very good,Very good,Very good,Decent,Decent,Decent,Good stats,Tackle,String Shot,Silk Trap,:�,Aestas,212471
+No.0919,Nymble,FEMALE,Lv. 12,Gentle,-Defense/+Sp.Def,None,Swarm,Pretty good,Best,Decent,Decent,Pretty good,Very good,Good stats,Assurance,Double Kick,Pounce,Leer,Aestas,212471
+No.0920,Lokix,FEMALE,Lv. 49,Bold,-Attack/+Defense,None,Swarm,Pretty good,Very good,Pretty good,Pretty good,Decent,Decent,Good stats,Throat Chop,Sucker Punch,First Impression,Bounce,Aestas,212471
+No.0921,Pawmi,MALE,Lv. 40,Careful,-Sp.Atk/+Sp.Def,None,Static,Decent,Decent,Pretty good,Decent,Decent,Decent,OK stats,Entrainment,Slam,Discharge,Agility,Aestas,212471
+No. 0922,Pawmo,MALE,Lv. 55,Mild,-Defense/+Sp.Atk,None,Volt Absorb,Very good,Best,Best,Best,Decent,Pretty good,Great stats!,Metal Claw,Wild Charge,Agility,Arm Thrust,Aestas,212471
+No. 0923,Pawmot,FEMALE,Lv. 75,Bashful,Neutral,None,Iron Fist,Best,Best,No good,Best,Best,Best,Amazing stats!,Wild Charge,Close Combat,Double Shock,Nuzzle,Aestas,212471
+No.0924,Tandemaus,GENDERLESS,Lv. 27,Lonely,-Defense/+Attack,None,Pickup,Pretty good,Decent,Decent,Decent,Decent,Decent,OK stats,Double Hit,Bullet Seed,Encore,Play Rough,Aestas,212471
+No.0925,Maushold,GENDERLESS,Lv. 30,Modest,-Attack/+Sp.Atk,None,Cheek Pouch,Pretty good,Decent,Pretty good,Very good,Decent,Decent,OK stats,Helping Hand,Super Fang,Double Hit,Bullet Seed,Aestas,212471
+No. 0926,Fidough,FEMALE,Lv. 7,Docile,Neutral,None,Own Tempo,Very good,Very good,Decent,Best,Decent,Pretty good,Good stats,Tackle,Growl,Lick,Tail Whip,Aestas,212471
+No. 0927,Dachsbun,FEMALE,Lv. 41,Brave,-Speed/+Attack,None,Well-Baked Body,Decent,Decent,Very good,Pretty good,Decent,Pretty good,OK stats,Work Up,Baton Pass,Roar,Double-Edge,Aestas,212471
+No. 0928,Smoliv,FEMALE,Lv. 7,Calm,-Attack/+Sp.Def,None,Early Bird,Pretty good,Decent,Pretty good,Decent,Pretty good,Pretty good,OK stats,Tackle,Sweet Scent,Absorb,Growth,Aestas,212471
+No. 0929,Dolliv,MALE,Lv. 25,Quirky,Neutral,None,Early Bird,Decent,Pretty good,Pretty good,Pretty good,Pretty good,Decent,Good stats,Tackle,Sweet Scent,Absorb,Growth,Aestas,212471
+No. 0930,Arboliva,FEMALE,Lv. 75,Adamant,-Sp.Atk/+Attack,None,Harvest,Pretty good,Best,Very good,Best,Best,Best,Amazing stats!,Energy Ball,Hyper Voice,Earth Power,Charm,Aestas,212471
+No. 0931,Squawkabilly,FEMALE,Lv. 21,Quiet,-Speed/+Sp.Atk,None,Hustle,Decent,Pretty good,Very good,Very good,Pretty good,Pretty good,Great stats!,Torment,Aerial Ace,Fury Attack,Taunt,Aestas,212471
+No. 0931,Squawkabilly,MALE,Lv. 22,Jolly,-Sp.Atk/+Speed,None,Intimidate,Very good,Pretty good,Decent,Very good,Pretty good,No good,Good stats,Torment,Aerial Ace,Fury Attack,Taunt,Aestas,212471
+No. 0932,Nacli,MALE,Lv. 16,Hardy,Neutral,None,Sturdy,Decent,Pretty good,Fantastic,Pretty good,Decent,Decent,Good stats,Mud Shot,Smack Down,Rock Polish,Headbutt,Aestas,212471
+No. 0933,Naclstack,MALE,Lv. 33,Lax,-Sp.Def/+Defense,None,Purifying Salt,Best,Best,Pretty good,Decent,Fantastic,Best,Amazing stats!,Curse,Salt Cure,Rock Slide,Body Slam,Aestas,212471
+No. 0934,Garganacl,FEMALE,Lv. 48,Quiet,-Speed/+Sp.Atk,None,Sturdy,Pretty good,Best,Pretty good,Very good,Best,Best,Amazing stats!,Hammer Arm,Salt Cure,Rock Slide,Body Slam,Aestas,212471
+No.0935,Charcadet,MALE,Lv. 13,Quirky,Neutral,None,Flash Fire,Very good,Decent,Very good,No good,Pretty good,Pretty good,Good stats,Ember,Astonish,Clear Smog,Fire Spin,Aestas,212471
+No. 0937,Ceruledge,MALE,Lv. 75,Gentle,-Defense/+Sp.Def,None,Weak Armor,Best,Best,Very good,Best,Best,Decent,Amazing stats!,Bitter Blade,Shadow Claw,Psycho Cut,Will-O-Wisp,Aestas,212471
+No. 0938,Tadbulb,MALE,Lv. 15,Sassy,-Speed/+Sp.Def,None,Own Tempo,Pretty good,Decent,Decent,Very good,Pretty good,Decent,Good stats,Tackle,Mud-Slap,Thunder Shock,Water Gun,Aestas,212471
+No. 0939,Bellibolt,FEMALE,Lv. 40,Gentle,-Defense/+Sp.Def,None,Electromorphosis,Decent,Decent,Pretty good,Very good,Decent,Pretty good,OK stats,Thunder Shock,Water Gun,Charge,Spark,Aestas,212471
+No. 0940,Wattrel,MALE,Lv. 23,Mild,-Defense/+Sp.Atk,None,Volt Absorb,Decent,Pretty good,Decent,Pretty good,Decent,Decent,OK stats,Pluck,Spark,Uproar,Roost,Aestas,212471
+No.0941,Kilowattrel,MALE,Lv. 25,Hardy,Neutral,None,Wind Power,Decent,Very good,Decent,Pretty good,Fantastic,Decent,Good stats,Quick Attack,Pluck,Spark,Uproar,Aestas,212471
+No. 0942,Maschiff,FEMALE,Lv. 10,Jolly,-Sp.Atk/+Speed,None,Run Away,Pretty good,Decent,Pretty good,Best,Pretty good,Decent,Good stats,Scary Face,Lick,Snarl,Hone Claws,Aestas,212471
+No. 0943,Mabosstiff,FEMALE,Lv. 34,Quirky,Neutral,None,Guard Dog,Very good,Decent,Very good,Decent,Pretty good,Very good,Great stats!,Roar,Headbutt,Payback,Crunch,Aestas,212471
+No. 0944,Shroodle,FEMALE,Lv. 5,Lax,-Sp.Def/+Defense,None,Pickpocket,Decent,Very good,Fantastic,Pretty good,Very good,Fantastic,Great stats!,Scratch,Leer,Acid Spray,,Aestas,212471
+No. 0945,Grafaiai,MALE,Lv. 29,Lonely,-Defense/+Attack,None,Poison Touch,Very good,Decent,Very good,Best,Pretty good,Pretty good,Great stats!,Poison Fang,Flatter,Fury Swipes,Leer,Aestas,212471
+No. 0946,Bramblin,MALE,Lv. 25,Sassy,-Speed/+Sp.Def,None,Wind Rider,Pretty good,Pretty good,Very good,Very good,Pretty good,Decent,Great stats!,Bullet Seed,Infestation,Hex,Mega Drain,Aestas,212471
+No. 0947,Brambleghast,FEMALE,Lv. 52,Hasty,-Defense/+Speed,None,Wind Rider,Decent,Decent,Decent,Pretty good,Decent,Decent,OK stats,Phantom Force,Giga Drain,Curse,Pain Split,Aestas,212471
+No. 0948,Toedscool,FEMALE,Lv. 33,Bold,-Attack/+Defense,None,Mycelium Might,Pretty good,Pretty good,Very good,Very good,Decent,Decent,Good stats,Screech,Mud Shot,Hex,Seed Bomb,Aestas,212471
+No. 0949,Toedscruel,MALE,Lv. 75,Adamant,-Sp.Atk/+Attack,None,Mycelium Might,Pretty good,Best,Best,Best,Best,Best,Amazing stats!,Energy Ball,Earth Power,Spore,Hex,Aestas,212471
+No.0950,Klawf,FEMALE,Lv. 15,Rash,-Sp.Def/+Sp.Atk,None,Shell Armor,Decent,Very good,Pretty good,Decent,Pretty good,Decent,OK stats,Rock Throw,Harden,Rock Smash,Rock Tomb,Aestas,212471
+No.0951,Capsakid,MALE,Lv. 15,Adamant,-Sp.Atk/+Attack,None,Chlorophyll,Very good,Best,Pretty good,Decent,Pretty good,Very good,Great stats!,Leafage,Bite,Growth,Razor Leaf,Aestas,212471
+No. 0952,Scovillain,FEMALE,Lv. 41,Hardy,Neutral,None,Chlorophyll,Very good,Pretty good,Pretty good,No good,Decent,Decent,OK stats,Headbutt,Zen Headbutt,Worry Seed,Crunch,Aestas,212471
+No. 0953,Rellor,MALE,Lv. 26,Mild,-Defense/+Sp.Atk,None,Compound Eyes,Decent,No good,Best,Pretty good,Pretty good,Decent,OK stats,Rollout,Mud Shot,Bug Bite,Take Down,Aestas,212471
+No.0954,Rabsca,MALE,Lv. 30,Calm,-Attack/+Sp.Def,None,Synchronize,Decent,Decent,Pretty good,Pretty good,Very good,Decent,Good stats,Rollout,Mud Shot,Bug Bite,Revival Blessing,Aestas,212471
+No.0955,Flittle,FEMALE,Lv. 17,Timid,-Attack/+Speed,None,Frisk,Pretty good,Decent,Decent,Decent,Decent,No good,OK stats,Confusion,Baby-Doll Eyes,Disarming Voice,Quick Attack,Aestas,212471
+No. 0956,Espathra,MALE,Lv. 36,Rash,-Sp.Def/+Sp.Atk,None,Frisk,Pretty good,Pretty good,Very good,Decent,Best,Pretty good,Good stats,Psybeam,Pluck,Agility,Uproar,Aestas,212471
+No. 0957,Tinkatink,FEMALE,Lv. 20,Mild,-Defense/+Sp.Atk,None,Mold Breaker,Best,Decent,Decent,Pretty good,Best,Pretty good,Great stats!,Metal Claw,Covet,Rock Smash,Draining Kiss,Aestas,212471
+No. 0958,Tinkatuff,FEMALE,Lv. 25,Rash,-Sp.Def/+Sp.Atk,None,Own Tempo,Pretty good,Fantastic,Pretty good,Very good,Pretty good,Decent,Great stats!,Rock Smash,Draining Kiss,Sweet Kiss,Brutal Swing,Aestas,212471
+No. 0959,Tinkaton,FEMALE,Lv. 75,Quiet,-Speed/+Sp.Atk,None,Mold Breaker,Decent,Best,Best,Pretty good,Best,Best,Amazing stats!,Gigaton Hammer,Play Rough,Brutal Swing,Rock Smash,Aestas,212471
+No. 0960,Wiglett,FEMALE,Lv. 12,Careful,-Sp.Atk/+Sp.Def,None,Gooey,Decent,Decent,Decent,Decent,Decent,Best,OK stats,Wrap,Aqua Jet,Sand Attack,Water Gun,Aestas,212471
+No. 0961,Wugtrio,FEMALE,Lv. 45,Lonely,-Defense/+Attack,None,Rattled,Pretty good,Decent,Best,Best,Decent,Best,Great stats!,Triple Dive,Sucker Punch,Aqua Jet,Facade,Aestas,212471
+No. 0962,Bombirdier,MALE,Lv. 39,Relaxed,-Speed/+Defense,None,Big Pecks,Pretty good,Pretty good,Pretty good,Pretty good,Decent,Pretty good,Good stats,Pluck,Torment,Rock Tomb,Payback,Aestas,212471
+No. 0963,Finizen,FEMALE,Lv. 20,Modest,-Attack/+Sp.Atk,None,Water Veil,Decent,Pretty good,Very good,Decent,Pretty good,Decent,Good stats,Astonish,Focus Energy,Aqua Jet,Double Hit,Aestas,212471
+No. 0964,Palafin,MALE,Lv. 75,Naughty,-Sp.Def/+Attack,None,Zero to Hero,Best,Best,Best,Best,Pretty good,Decent,Great stats!,Liquidation,Acrobatics,Charm,Boomburst,Aestas,212471
+No. 0965,Varoom,FEMALE,Lv. 27,Sassy,-Speed/+Sp.Def,None,Overcoat,Decent,Decent,Decent,Decent,Pretty good,Fantastic,OK stats,Sludge,Gyro Ball,Headbutt,Screech,Aestas,212471
+No. 0966,Revavroom,FEMALE,Lv. 75,Impish,-Sp.Atk/+Defense,None,Overcoat,Best,Pretty good,Best,No good,Best,Best,Great stats!,Spin Out,Taunt,Gunk Shot,Overheat,Aestas,212471
+No. 0967,Cyclizar,FEMALE,Lv. 45,Rash,-Sp.Def/+Sp.Atk,None,Shed Skin,Decent,Best,Best,Decent,Pretty good,Best,Great stats!,Acrobatics,Facade,Power Whip,Shift Gear,Aestas,212471
+No. 0968,Orthworm,MALE,Lv. 75,Docile,Neutral,None,Sand Veil,Best,Best,Best,Pretty good,Pretty good,Best,Amazing stats!,Iron Head,Earthquake,Stomping Tantrum,Wrap,Aestas,212471
+No. 0969,Glimmet,FEMALE,Lv. 41,Docile,Neutral,None,Toxic Debris,Best,Very good,Decent,Decent,Pretty good,Pretty good,Great stats!,Self-Destruct,Rock Slide,Power Gem,Acid Armor,Aestas,212471
+No.0970,Glimmora,FEMALE,Lv. 75,Rash,-Sp.Def/+Sp.Atk,None,Corrosion,Pretty good,Best,Best,Best,Very good,Best,Amazing stats!,Power Gem,Sludge Bomb,Mortal Spin,Ancient Power,Aestas,212471
+No. 0971,Greavard,FEMALE,Lv. 43,Relaxed,-Speed/+Defense,None,Pickup,Decent,Pretty good,Fantastic,Decent,Decent,Pretty good,Good stats,Crunch,Play Rough,Helping Hand,Phantom Force,Aestas,212471
+No. 0972,Houndstone,FEMALE,Lv. 43,Relaxed,-Speed/+Defense,None,Sand Rush,Decent,Decent,Pretty good,Pretty good,Pretty good,Decent,OK stats,Rest,Crunch,Play Rough,Helping Hand,Aestas,212471
+No. 0973,Flamigo,MALE,Lv. 6,Quiet,-Speed/+Sp.Atk,None,Scrappy,Decent,Decent,Decent,Very good,Decent,Decent,OK stats,Peck,Copycat,Double Kick,,Aestas,212471
+No.0975,Cetitan,MALE,Lv. 41,Mild,-Defense/+Sp.Atk,None,Thick Fat,Pretty good,Pretty good,No good,Pretty good,Decent,Decent,OK stats,Avalanche,Bounce,Body Slam,Amnesia,Aestas,212471
+No. 0976,Veluza,FEMALE,Lv. 53,Timid,-Attack/+Speed,None,Mold Breaker,Very good,Pretty good,Very good,Pretty good,Decent,Decent,Good stats,Night Slash,Psycho Cut,Liquidation,Crunch,Aestas,212471
+No. 0977,Dondozo,MALE,Lv. 53,Timid,-Attack/+Speed,None,Oblivious,Pretty good,Decent,Very good,Decent,Decent,No good,OK stats,Body Slam,Aqua Tail,Rain Dance,Order Up,Aestas,212471
+No. 0978,Tatsugiri,FEMALE,Lv. 75,Adamant,-Sp.Atk/+Attack,None,Commander,Best,No good,Best,Best,Best,Decent,Great stats!,Water Pulse,Dragon Pulse,Rapid Spin,Counter,Aestas,212471
+No. 0978,Tatsugiri,MALE,Lv. 53,Bashful,Neutral,None,Commander,Decent,Pretty good,Decent,Very good,Pretty good,Decent,OK stats,Muddy Water,Nasty Plot,Mirror Coat,Dragon Pulse,Aestas,212471
+No. 0978,Tatsugiri,MALE,Lv. 49,Serious,Neutral,None,Commander,Decent,Decent,Pretty good,Very good,Decent,Best,Good stats,Memento,Muddy Water,Nasty Plot,Mirror Coat,Aestas,212471
+No. 0980,Clodsire,MALE,Lv. 24,Brave,-Speed/+Attack,None,Poison Point,Pretty good,Decent,Decent,Pretty good,Very good,Pretty good,Good stats,Poison Tail,Toxic Spikes,Slam,Yawn,Aestas,212471
+No. 0981,Farigiraf,FEMALE,Lv. 38,Serious,Neutral,None,Cud Chew,Pretty good,Decent,Decent,Pretty good,Pretty good,Pretty good,Good stats,Assurance,Stomp,Psybeam,Twin Beam,Aestas,212471
+No. 0982,Dudunsparce,FEMALE,Lv. 58,Hardy,Neutral,None,Run Away,Pretty good,Decent,Decent,Pretty good,Decent,Decent,OK stats,Coil,Double-Edge,Endeavor,Hurricane,Aestas,212471
+No. 0983,Kingambit,FEMALE,Lv. 75,Mild,-Defense/+Sp.Atk,None,Pressure,Very good,Best,Best,Best,Best,Best,Amazing stats!,Iron Head,Night Slash,Kowtow Cleave,Thunder Wave,Aestas,212471
+No. 0984,Great Tusk,GENDERLESS,Lv. 58,Impish,-Sp.Atk/+Defense,None,Protosynthesis,Decent,Pretty good,Very good,Decent,Pretty good,Best,Good stats,Stomping Tantrum,Knock Off,Earthquake,Giga Impact,titus,398466
+No. 0985,Scream Tail,GENDERLESS,Lv. 60,Relaxed,-Speed/+Defense,None,Protosynthesis,Very good,Decent,Pretty good,Decent,Decent,Very good,Good stats,Rest,Play Rough,Hyper Voice,Psychic Fangs,RoC,909127
+No. 0986,Brute Bonnet,GENDERLESS,Lv. 58,Brave,-Speed/+Attack,None,Protosynthesis,Pretty good,Very good,Decent,Pretty good,Decent,Fantastic,Good stats,Payback,Thrash,Giga Drain,Sucker Punch,RoC,909127
+No. 0987,Flutter Mane,GENDERLESS,Lv. 59,Quirky,Neutral,None,Protosynthesis,Decent,Decent,Decent,Fantastic,Decent,Pretty good,Good stats,Dazzling Gleam,Shadow Ball,Mystical Fire,Power Gem,RoC,909127
+No. 0988,Slither Wing,GENDERLESS,Lv. 75,Naughty,-Sp.Def/+Attack,None,Protosynthesis,Best,Decent,Very good,Best,Best,Best,Amazing stats!,Superpower,First Impression,Flare Blitz,Heavy Slam,Aestas,212471
+No. 0989,Sandy Shocks,GENDERLESS,Lv. 57,Serious,Neutral,None,Protosynthesis,Very good,Decent,Pretty good,Pretty good,Very good,Decent,Good stats,Screech,Heavy Slam,Metal Sound,Discharge,RoC,909127
+No. 0990,Iron Treads,GENDERLESS,Lv. 59,Bashful,Neutral,None,Quark Drive,Pretty good,Decent,Very good,Pretty good,Pretty good,Decent,Good stats,Stomping Tantrum,Knock Off,Earthquake,Heavy Slam,Aestas,212471
+No.0991,lron Bundle,GENDERLESS,Lv. 53,Bold,-Attack/+Defense,None,Quark Drive,Pretty good,Very good,Pretty good,Pretty good,Decent,Very good,Great stats!,Drill Peck,Helping Hand,Freeze-Dry,Flip Turn,Aestas,212471
+No. 0992,lron Hands,GENDERLESS,Lv. 53,Lax,-Sp.Def/+Defense,None,Quark Drive,Decent,Decent,Pretty good,Pretty good,Decent,Pretty good,OK stats,Slam,Force Palm,Seismic Toss,Charge,Aestas,212471
+No. 0993,Iron Jugulis,GENDERLESS,Lv. 57,Gentle,-Defense/+Sp.Def,None,Quark Drive,Best,Pretty good,Decent,Fantastic,Pretty good,Pretty good,Great stats!,Snarl,Crunch,Hyper Voice,Air Slash,Aestas,212471
+No. 0994,Iron Moth,GENDERLESS,Lv. 75,Jolly,-Sp.Atk/+Speed,None,Quark Drive,Best,Pretty good,Pretty good,Best,Best,Best,Amazing stats!,Energy Ball,Overheat,Sludge Wave,Acid Spray,Aestas,212471
+No. 0995,lron Thorns,GENDERLESS,Lv. 52,Lonely,-Defense/+Attack,None,Quark Drive,Decent,Fantastic,Decent,Decent,No good,Decent,OK stats,Bite,Charge,Rock Slide,Sandstorm,Aestas,212471
+No. 0996,Frigibax,MALE,Lv. 35,Careful,-Sp.Atk/+Sp.Def,None,Thermal Exchange,Best,Best,Pretty good,Decent,Pretty good,Pretty good,Great stats!,Ice Fang,Dragon Claw,Bite,Leer,Aestas,212471
+No. 0997,Arctibax,FEMALE,Lv. 49,Sassy,-Speed/+Sp.Def,None,Thermal Exchange,Pretty good,Pretty good,Decent,Decent,Pretty good,No good,OK stats,Bite,Ice Fang,Take Down,Ice Beam,Aestas,212471
+No. 0999,Gimmighoul,GENDERLESS,Lv. 39,Modest,-Attack/+Sp.Atk,None,Rattled,Decent,Pretty good,Decent,Pretty good,Pretty good,Pretty good,Good stats,Astonish,Tackle,,,Aestas,212471
+No. 1000,Gholdengo,GENDERLESS,Lv. 56,Impish,-Sp.Atk/+Defense,None,Good as Gold,Fantastic,Decent,Decent,Pretty good,Decent,No good,OK stats,Astonish,Tackle,,,Aestas,212471
+No. 1001,Wo-Chien,GENDERLESS,Lv. 60,Adamant,-Sp.Atk/+Attack,None,Tablets of Ruin,Pretty good,Best,Pretty good,Best,Best,Pretty good,Great stats!,Giga Drain,Ruination,Foul Play,Power Whip,Aestas,212471
+No. 1002,Chien-Pao,GENDERLESS,Lv. 60,Careful,-Sp.Atk/+Sp.Def,None,Sword of Ruin,Best,Best,Decent,Best,Decent,Decent,Great stats!,Icicle Crash,Ruination,Sucker Punch,Sacred Sword,Aestas,212471
+No. 1003,Ting-Lu,GENDERLESS,Lv. 60,Adamant,-Sp.Atk/+Attack,None,Vessel of Ruin,Decent,Decent,Decent,Best,Best,Best,Great stats!,Stomping Tantrum,Ruination,Throat Chop,Rock Slide,Aestas,212471
+No. 1004,Chi-Yu,GENDERLESS,Lv. 60,Hardy,Neutral,None,Beads of Ruin,Best,Best,Decent,Best,Decent,Decent,Great stats!,Lava Plume,Ruination,Bounce,Swagger,Aestas,212471
+No. 1005,Roaring Moon,GENDERLESS,Lv. 59,Bashful,Neutral,None,Protosynthesis,Decent,Decent,No good,Pretty good,Decent,Very good,OK stats,Zen Headbutt,Flamethrower,Night Slash,Dragon Dance,RoC,909127
+No. 1006,Iron Valiant,GENDERLESS,Lv. 58,Hardy,Neutral,None,Quark Drive,Pretty good,Decent,Pretty good,Decent,Decent,Decent,OK stats,Psycho Cut,Night Slash,Leaf Blade,Moonblast,Aestas,212471
+No. 1007,Koraidon,GENDERLESS,Lv. 100,Adamant,-Sp.Atk/+Attack,None,Orichalcum Pulse,Hyper trained!,Best,Hyper trained!,Best,Hyper trainec,Best,Amazing stats!,Outrage,Dragon Claw,Collision Course,Flamethrower,RoC,909127
+No. 1008,Miraidon,GENDERLESS,Lv. 72,Modest,-Attack/+Sp.Atk,None,Hadron Engine,Pretty good,Best,Pretty good,Best,Pretty good,Best,Amazing stats!,Hyper Beam,Charge,Electro Drift,Power Gem,Aestas,212471
+No. 1010,lron Leaves,GENDERLESS,Lv. 75,Impish,-Sp.Atk/+Defense,None,Quark Drive,Best,No good,Decent,Best,Best,Best,Great stats!,Psyblade,Leaf Blade,Megahorn,Swords Dance,Ventus,198329
+No. 1009,Walking Wake,GENDERLESS,Lv. 75,Timid,-Attack/+Speed,None,Protosynthesis,Best,Pretty good,Best,Best,Decent,Best,Amazing stats!,Hydro Steam,Dragon Pulse,Noble Roar,Flamethrower,Stevens,405120
+No. 1011,Dipplin,MALE,Lv. 45,Lax,-Sp.Def/+Defense,None,Gluttony,Best,Decent,Decent,Best,Pretty good,Best,Great stats!,Syrup Bomb,Dragon Breath,Double Hit,Energy Ball,Aestas,212471
+No. 1012,Poltchageist,GENDERLESS,Lv. 35,Sassy,-Speed/+Sp.Def,None,Hospitality,Fantastic,Best,Best,No good,Very good,No good,Great stats!,Foul Play,Mega Drain,Hex,Absorb,Aestas,212471
+No. 1012,Poltchageist,GENDERLESS,Lv. 67,Impish,-Sp.Atk/+Defense,None,Hospitality,Pretty good,Pretty good,Decent,Pretty good,Pretty good,Decent,Good stats,Giga Drain,Shadow Ball,Memento,Leaf Storm,Aestas,212471
+No. 1013,Sinistcha,GENDERLESS,Lv. 35,Rash,-Sp.Def/+Sp.Atk,None,Hospitality,Very good,Best,Best,Decent,Decent,Best,Great stats!,Foul Play,Mega Drain,Hex,Matcha Gotcha,Aestas,212471
+No. 1013,Sinistcha,GENDERLESS,Lv. 75,Naughty,-Sp.Def/+Attack,None,Heatproof,Best,Best,Best,Best,Very good,Best,Amazing stats!,Energy Ball,Shadow Ball,Stun Spore,Scald,Aestas,212471
+No. 1014,Okidogi,MALE,Lv. 70,Naive,-Sp.Def/+Speed,None,Toxic Chain,Decent,Decent,Very good,Best,Best,Best,Great stats!,Poison Jab,Brutal Swing,Crunch,Superpower,Aestas,212471
+No. 1015,Munkidori,MALE,Lv. 70,Impish,-Sp.Atk/+Defense,None,Toxic Chain,Best,Best,No good,Best,Pretty good,Pretty good,Great stats!,Psychic,Sludge Wave,Nasty Plot,Future Sight,Aestas,212471
+No. 1016,Fezandipiti,MALE,Lv. 70,Impish,-Sp.Atk/+Defense,None,Toxic Chain,Decent,Pretty good,Best,Decent,Best,Best,Great stats!,Beat Up,Swagger,Flatter,Roost,Aestas,212471
+No. 1017,Ogerpon,FEMALE,Lv. 70,Lonely,-Defense/+Attack,None,Defiant,Best,Best,Pretty good,Pretty good,Pretty good,Best,Amazing stats!,Ivy Cudgel,Low Kick,Slam,Grassy Terrain,Aestas,212471

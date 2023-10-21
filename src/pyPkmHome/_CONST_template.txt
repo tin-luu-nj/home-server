@@ -1,0 +1,28 @@
+# This is a generated Python script
+from typing import Any, Tuple, Dict
+
+{%- for key, rect in crop_rect.items() %}
+# {{ rect.desc }}
+{{ key }}:  {{ rect.type_hint }} = {
+{%- for key, value in rect.items() %}
+    {%- if key != 'desc' and key != 'type_hint' %}
+    # {{ value[0] }}
+    "{{ key }}": {{ value[1] }},
+    {%- endif %}
+{%- endfor %}
+}
+{%- endfor %}
+
+
+{%- for key, value in const.items() %}
+# {{ value.desc }}
+{%- if value.type_hint == 'str' %}
+{{ key }}: {{ value.type_hint }} = "{{ value.val }}"
+{%- else %}
+{{ key }}: {{ value.type_hint }} = {{ value.val }}
+{%- endif %}
+{%- endfor %}
+
+################################################################################
+#                                END OF FILE                                   #
+################################################################################
