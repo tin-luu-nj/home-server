@@ -1,11 +1,11 @@
 import functools
-from unittest import IsolatedAsyncioTestCase
 from collections.abc import Generator
-from typing import Callable, Generator, Any, List
 from inspect import iscoroutinefunction
+from typing import Any, Callable, Generator, List
+from unittest import IsolatedAsyncioTestCase
 
-import __params
 import __expected
+import __params
 
 
 class clsUnitTestTemplate(IsolatedAsyncioTestCase):
@@ -51,7 +51,6 @@ class clsUnitTestTemplate(IsolatedAsyncioTestCase):
 
             @functools.wraps(test_procedure)
             async def coroutine_wrapper(self) -> None:
-
                 self.pre_test(test_case)
                 await test_procedure(self)
                 self.post_test(test_case)

@@ -27,4 +27,3 @@ class TestDiagnosticHandler(unittest.TestCase):
         # Call emit twice, one for LogRecord, once for FileHandler
         mock_StreamHandler_emit.assert_called()
         mock_FileHandler_emit.assert_called()
-

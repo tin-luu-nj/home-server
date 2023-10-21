@@ -1,6 +1,6 @@
-from src.pyFileManagement import walk_tree
-
 from _ut_template import clsUnitTestTemplate
+
+from src.pyFileManagement import walk_tree
 
 
 class Test_Normal(clsUnitTestTemplate):

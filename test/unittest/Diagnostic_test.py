@@ -101,4 +101,3 @@ class TestDiagnostic(unittest.TestCase):
         self.assertEqual(
             self.diagnostic.last_event, (str(datetime.now()), *self.events["error"])
         )
-
