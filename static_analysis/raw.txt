@@ -11,28 +11,28 @@ src\Application.py
         (C % S): 18%
         (C + M % L): 18%
 src\Configurator.py
-    LOC: 7
-    LLOC: 4
-    SLOC: 4
-    Comments: 1
-    Single comments: 1
+    LOC: 77
+    LLOC: 59
+    SLOC: 59
+    Comments: 3
+    Single comments: 3
     Multi: 0
-    Blank: 2
+    Blank: 15
     - Comment Stats
-        (C % L): 14%
-        (C % S): 25%
-        (C + M % L): 14%
+        (C % L): 4%
+        (C % S): 5%
+        (C + M % L): 4%
 src\Generator.py
-    LOC: 182
-    LLOC: 72
-    SLOC: 78
-    Comments: 9
-    Single comments: 9
+    LOC: 184
+    LLOC: 73
+    SLOC: 79
+    Comments: 10
+    Single comments: 10
     Multi: 55
     Blank: 40
     - Comment Stats
         (C % L): 5%
-        (C % S): 12%
+        (C % S): 13%
         (C + M % L): 35%
 src\Scheduler.py
     LOC: 0
@@ -83,17 +83,29 @@ src\pyAbstract\CALLBACK.py
         (C % S): 0%
         (C + M % L): 0%
 src\pyDiagnostic\diagnostic.py
-    LOC: 110
-    LLOC: 56
-    SLOC: 90
-    Comments: 5
-    Single comments: 5
-    Multi: 0
-    Blank: 15
+    LOC: 148
+    LLOC: 65
+    SLOC: 58
+    Comments: 0
+    Single comments: 2
+    Multi: 56
+    Blank: 32
     - Comment Stats
-        (C % L): 5%
-        (C % S): 6%
-        (C + M % L): 5%
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 38%
+src\pyDiagnostic\_CONST_.py
+    LOC: 51
+    LLOC: 45
+    SLOC: 29
+    Comments: 11
+    Single comments: 11
+    Multi: 0
+    Blank: 11
+    - Comment Stats
+        (C % L): 22%
+        (C % S): 38%
+        (C + M % L): 22%
 src\pyDiagnostic\__init__.py
     LOC: 33
     LLOC: 2
@@ -106,18 +118,18 @@ src\pyDiagnostic\__init__.py
         (C % L): 85%
         (C % S): 2800%
         (C + M % L): 85%
-src\pyDiagnostic\__literals__.py
-    LOC: 7
-    LLOC: 6
-    SLOC: 6
-    Comments: 0
-    Single comments: 0
+src\pyDiagnostic\__sample.py
+    LOC: 31
+    LLOC: 12
+    SLOC: 18
+    Comments: 6
+    Single comments: 6
     Multi: 0
-    Blank: 1
+    Blank: 7
     - Comment Stats
-        (C % L): 0%
-        (C % S): 0%
-        (C + M % L): 0%
+        (C % L): 19%
+        (C % S): 33%
+        (C + M % L): 19%
 src\pyDummy\dummy.py
     LOC: 11
     LLOC: 10
@@ -167,21 +179,21 @@ src\pyFileManagement\__literals__.py
         (C % S): 0%
         (C + M % L): 0%
 src\pyPkmHome\image_process.py
-    LOC: 185
-    LLOC: 58
-    SLOC: 94
+    LOC: 186
+    LLOC: 59
+    SLOC: 95
     Comments: 24
     Single comments: 24
     Multi: 23
     Blank: 44
     - Comment Stats
         (C % L): 13%
-        (C % S): 26%
+        (C % S): 25%
         (C + M % L): 25%
 src\pyPkmHome\pokemon_HOME.py
-    LOC: 200
-    LLOC: 65
-    SLOC: 92
+    LOC: 201
+    LLOC: 66
+    SLOC: 93
     Comments: 38
     Single comments: 34
     Multi: 30
@@ -190,30 +202,30 @@ src\pyPkmHome\pokemon_HOME.py
         (C % L): 19%
         (C % S): 41%
         (C + M % L): 34%
-src\pyPkmHome\_CONSTANT_.py
-    LOC: 101
-    LLOC: 56
-    SLOC: 70
-    Comments: 31
-    Single comments: 18
+src\pyPkmHome\_CONST_.py
+    LOC: 102
+    LLOC: 43
+    SLOC: 76
+    Comments: 50
+    Single comments: 25
     Multi: 0
-    Blank: 13
+    Blank: 1
     - Comment Stats
-        (C % L): 31%
-        (C % S): 44%
-        (C + M % L): 31%
-src\pyPkmHome\_generate.py
-    LOC: 0
-    LLOC: 0
-    SLOC: 0
-    Comments: 0
-    Single comments: 0
-    Multi: 0
-    Blank: 0
+        (C % L): 49%
+        (C % S): 66%
+        (C + M % L): 49%
+src\pyPkmHome\_generateCode.py
+    LOC: 88
+    LLOC: 35
+    SLOC: 42
+    Comments: 8
+    Single comments: 8
+    Multi: 20
+    Blank: 18
     - Comment Stats
-        (C % L): 0%
-        (C % S): 0%
-        (C + M % L): 0%
+        (C % L): 9%
+        (C % S): 19%
+        (C + M % L): 32%
 src\pyPkmHome\__init__.py
     LOC: 12
     LLOC: 2
@@ -226,6 +238,30 @@ src\pyPkmHome\__init__.py
         (C % L): 25%
         (C % S): 300%
         (C + M % L): 67%
+src\pySocket\echo-client.py
+    LOC: 11
+    LLOC: 8
+    SLOC: 8
+    Comments: 2
+    Single comments: 0
+    Multi: 0
+    Blank: 3
+    - Comment Stats
+        (C % L): 18%
+        (C % S): 25%
+        (C + M % L): 18%
+src\pyTorrent\1337x.py
+    LOC: 193
+    LLOC: 75
+    SLOC: 104
+    Comments: 8
+    Single comments: 7
+    Multi: 42
+    Blank: 40
+    - Comment Stats
+        (C % L): 4%
+        (C % S): 8%
+        (C + M % L): 26%
 src\pyUpdate\Update.py
     LOC: 79
     LLOC: 36
@@ -238,3 +274,123 @@ src\pyUpdate\Update.py
         (C % L): 3%
         (C % S): 6%
         (C + M % L): 35%
+test\DiagnosticHandling_ut.py
+    LOC: 30
+    LLOC: 18
+    SLOC: 17
+    Comments: 1
+    Single comments: 1
+    Multi: 6
+    Blank: 6
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 6%
+        (C + M % L): 23%
+test\Diagnostic_ut.py
+    LOC: 104
+    LLOC: 57
+    SLOC: 74
+    Comments: 0
+    Single comments: 0
+    Multi: 15
+    Blank: 15
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 14%
+test\FileManagement_cov.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+test\FileManagement_ut.py
+    LOC: 26
+    LLOC: 15
+    SLOC: 15
+    Comments: 3
+    Single comments: 3
+    Multi: 0
+    Blank: 8
+    - Comment Stats
+        (C % L): 12%
+        (C % S): 20%
+        (C + M % L): 12%
+test\use_case.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+test\_ut_template.py
+    LOC: 96
+    LLOC: 50
+    SLOC: 41
+    Comments: 3
+    Single comments: 6
+    Multi: 24
+    Blank: 25
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 7%
+        (C + M % L): 28%
+test\__expected.py
+    LOC: 4
+    LLOC: 4
+    SLOC: 4
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+test\__init__.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+test\__params.py
+    LOC: 0
+    LLOC: 0
+    SLOC: 0
+    Comments: 0
+    Single comments: 0
+    Multi: 0
+    Blank: 0
+    - Comment Stats
+        (C % L): 0%
+        (C % S): 0%
+        (C + M % L): 0%
+.\Launcher.py
+    LOC: 33
+    LLOC: 18
+    SLOC: 25
+    Comments: 1
+    Single comments: 1
+    Multi: 0
+    Blank: 7
+    - Comment Stats
+        (C % L): 3%
+        (C % S): 4%
+        (C + M % L): 3%
