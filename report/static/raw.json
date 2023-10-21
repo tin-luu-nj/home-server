@@ -1,0 +1,335 @@
+{
+    "src\\Application.py": {
+        "loc": 38,
+        "lloc": 17,
+        "sloc": 22,
+        "comments": 4,
+        "multi": 3,
+        "blank": 9,
+        "single_comments": 4
+    },
+    "src\\Configurator.py": {
+        "loc": 77,
+        "lloc": 59,
+        "sloc": 59,
+        "comments": 3,
+        "multi": 0,
+        "blank": 15,
+        "single_comments": 3
+    },
+    "src\\Generator.py": {
+        "loc": 184,
+        "lloc": 73,
+        "sloc": 79,
+        "comments": 10,
+        "multi": 55,
+        "blank": 40,
+        "single_comments": 10
+    },
+    "src\\Scheduler.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\_CONST_.py": {
+        "loc": 10,
+        "lloc": 14,
+        "sloc": 7,
+        "comments": 2,
+        "multi": 0,
+        "blank": 1,
+        "single_comments": 2
+    },
+    "src\\__init__.py": {
+        "loc": 2,
+        "lloc": 2,
+        "sloc": 2,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\pyAbstract\\CALLBACK.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\pyDiagnostic\\diagnostic.py": {
+        "loc": 148,
+        "lloc": 65,
+        "sloc": 58,
+        "comments": 0,
+        "multi": 56,
+        "blank": 32,
+        "single_comments": 2
+    },
+    "src\\pyDiagnostic\\_CONST_.py": {
+        "loc": 51,
+        "lloc": 45,
+        "sloc": 29,
+        "comments": 11,
+        "multi": 0,
+        "blank": 11,
+        "single_comments": 11
+    },
+    "src\\pyDiagnostic\\__init__.py": {
+        "loc": 33,
+        "lloc": 2,
+        "sloc": 1,
+        "comments": 28,
+        "multi": 0,
+        "blank": 3,
+        "single_comments": 29
+    },
+    "src\\pyDiagnostic\\__sample.py": {
+        "loc": 31,
+        "lloc": 12,
+        "sloc": 18,
+        "comments": 6,
+        "multi": 0,
+        "blank": 7,
+        "single_comments": 6
+    },
+    "src\\pyDummy\\dummy.py": {
+        "loc": 11,
+        "lloc": 10,
+        "sloc": 9,
+        "comments": 0,
+        "multi": 0,
+        "blank": 2,
+        "single_comments": 0
+    },
+    "src\\pyFileManagement\\fileManage.py": {
+        "loc": 5,
+        "lloc": 3,
+        "sloc": 3,
+        "comments": 0,
+        "multi": 0,
+        "blank": 2,
+        "single_comments": 0
+    },
+    "src\\pyFileManagement\\__init__.py": {
+        "loc": 1,
+        "lloc": 1,
+        "sloc": 1,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\pyFileManagement\\__literals__.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\pyPkmHome\\image_process.py": {
+        "loc": 186,
+        "lloc": 59,
+        "sloc": 95,
+        "comments": 24,
+        "multi": 23,
+        "blank": 44,
+        "single_comments": 24
+    },
+    "src\\pyPkmHome\\pokemon_HOME.py": {
+        "loc": 201,
+        "lloc": 66,
+        "sloc": 93,
+        "comments": 38,
+        "multi": 30,
+        "blank": 44,
+        "single_comments": 34
+    },
+    "src\\pyPkmHome\\_CONST_.py": {
+        "loc": 102,
+        "lloc": 43,
+        "sloc": 76,
+        "comments": 50,
+        "multi": 0,
+        "blank": 1,
+        "single_comments": 25
+    },
+    "src\\pyPkmHome\\_generateCode.py": {
+        "loc": 88,
+        "lloc": 35,
+        "sloc": 42,
+        "comments": 8,
+        "multi": 20,
+        "blank": 18,
+        "single_comments": 8
+    },
+    "src\\pyPkmHome\\__init__.py": {
+        "loc": 12,
+        "lloc": 2,
+        "sloc": 1,
+        "comments": 3,
+        "multi": 5,
+        "blank": 3,
+        "single_comments": 3
+    },
+    "src\\pySocket\\echo-client.py": {
+        "loc": 11,
+        "lloc": 8,
+        "sloc": 8,
+        "comments": 2,
+        "multi": 0,
+        "blank": 3,
+        "single_comments": 0
+    },
+    "src\\pyTorrent\\1337x.py": {
+        "loc": 193,
+        "lloc": 75,
+        "sloc": 104,
+        "comments": 8,
+        "multi": 42,
+        "blank": 40,
+        "single_comments": 7
+    },
+    "src\\pyUpdate\\Update.py": {
+        "loc": 123,
+        "lloc": 55,
+        "sloc": 53,
+        "comments": 0,
+        "multi": 36,
+        "blank": 34,
+        "single_comments": 0
+    },
+    "src\\pyUpdate\\__init__.py": {
+        "loc": 1,
+        "lloc": 1,
+        "sloc": 1,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\pyUpdate\\__sample.py": {
+        "loc": 7,
+        "lloc": 3,
+        "sloc": 3,
+        "comments": 2,
+        "multi": 0,
+        "blank": 2,
+        "single_comments": 2
+    },
+    "test\\Coverage.py": {
+        "loc": 56,
+        "lloc": 22,
+        "sloc": 28,
+        "comments": 7,
+        "multi": 7,
+        "blank": 14,
+        "single_comments": 7
+    },
+    "test\\static_metrics.py": {
+        "loc": 65,
+        "lloc": 27,
+        "sloc": 44,
+        "comments": 3,
+        "multi": 6,
+        "blank": 12,
+        "single_comments": 3
+    },
+    "test\\use_case.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "test\\_ut_template.py": {
+        "loc": 95,
+        "lloc": 50,
+        "sloc": 41,
+        "comments": 3,
+        "multi": 24,
+        "blank": 24,
+        "single_comments": 6
+    },
+    "test\\__dummy.py": {
+        "loc": 26,
+        "lloc": 15,
+        "sloc": 15,
+        "comments": 3,
+        "multi": 0,
+        "blank": 8,
+        "single_comments": 3
+    },
+    "test\\__expected.py": {
+        "loc": 4,
+        "lloc": 4,
+        "sloc": 4,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "test\\__init__.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "test\\__params.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "test\\unittest\\DiagnosticHandling_test.py": {
+        "loc": 29,
+        "lloc": 18,
+        "sloc": 17,
+        "comments": 1,
+        "multi": 6,
+        "blank": 5,
+        "single_comments": 1
+    },
+    "test\\unittest\\Diagnostic_test.py": {
+        "loc": 103,
+        "lloc": 57,
+        "sloc": 74,
+        "comments": 0,
+        "multi": 15,
+        "blank": 14,
+        "single_comments": 0
+    },
+    "test\\unittest\\Update_test.py": {
+        "loc": 202,
+        "lloc": 129,
+        "sloc": 140,
+        "comments": 30,
+        "multi": 0,
+        "blank": 34,
+        "single_comments": 28
+    },
+    "./Launcher.py": {
+        "loc": 33,
+        "lloc": 18,
+        "sloc": 25,
+        "comments": 1,
+        "multi": 0,
+        "blank": 7,
+        "single_comments": 1
+    }
+}
