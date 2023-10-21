@@ -4,3 +4,4 @@ htmlcov
 .coverage
 .vscode
 config/private_cfg.yml
+log
