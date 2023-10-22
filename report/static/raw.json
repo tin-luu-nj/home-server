@@ -188,14 +188,41 @@
         "blank": 3,
         "single_comments": 0
     },
-    "src\\pyTorrent\\1337x.py": {
-        "loc": 193,
-        "lloc": 75,
-        "sloc": 104,
+    "src\\pyTorrent\\torrent_1337x.py": {
+        "loc": 184,
+        "lloc": 60,
+        "sloc": 95,
+        "comments": 2,
+        "multi": 53,
+        "blank": 34,
+        "single_comments": 2
+    },
+    "src\\pyTorrent\\_CONST_.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\pyTorrent\\__init__.py": {
+        "loc": 0,
+        "lloc": 0,
+        "sloc": 0,
+        "comments": 0,
+        "multi": 0,
+        "blank": 0,
+        "single_comments": 0
+    },
+    "src\\pyTorrent\\__sample.py": {
+        "loc": 47,
+        "lloc": 19,
+        "sloc": 28,
         "comments": 8,
-        "multi": 42,
-        "blank": 40,
-        "single_comments": 7
+        "multi": 0,
+        "blank": 11,
+        "single_comments": 8
     },
     "src\\pyUpdate\\Update.py": {
         "loc": 123,
@@ -296,6 +323,15 @@
         "blank": 0,
         "single_comments": 0
     },
+    "test\\unittest\\convert_size_test.py": {
+        "loc": 29,
+        "lloc": 14,
+        "sloc": 14,
+        "comments": 7,
+        "multi": 0,
+        "blank": 8,
+        "single_comments": 7
+    },
     "test\\unittest\\DiagnosticHandling_test.py": {
         "loc": 29,
         "lloc": 18,
@@ -313,6 +349,15 @@
         "multi": 15,
         "blank": 14,
         "single_comments": 0
+    },
+    "test\\unittest\\torrent_1337x_test.py": {
+        "loc": 151,
+        "lloc": 61,
+        "sloc": 99,
+        "comments": 13,
+        "multi": 18,
+        "blank": 21,
+        "single_comments": 13
     },
     "test\\unittest\\Update_test.py": {
         "loc": 202,

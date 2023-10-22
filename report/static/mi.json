@@ -83,8 +83,20 @@
         "mi": 100.0,
         "rank": "A"
     },
-    "src\\pyTorrent\\1337x.py": {
-        "mi": 65.00748659454626,
+    "src\\pyTorrent\\torrent_1337x.py": {
+        "mi": 68.74827906669802,
+        "rank": "A"
+    },
+    "src\\pyTorrent\\_CONST_.py": {
+        "mi": 100.0,
+        "rank": "A"
+    },
+    "src\\pyTorrent\\__init__.py": {
+        "mi": 100.0,
+        "rank": "A"
+    },
+    "src\\pyTorrent\\__sample.py": {
+        "mi": 100.0,
         "rank": "A"
     },
     "src\\pyUpdate\\Update.py": {
@@ -131,12 +143,20 @@
         "mi": 100.0,
         "rank": "A"
     },
+    "test\\unittest\\convert_size_test.py": {
+        "mi": 100.0,
+        "rank": "A"
+    },
     "test\\unittest\\DiagnosticHandling_test.py": {
         "mi": 100.0,
         "rank": "A"
     },
     "test\\unittest\\Diagnostic_test.py": {
         "mi": 74.1107508812901,
+        "rank": "A"
+    },
+    "test\\unittest\\torrent_1337x_test.py": {
+        "mi": 77.6712895258894,
         "rank": "A"
     },
     "test\\unittest\\Update_test.py": {

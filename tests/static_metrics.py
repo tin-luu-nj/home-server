@@ -13,7 +13,7 @@ def run_radon_commands(commands: List[str], save_output: bool = True) -> None:
     save_output (bool): If True, save the output to a file. Defaults to True.
     """
     radon_tool = "radon"
-    code_paths = ["./src/", "./test/", "./Launcher.py"]
+    code_paths = ["./src/", "./tests/", "./Launcher.py"]
     report_directory = "./report/static"
     command_options = {
         "stdout": {
