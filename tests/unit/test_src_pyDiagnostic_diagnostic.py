@@ -1,7 +1,8 @@
-import pytest
 from datetime import datetime
 from typing import Dict, Tuple
 from unittest.mock import mock_open, patch
+
+import pytest
 
 from src.pyDiagnostic import Diagnostic
 

@@ -76,7 +76,6 @@ def mainFunction(raw: Dict[str, Any]) -> None:
 
     # Render the template with the data
     output = template.render(data)
-    print(output)
 
     # Write the output to a .py file
     with open("src/pyPkmHome/_CONST_.py", "w") as f:
