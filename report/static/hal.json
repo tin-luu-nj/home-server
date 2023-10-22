@@ -912,20 +912,20 @@
         },
         "functions": {}
     },
-    "src\\pyTorrent\\1337x.py": {
+    "src\\pyTorrent\\torrent_1337x.py": {
         "total": {
-            "h1": 11,
-            "h2": 46,
-            "N1": 28,
-            "N2": 54,
-            "vocabulary": 57,
-            "length": 82,
-            "calculated_length": 292.1375977836329,
-            "volume": 478.2969811615089,
-            "difficulty": 6.456521739130435,
-            "effort": 3088.134856629742,
-            "time": 171.56304759054123,
-            "bugs": 0.15943232705383628
+            "h1": 10,
+            "h2": 42,
+            "N1": 25,
+            "N2": 48,
+            "vocabulary": 52,
+            "length": 73,
+            "calculated_length": 259.6966127055816,
+            "volume": 416.1320994242998,
+            "difficulty": 5.714285714285714,
+            "effort": 2377.8977109959988,
+            "time": 132.1054283886666,
+            "bugs": 0.13871069980809994
         },
         "functions": {
             "__init__": {
@@ -943,18 +943,18 @@
                 "bugs": 0.0015849625007211565
             },
             "__setattr__": {
-                "h1": 7,
-                "h2": 27,
-                "N1": 19,
-                "N2": 35,
-                "vocabulary": 34,
-                "length": 54,
-                "calculated_length": 148.0334470128169,
-                "volume": 274.72299342751836,
-                "difficulty": 4.537037037037037,
-                "effort": 1246.4283961063334,
-                "time": 69.2460220059074,
-                "bugs": 0.09157433114250613
+                "h1": 5,
+                "h2": 19,
+                "N1": 13,
+                "N2": 25,
+                "vocabulary": 24,
+                "length": 38,
+                "calculated_length": 92.32026322986493,
+                "volume": 174.22857502740396,
+                "difficulty": 3.289473684210526,
+                "effort": 573.1203125901445,
+                "time": 31.84001736611914,
+                "bugs": 0.058076191675801324
             },
             "get_magnet_link": {
                 "h1": 1,
@@ -984,21 +984,72 @@
                 "time": 6.945583281081811,
                 "bugs": 0.020836749843245433
             },
-            "convert_to_gb": {
-                "h1": 2,
-                "h2": 4,
-                "N1": 2,
-                "N2": 4,
-                "vocabulary": 6,
-                "length": 6,
-                "calculated_length": 10.0,
-                "volume": 15.509775004326936,
-                "difficulty": 1.0,
-                "effort": 15.509775004326936,
-                "time": 0.861654166907052,
-                "bugs": 0.005169925001442312
+            "convert_size": {
+                "h1": 4,
+                "h2": 8,
+                "N1": 5,
+                "N2": 8,
+                "vocabulary": 12,
+                "length": 13,
+                "calculated_length": 32.0,
+                "volume": 46.604512509375034,
+                "difficulty": 2.0,
+                "effort": 93.20902501875007,
+                "time": 5.178279167708337,
+                "bugs": 0.015534837503125011
             }
         }
+    },
+    "src\\pyTorrent\\_CONST_.py": {
+        "total": {
+            "h1": 0,
+            "h2": 0,
+            "N1": 0,
+            "N2": 0,
+            "vocabulary": 0,
+            "length": 0,
+            "calculated_length": 0,
+            "volume": 0,
+            "difficulty": 0,
+            "effort": 0,
+            "time": 0.0,
+            "bugs": 0.0
+        },
+        "functions": {}
+    },
+    "src\\pyTorrent\\__init__.py": {
+        "total": {
+            "h1": 0,
+            "h2": 0,
+            "N1": 0,
+            "N2": 0,
+            "vocabulary": 0,
+            "length": 0,
+            "calculated_length": 0,
+            "volume": 0,
+            "difficulty": 0,
+            "effort": 0,
+            "time": 0.0,
+            "bugs": 0.0
+        },
+        "functions": {}
+    },
+    "src\\pyTorrent\\__sample.py": {
+        "total": {
+            "h1": 0,
+            "h2": 0,
+            "N1": 0,
+            "N2": 0,
+            "vocabulary": 0,
+            "length": 0,
+            "calculated_length": 0,
+            "volume": 0,
+            "difficulty": 0,
+            "effort": 0,
+            "time": 0.0,
+            "bugs": 0.0
+        },
+        "functions": {}
     },
     "src\\pyUpdate\\Update.py": {
         "total": {
@@ -1444,6 +1495,52 @@
         },
         "functions": {}
     },
+    "test\\unittest\\convert_size_test.py": {
+        "total": {
+            "h1": 0,
+            "h2": 0,
+            "N1": 0,
+            "N2": 0,
+            "vocabulary": 0,
+            "length": 0,
+            "calculated_length": 0,
+            "volume": 0,
+            "difficulty": 0,
+            "effort": 0,
+            "time": 0.0,
+            "bugs": 0.0
+        },
+        "functions": {
+            "test_convert_size": {
+                "h1": 0,
+                "h2": 0,
+                "N1": 0,
+                "N2": 0,
+                "vocabulary": 0,
+                "length": 0,
+                "calculated_length": 0,
+                "volume": 0,
+                "difficulty": 0,
+                "effort": 0,
+                "time": 0.0,
+                "bugs": 0.0
+            },
+            "test_invalid_input": {
+                "h1": 0,
+                "h2": 0,
+                "N1": 0,
+                "N2": 0,
+                "vocabulary": 0,
+                "length": 0,
+                "calculated_length": 0,
+                "volume": 0,
+                "difficulty": 0,
+                "effort": 0,
+                "time": 0.0,
+                "bugs": 0.0
+            }
+        }
+    },
     "test\\unittest\\DiagnosticHandling_test.py": {
         "total": {
             "h1": 0,
@@ -1591,6 +1688,94 @@
                 "bugs": 0.0
             },
             "test_last_event": {
+                "h1": 0,
+                "h2": 0,
+                "N1": 0,
+                "N2": 0,
+                "vocabulary": 0,
+                "length": 0,
+                "calculated_length": 0,
+                "volume": 0,
+                "difficulty": 0,
+                "effort": 0,
+                "time": 0.0,
+                "bugs": 0.0
+            }
+        }
+    },
+    "test\\unittest\\torrent_1337x_test.py": {
+        "total": {
+            "h1": 2,
+            "h2": 3,
+            "N1": 4,
+            "N2": 5,
+            "vocabulary": 5,
+            "length": 9,
+            "calculated_length": 6.754887502163469,
+            "volume": 20.89735285398626,
+            "difficulty": 1.6666666666666667,
+            "effort": 34.82892142331043,
+            "time": 1.9349400790728017,
+            "bugs": 0.0069657842846620865
+        },
+        "functions": {
+            "test_init": {
+                "h1": 0,
+                "h2": 0,
+                "N1": 0,
+                "N2": 0,
+                "vocabulary": 0,
+                "length": 0,
+                "calculated_length": 0,
+                "volume": 0,
+                "difficulty": 0,
+                "effort": 0,
+                "time": 0.0,
+                "bugs": 0.0
+            },
+            "test_invalid_init": {
+                "h1": 0,
+                "h2": 0,
+                "N1": 0,
+                "N2": 0,
+                "vocabulary": 0,
+                "length": 0,
+                "calculated_length": 0,
+                "volume": 0,
+                "difficulty": 0,
+                "effort": 0,
+                "time": 0.0,
+                "bugs": 0.0
+            },
+            "test_setattr_errors": {
+                "h1": 1,
+                "h2": 1,
+                "N1": 3,
+                "N2": 3,
+                "vocabulary": 2,
+                "length": 6,
+                "calculated_length": 0.0,
+                "volume": 6.0,
+                "difficulty": 1.5,
+                "effort": 9.0,
+                "time": 0.5,
+                "bugs": 0.002
+            },
+            "test_get_magnet_link": {
+                "h1": 0,
+                "h2": 0,
+                "N1": 0,
+                "N2": 0,
+                "vocabulary": 0,
+                "length": 0,
+                "calculated_length": 0,
+                "volume": 0,
+                "difficulty": 0,
+                "effort": 0,
+                "time": 0.0,
+                "bugs": 0.0
+            },
+            "test_get_torrent_links": {
                 "h1": 0,
                 "h2": 0,
                 "N1": 0,
