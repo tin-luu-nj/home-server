@@ -1,11 +1,12 @@
 import logging
+import sys
 from datetime import datetime
 from typing import List, Tuple, Union
 
 from ._CONST_ import *
 
 
-class clsDiagnostic:
+class Inspector:
     """
     A class used for logging purposes.
 
@@ -19,54 +20,71 @@ class clsDiagnostic:
     Methods
     -------
     __init__()
-        Initializes the Diagnostic class and sets up logging handlers.
+        Initializes the Inspector class and sets up logging handlers.
     """
+    _instances = []
+    def __new__(cls, *args, **kwargs):
+        if cls._instances:
+            for instance in cls._instances:
+                if kwargs['logger_name'] == instance.name:
+                    return instance
 
-    def __init__(self) -> None:
+        cls._instances.append(super(Inspector, cls).__new__(cls))
+        return cls._instances[-1]
+
+    def __init__(
+        self,
+        logger_name: str = "Wayne",
+        logger_level: int = logging.DEBUG,
+        stream_handler_enable: bool = True,
+        file_handler_enable: bool = True,
+        file_handler_path: str = "log/DDX.log",
+        dtc_table_enable: bool = True,
+        dtc_level: int = logging.INFO,
+        dtc_file_path: str = "./log/DTC.log",
+    ) -> None:
         """
-        Initializes the Diagnostic class and sets up logging handlers.
+        Initializes the Inspector class and sets up logging handlers.
         """
 
+        self.name = logger_name
         self.events: List = []
-        self.logger: logging.Logger = logging.getLogger(__name__)
+        self.logger: logging.Logger = logging.getLogger(logger_name)
 
-        if LOGGING_HANDLER_FILE_ENABLE or LOGGING_HANDLER_STREAM_ENABLE:
-            self._setup_logging_handlers()
+        self.file_handler_path = file_handler_path
+        self.dtc = dtc_table_enable
+        self.dtc_level = dtc_level
+        self.dtc_file_path = dtc_file_path
 
-    def _setup_logging_handlers(self) -> None:
-        """
-        Sets up the logging handlers.
-        """
-
-        if LOGGING_HANDLER_FILE_ENABLE:
+        if stream_handler_enable:
             self._setup_stream_handler()
 
-        if LOGGING_HANDLER_STREAM_ENABLE:
+        if file_handler_enable:
             self._setup_file_handler()
 
-        self.logger.setLevel(logging.DEBUG)
+        self.logger.setLevel(logger_level)
 
     def _setup_stream_handler(self) -> None:
         """
         Sets up the stream handler for logging.
         """
 
-        stream_handler = logging.StreamHandler()
-        stream_format = logging.Formatter(
-            "%(relativeCreated)s\t%(levelname)s\t%(message)s"
-        )
-        stream_handler.setFormatter(stream_format)
-        self.logger.addHandler(stream_handler)
+        _handler = logging.StreamHandler(sys.stdout)
+        _format = logging.Formatter("%(relativeCreated)s\t%(levelname)s\t%(message)s")
+        _handler.setFormatter(_format)
+        _handler.setLevel(logging.DEBUG)
+        self.logger.addHandler(_handler)
 
     def _setup_file_handler(self) -> None:
         """
         Sets up the file handler for logging.
         """
 
-        file_handler = logging.FileHandler(FILE_LOG)
-        file_format = logging.Formatter("%(asctime)s\t%(levelname)s\t\t%(message)s")
-        file_handler.setFormatter(file_format)
-        self.logger.addHandler(file_handler)
+        _handler = logging.FileHandler(self.file_handler_path)
+        _format = logging.Formatter("%(asctime)s\t%(levelname)s\t%(message)s")
+        _handler.setFormatter(_format)
+        _handler.setLevel(logging.DEBUG)
+        self.logger.addHandler(_handler)
 
     def clear_DTC(self) -> None:
         """Clears the events list."""
@@ -95,28 +113,19 @@ class clsDiagnostic:
         Parameters:
         event (Tuple[int, int, int, str]): The event to set the status for.
         """
-        self._logging(event[0])(event[3])
+        if event[0] >= self.logger.level:
+            log_level_dict = {
+                logging.CRITICAL: self.logger.critical,
+                logging.ERROR: self.logger.error,
+                logging.WARNING: self.logger.warning,
+                logging.INFO: self.logger.info,
+                logging.DEBUG: self.logger.debug,
+            }
 
-        if event[0] >= DTC_LEVEL:
+            log_level_dict[event[0]](event[3])
+
+        if event[0] >= self.dtc_level:
             self.events.append((str(datetime.now()), *event))
-
-    def _logging(self, log_level: int) -> callable:
-        """
-        Returns the appropriate logging function for the given log level.
-
-        Parameters:
-        log_level (int): The log level.
-
-        Returns:
-        callable: The logging function.
-        """
-        return [
-            self.logger.critical,
-            self.logger.error,
-            self.logger.warning,
-            self.logger.info,
-            self.logger.debug,
-        ][LOGGING_LEVEL_LIST.index(log_level)]
 
     def look_up(self, event: Tuple[int, int, int, str]) -> bool:
         """
@@ -132,8 +141,8 @@ class clsDiagnostic:
 
     def dump_DTC(self) -> None:
         """Writes the events list to a file."""
-        if DTC_LOG:
-            with open(FILE_DTC, OPEN_PERMISSION_APPEND) as stream:
+        if self.dtc:
+            with open(self.dtc_file_path, OPEN_PERMISSION_APPEND) as stream:
                 for entry in self.events:
                     stream.write(f"{entry}\n")
 
@@ -146,3 +155,8 @@ class clsDiagnostic:
         Union[Tuple[str, int, int, int], Tuple]: The last event or an empty tuple if there are no events.
         """
         return self.events[-1] if self.events else ()
+
+
+################################################################################
+#                                END OF FILE                                   #
+################################################################################

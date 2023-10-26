@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+/* Licensed under the Apache License: http://www.apache.org/licenses/LICENSE-2.0 */
+/* For details: https://github.com/nedbat/coveragepy/blob/master/NOTICE.txt */
+/* Don't edit this .css file. Edit the .scss file instead! */
+html,
+body,
+h1,
+h2,
+h3,
+p,
+table,
+td,
+th {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+
+.container {
+  display: flex;
+}
+
+.table-container {
+    margin-right: 200px;
+  }
+  
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1em;
+    background: #fff;
+    color: #000;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #1e1e1e;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: #eee;
+    }
+}
+
+html>body {
+    font-size: 14px;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+    padding: 8px;
+}
+
+.A {
+    color: green;
+    font-weight: bold;
+}
+
+.B {
+    color: yellow;
+    font-weight: bold;
+}
+
+.C {
+    color: orange;
+    font-weight: bold;
+}
+
+.D {
+    color: red;
+}
+
+/* Add more styles for other ranks if needed */
+.complexity,
+.rank {
+    text-align: center;
+}

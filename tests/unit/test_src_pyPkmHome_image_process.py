@@ -7,15 +7,13 @@ from PIL import Image
 from src.pyPkmHome.image_process import *  # replace with the actual module name
 
 
-def test_extractText():
+def test_001_F_extractText():
     # Create a 2x2 image with two colors: black and white
-    img = np.array(
-        [[[0, 0, 0], [255, 255, 255]], [[0, 0, 0], [255, 255, 255]]], dtype=np.uint8
-    )
+    img = cv2.imread("tests/unit/database/src_pyPkmHome/image_process_test_001.png")
 
     # TODO: dummy expected
     # The expected text extracted from the image
-    expected = ""
+    expected = "Hello World\n"
 
     # Call the function with the test image
     result = extractText(img)
@@ -29,14 +27,14 @@ def test_extractText():
 
     # Test with an invalid crop rectangle
     with pytest.raises(ValueError):
-        extractText(img, crop_rect=(0, 0, 3, 3))
+        extractText(img, crop_rect=(0, 0, 201, 101))
 
     # Test with an invalid crop rectangle data type
     with pytest.raises(ValueError):
         extractText(img, crop_rect=(0.1, 0.1, 1.1, 1.1))
 
 
-def test_extractColorHex():
+def test_002_F_extractColorHex():
     # Create a 3x3 image with two colors: black and white
     img = np.array(
         [
@@ -71,7 +69,7 @@ def test_extractColorHex():
         extractColorHex(img_one_color)
 
 
-def test_searchImage():
+def test_004_F_searchImage():
     # Create a random image of size 300x300
     main_image = np.random.randint(0, 256, (300, 300), dtype=np.uint8)
 

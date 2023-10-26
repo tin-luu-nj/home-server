@@ -1,8 +1,9 @@
-from diagnostic import clsDiagnostic as Diagnostic
+from diagnostic import Inspector
+
 
 def DDX_normal_usecase():
-    # Create an instance of the Diagnostic class
-    diagnostic = Diagnostic()
+    # Create an instance of the Inspector class
+    inspector = Inspector()
 
     # Define an event
     events = [
@@ -15,17 +16,18 @@ def DDX_normal_usecase():
 
     # Set the event status
     for event in events:
-        diagnostic.set_event_status(event)
+        inspector.set_event_status(event)
 
         # Check if the event is in the events list
-        if diagnostic.look_up(event):
+        if inspector.look_up(event):
             print("Event found in the events list")
 
         # Remove the event from the events list
-        if diagnostic.clean_up(event):
+        if inspector.clean_up(event):
             print("Event removed from the events list")
 
     # Dump the Diagnostic Trouble Codes (DTCs) to a file
-    diagnostic.dump_DTC()
+    inspector.dump_DTC()
+
 
 DDX_normal_usecase()

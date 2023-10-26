@@ -2,6 +2,7 @@ import pytest
 
 def run_tests():
     command = [
+        "-s",
         "-vv",
         "-rP",
         "--html=report/ut/report.html",

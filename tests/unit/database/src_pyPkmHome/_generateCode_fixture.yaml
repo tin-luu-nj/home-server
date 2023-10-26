@@ -1,0 +1,283 @@
+pokemon_HOME:
+  version: 1.0.0
+  src: src/pyPkmHome/
+  crop_rectangle:
+    desc: Create dictionaries of cropping rectangles for nature and stats
+    nature_stat:
+      var: CROP_RECT_NATURE_STAT
+      desc: Each dictionary has the stat name as the key and the coordinates of the rectangle as the value.
+      type_hint: Dict[str, Any]
+      attack:
+        desc: The rectangle for Attack stat
+        stat: Attack
+        x1: 360
+        y1: 220
+        x2: 508
+        y2: 308
+      defense:
+        desc: The rectangle for Defense stat
+        stat: Defense
+        x1: 369
+        y1: 396
+        x2: 508
+        y2: 472
+      spatk:
+        desc: The rectangle for Sp.Atk stat
+        stat: Sp.Atk
+        x1: 2
+        y1: 218
+        x2: 145
+        y2: 319
+      spdef:
+        desc: The rectangle for Sp.Def stat
+        stat: Sp.Def
+        x1: 3
+        y1: 396
+        x2: 147
+        y2: 487
+      speed:
+        desc: The rectangle for Speed stat
+        stat: Speed
+        x1: 164
+        y1: 463
+        x2: 354
+        y2: 526
+    stat_iv:
+      var: CROP_RECT_STAT_IV
+      desc: Each dictionary has the stat name as the key and the coordinates of the rectangle as the value.
+      type_hint: Dict[str, Any]
+      hp:
+        desc: The rectangle for HP IV Judge
+        stat: HP
+        x1: 162
+        y1: 191
+        x2: 361
+        y2: 218
+      attack:
+        desc: The rectangle for Attack IV Judge
+        stat: Attack
+        x1: 366
+        y1: 272
+        x2: 508
+        y2: 307
+      defense:
+        desc: The rectangle for Defense IV Judge
+        stat: Defense
+        x1: 336
+        y1: 440
+        x2: 507
+        y2: 474
+      spatk:
+        desc: The rectangle for Sp.Atk IV Judge
+        stat: Sp.Atk
+        x1: 3
+        y1: 274
+        x2: 147
+        y2: 303
+      spdef:
+        desc: The rectangle for Sp.Def IV Judge
+        stat: Sp.Def
+        x1: 3
+        y1: 442
+        x2: 147
+        y2: 471
+      speed:
+        desc: The rectangle for Speed IV Judge
+        stat: Speed
+        x1: 159
+        y1: 460
+        x2: 347
+        y2: 494
+    main_img_based:
+      var: CROP_RECT_MAIN_IMG_BASED
+      desc: Each dictionary has the stat name as the key and the coordinates of the rectangle as the value.
+      type_hint: Dict[str, Any]
+      gender:
+        desc: The rectangle for the gender icon
+        stat: Gender
+        x1: 529
+        y1: 68
+        x2: 578
+        y2: 106
+    main_txt_based:
+      var: CROP_RECT_MAIN_TXT_BASED
+      desc: Each dictionary has the stat name as the key and the coordinates of the rectangle as the value.
+      type_hint: Dict[str, Any]
+      dexNo:
+        desc: The rectangle for the number of the Pokemon
+        stat: No.
+        x1: 518
+        y1: 178
+        x2: 640
+        y2: 209
+      Species:
+        desc: The rectangle for the species of the Pokemon
+        stat: Species
+        x1: 646
+        y1: 176
+        x2: 790
+        y2: 210
+      Lv:
+        desc: The rectangle for the level of the Pokemon
+        stat: Lv.
+        x1: 651
+        y1: 62
+        x2: 784
+        y2: 110
+      Move_1:
+        desc: The rectangle for the first move of the Pokemon
+        stat: Move_1
+        x1: 603
+        y1: 229
+        x2: 797
+        y2: 283
+      Move_2:
+        desc: The rectangle for the second move of the Pokemon
+        stat: Move_2
+        x1: 602
+        y1: 288
+        x2: 797
+        y2: 339
+      Move_3:
+        desc: The rectangle for the third move of the Pokemon
+        stat: Move_3
+        x1: 604
+        y1: 346
+        x2: 798
+        y2: 397
+      Move_4:
+        desc: The rectangle for the fourth move of the Pokemon
+        stat: Move_4
+        x1: 604
+        y1: 404
+        x2: 801
+        y2: 459
+      OT:
+        desc: The rectangle for the original trainer of the Pokemon
+        stat: OT
+        x1: 625
+        y1: 517
+        x2: 842
+        y2: 555
+      TID:
+        desc: The rectangle for the trainer ID of the Pokemon
+        stat: TID
+        x1: 996
+        y1: 518
+        x2: 1249
+        y2: 554
+      Nature:
+        desc: The rectangle for the nature of the Pokemon
+        stat: Nature
+        x1: 202
+        y1: 562
+        x2: 445
+        y2: 596  
+      Ability:
+        desc: The rectangle for the ability of the Pokemon 
+        stat: Ability 
+        x1: 204 
+        y1: 601 
+        x2: 447 
+        y2: 635 
+      Held Item:
+        desc: The rectangle for held item of the Pokemon 
+        stat: Held Item 
+        x1: 201 
+        y1: 641 
+        x2: 444 
+        y2: 675 
+      Stat Judge:
+        desc: The rectangle for Stat Judge of the Pokemon 
+        stat: Stat Judge 
+        x1: 43 
+        y1: 528 
+        x2: 470 
+        y2: 559 
+  const:
+    desc: dummy text
+    crop rectangle disabled:
+      var: CROP_RECT_FALSE
+      desc: Constant for a false crop rectangle
+      type_hint: tuple
+      value: (0, 0, 0, 0)
+    SCALE_FACTOR:
+      var: SCALE_FACTOR
+      desc: A constant for scaling
+      type_hint: float
+      value: 2.0
+    MATCH_THRESHOLD:
+      var: MATCH_THRESHOLD
+      desc: A constant for matching threshold
+      type_hint: float
+      value: 0.8
+    GAUSSIAN_KERNEL_SIZE:
+      var: GAUSSIAN_KERNEL_SIZE
+      desc: A tuple for Gaussian kernel size
+      type_hint: Tuple[int, int]
+      value: (5, 5)
+    GAUSSIAN_SIGMA_X:
+      var: GAUSSIAN_SIGMA_X
+      desc: A constant for Gaussian sigma X
+      type_hint: float
+      value: 0.75
+    THRESHOLD_THRESH:
+      var: THRESHOLD_THRESH
+      desc: A constant for thresholding threshold
+      type_hint: int
+      value: 0
+    THRESHOLD_MAXVAL:
+      var: THRESHOLD_MAXVAL
+      desc: A constant for thresholding max value
+      type_hint: int
+      value: 255
+    NUMPY_ONES_SHAPES:
+      var: NUMPY_ONES_SHAPES
+      desc: A tuple for numpy ones shapes
+      type_hint: Tuple[int, int]
+      value: (1, 1)
+    DENOISE_FILTER_STRENGTH:
+      var: DENOISE_FILTER_STRENGTH 
+      desc: A constant for denoising filter strength 
+      type_hint: int 
+      value: 10 
+    DENOISE_TEMPLATE_SIZE:
+      var: DENOISE_TEMPLATE_SIZE 
+      desc: A constant for denoising template size 
+      type_hint: int 
+      value: 7 
+    DENOISE_TEMPLATE_SEARCH:
+      var: DENOISE_TEMPLATE_SEARCH 
+      desc: A constant for denoising template search 
+      type_hint: int 
+      value: 21 
+    NATURE_NEUTRAL:
+      var: NATURE_NEUTRAL 
+      desc: A constant for nature stats neutral 
+      type_hint: str 
+      value: "Neutral" 
+    NATURE_MINUS:
+      var: NATURE_MINUS 
+      desc: A constant for nature stats minus 
+      type_hint: str 
+      value: "-" 
+    NATURE_PLUS:
+      var: NATURE_PLUS 
+      desc: A constant for nature stats plus 
+      type_hint: str 
+      value: "/+" 
+    GENDER_GENDERLESS:
+        var: GENDER_GENDERLESS 
+        desc: A constant for genderless gender of the Pokemon  
+        type_hint: str 
+        value: "genderless" 
+    GENDER_MALE:
+        var: GENDER_MALE  
+        desc: A constant for male gender of the Pokemon  
+        type_hint: str 
+        value: "male" 
+    GENDER_FEMALE:
+        var: GENDER_FEMALE  
+        desc: A constant for female gender of the Pokemon  
+        type_hint: str 
+        value: "female" 

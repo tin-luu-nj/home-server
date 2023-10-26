@@ -1,5 +1,4 @@
 __pycache__
-report/cov_ut/html
 .venv
 .coverage
 .coveragerc

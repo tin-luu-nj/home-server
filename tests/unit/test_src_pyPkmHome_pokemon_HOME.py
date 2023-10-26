@@ -7,7 +7,7 @@ import pytest
 from src.pyPkmHome.pokemon_HOME import *  # replace with the actual module name
 
 
-def test_extractNatureStats(monkeypatch):
+def test_001_F_extractNatureStats(monkeypatch):
     # Prepare the inputs
     main_image = np.random.rand(100, 100, 3)  # replace with an actual image
 
@@ -30,12 +30,12 @@ def test_extractNatureStats(monkeypatch):
 
 
 # This test checks if the function raises a ValueError when main_image is None
-def test_extractNatureStats_with_None():
+def test_002_F_extractNatureStats_with_None():
     with pytest.raises(ValueError):
         extractNatureStats(None)
 
 
-def test_extractStatsIV(monkeypatch):
+def test_003_F_extractStatsIV(monkeypatch):
     # Define a mock image as a numpy array
     mock_image = np.array([[255, 255, 255], [255, 255, 255], [255, 255, 255]])
 
@@ -66,13 +66,13 @@ def test_extractStatsIV(monkeypatch):
     }
 
 
-def test_extractStatsIV_no_image():
+def test_004_F_extractStatsIV_no_image():
     # Call the function with None as the image
     with pytest.raises(ValueError):
         extractStatsIV(None)
 
 
-def test_extractMain(monkeypatch):
+def test_005_F_extractMain(monkeypatch):
     # Define a mock image as a numpy array
     mock_image = np.array([[255, 255, 255], [255, 255, 255], [255, 255, 255]])
 
@@ -110,13 +110,13 @@ def test_extractMain(monkeypatch):
     }
 
 
-def test_extractMain_no_image():
+def test_006_F_extractMain_no_image():
     # Call the function with None as the image
     with pytest.raises(ValueError):
         extractMain(None)
 
 
-def test_extractGender(monkeypatch):
+def test_007_F_extractGender(monkeypatch):
     # TODO: Dummy test, need accurate input and output
     # Define a mock image as a numpy array
     mock_image = np.array([[255, 255, 255], [255, 255, 255], [255, 255, 255]])
@@ -147,13 +147,13 @@ def test_extractGender(monkeypatch):
     assert result == GENDER_GENDERLESS
 
 
-def test_extractGender_no_image():
+def test_008_F_extractGender_no_image():
     # Call the function with None as the image
     with pytest.raises(ValueError):
         extractGender(None)
 
 
-def test_mainFunction(monkeypatch):
+def test_009_F_mainFunction(monkeypatch):
     # TODO: Dummy Test, need real input and output
     # Define a mock image as a numpy array
     mock_image = np.array([[255, 255, 255], [255, 255, 255], [255, 255, 255]])

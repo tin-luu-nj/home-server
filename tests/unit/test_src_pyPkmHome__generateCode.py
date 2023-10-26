@@ -1,40 +1,29 @@
-import os
-from unittest.mock import call, mock_open, patch
-
-import pytest
+from unittest.mock import mock_open, patch
+import yaml, json
 
 from src.pyPkmHome._generateCode import *
+import pytest
 
 
-def test_createRetangleDict():
+@pytest.fixture
+def raw_loading():
+    with open(
+        "tests/unit/database/src_pyPkmHome/_generateCode_fixture.yaml", "r"
+    ) as _file:
+        raw = yaml.safe_load(_file)
+
+    from .database.src_pyPkmHome._generateCode_expected_output import (
+        test_001_expected_output,
+        test_002_expected_output,
+    )
+
+    return raw, test_001_expected_output, test_002_expected_output
+
+
+def test_001_F_createRetangleDict(raw_loading):
     # Define the input and expected output
-    raw = {
-        "pokemon_HOME": {
-            "crop_rectangle": {
-                "nature_stat": {
-                    "var": "nature_stat",
-                    "desc": "Nature and Stat",
-                    "type_hint": "dict",
-                    "attack": {
-                        "desc": "Stat",
-                        "stat": "Attack",
-                        "x1": 0,
-                        "y1": 0,
-                        "x2": 100,
-                        "y2": 100,
-                    },
-                }
-            }
-        }
-    }
-    filter = ["nature_stat"]
-    expected_output = {
-        "nature_stat": {
-            "Attack": ["Stat", (0, 0, 100, 100)],
-            "desc": "Nature and Stat",
-            "type_hint": "dict",
-        }
-    }
+    raw, expected_output, _ = raw_loading
+    filter = ["nature_stat", "stat_iv", "main_img_based", "main_txt_based"]
 
     # Call the function with the test input
     result = createRetangleDict(raw, filter)
@@ -43,27 +32,9 @@ def test_createRetangleDict():
     assert result == expected_output
 
 
-def test_extractDict():
+def test_002_F_extractDict(raw_loading):
     # Define the input and expected output
-    raw = {
-        "pokemon_HOME": {
-            "const": {
-                "crop rectangle disabled": {
-                    "var": "CROP_RECT_FALSE",
-                    "desc": "Constant for a false crop rectangle",
-                    "type_hint": "tuple",
-                    "value": (0, 0, 0, 0),
-                },
-            },
-        }
-    }
-    expected_output = {
-        "CROP_RECT_FALSE": {
-            "desc": "Constant for a false crop rectangle",
-            "type_hint": "tuple",
-            "val": (0, 0, 0, 0),
-        }
-    }
+    raw, _, expected_output = raw_loading
 
     # Call the function with the test input
     result = extractDict(raw)
@@ -72,92 +43,14 @@ def test_extractDict():
     assert result == expected_output
 
 
-def test_mainFunction():
+def test_003_F_mainFunction(raw_loading):
     # Define the input and expected output
-    raw = {
-        "pokemon_HOME": {
-            "crop_rectangle": {
-                "nature_stat": {
-                    "var": "nature_stat",
-                    "desc": "Nature and Stat",
-                    "type_hint": "dict",
-                    "attack": {
-                        "desc": "Stat",
-                        "stat": "Attack",
-                        "x1": 0,
-                        "y1": 0,
-                        "x2": 100,
-                        "y2": 100,
-                    },
-                },
-                "stat_iv": {
-                    "var": "stat_iv",
-                    "desc": "S",
-                    "type_hint": "dict",
-                    "attack": {
-                        "desc": "Stat",
-                        "stat": "Attack",
-                        "x1": 0,
-                        "y1": 0,
-                        "x2": 100,
-                        "y2": 100,
-                    },
-                },
-                "main_img_based": {
-                    "var": "stat_iv",
-                    "desc": "S",
-                    "type_hint": "dict",
-                    "attack": {
-                        "desc": "Stat",
-                        "stat": "Attack",
-                        "x1": 0,
-                        "y1": 0,
-                        "x2": 100,
-                        "y2": 100,
-                    },
-                },
-                "main_txt_based": {
-                    "var": "stat_iv",
-                    "desc": "S",
-                    "type_hint": "dict",
-                    "attack": {
-                        "desc": "Stat",
-                        "stat": "Attack",
-                        "x1": 0,
-                        "y1": 0,
-                        "x2": 100,
-                        "y2": 100,
-                    },
-                },
-            },
-            "const": {
-                "crop rectangle disabled": {
-                    "var": "CROP_RECT_FALSE",
-                    "desc": "Constant for a false crop rectangle",
-                    "type_hint": "tuple",
-                    "value": (0, 0, 0, 0),
-                },
-            },
-        }
-    }
-    expected_output = """# This is a generated Python script
-from typing import Any, Tuple, Dict
-# Nature and Stat
-nature_stat:  dict = {
-    # Stat
-    "Attack": (0, 0, 100, 100),
-}
-# S
-stat_iv:  dict = {
-    # Stat
-    "Attack": (0, 0, 100, 100),
-}
-# Constant for a false crop rectangle
-CROP_RECT_FALSE: tuple = (0, 0, 0, 0)
+    raw, _, _ = raw_loading
 
-################################################################################
-#                                END OF FILE                                   #
-################################################################################"""
+    with open(
+        "tests/unit/database/src_pyPkmHome/_generateCode_test_003_expected_output.py"
+    ) as file_:
+        expected_output = file_.read()
 
     # Mock template
     with open("src/pyPkmHome/_CONST_template.txt") as file_:
@@ -173,7 +66,3 @@ CROP_RECT_FALSE: tuple = (0, 0, 0, 0)
     # Check that the output file was written with the expected content
     m.assert_any_call("src/pyPkmHome/_CONST_.py", "w")
     m().write.assert_called_once_with(expected_output)
-
-
-# Run the test
-pytest.main(["-v"])

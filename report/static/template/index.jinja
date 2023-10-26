@@ -1,0 +1,118 @@
+<html>
+
+<head>
+    <title>Radon Report</title>
+    <link rel="stylesheet" type="text/css" href="assets/styles.css">
+</head>
+
+<body>
+    <h1>Radon Report</h1>
+
+    <div class="container">
+        <!-- Cyclomatic Complexity Table -->
+        <div class="table-container">
+            <h2>Cyclomatic Complexity</h2>
+            <table>
+                <tr>
+                    <th>File</th>
+                    <th>Type</th>
+                    <th>Name</th>
+                    <th class="complexity">Complexity</th>
+                    <th class="rank">Rank</th>
+                </tr>
+                {% for file, blocks in cc_files %}
+                {% for block in blocks %}
+                <tr>
+                    {% if loop.first %}
+                    <td rowspan="{{ blocks|length }}">{{ file }}</td>
+                    {% endif %}
+
+                    <!-- Cyclomatic Complexity -->
+                    <td>{{ block.type }}</td>
+                    <td>{{ block.name }}</td>
+                    <td class="complexity">{{ block.complexity }}</td>
+                    <td class="rank {{ block.rank }}">{{ block.rank }}</td>
+
+                </tr>
+
+                {% endfor %}
+                {% endfor %}
+            </table>
+        </div>
+
+        <div class="table-container">
+            <h2>Other Metrics</h2>
+            <table>
+                <tr>
+                    <!-- Add a new row for the group name -->
+                    <th rowspan="2">File</th>
+                    <th colspan="6">Raw Metrics</th>
+                    <th colspan="10">Halstead Metrics</th>
+                    <th colspan="2">Maintainability Index</th>
+                </tr>
+
+                <tr>
+                    <!-- Raw Metrics -->
+                    <th>LOC</th>
+                    <th>LLOC</th>
+                    <th>SLOC</th>
+                    <th>Comments</th>
+                    <th>Multi</th>
+                    <th>Blank</th>
+
+                    <!-- Halstead Metrics -->
+                    <th>H1</th>
+                    <th>H2</th>
+                    <th>N1</th>
+                    <th>N2</th>
+                    <th>Vocabulary</th>
+                    <th>Length</th>
+                    <th>Calculated Length</th>
+                    <th>Volume</th>
+                    <th>Difficulty</th>
+                    <th>Effort</th>
+
+                    <!-- Maintainability Index -->
+                    <th>MI</th>
+                    <th>Rank</th>
+
+                </tr>
+                {% for file in other_files %}
+                <tr>
+                    <td>{{ file.file }}</td>
+
+                    <!-- Add the new metrics to the table -->
+                    <!-- Raw Metrics -->
+                    <td>{{ file.loc }}</td>
+                    <td>{{ file.lloc }}</td>
+                    <td>{{ file.sloc }}</td>
+                    <td>{{ file.comments }}</td>
+                    <td>{{ file.multi }}</td>
+                    <td>{{ file.blank }}</td>
+
+                    <!-- Halstead Metrics -->
+                    <td>{{ file.h1 }}</td>
+                    <td>{{ file.h2 }}</td>
+                    <td>{{ file.N1 }}</td>
+                    <td>{{ file.N2 }}</td>
+                    <td>{{ file.vocabulary }}</td>
+                    <td>{{ file.length }}</td>
+                    <td>{{ file.calculated_length }}</td>
+                    <td>{{ file.volume }}</td>
+                    <td>{{ file.difficulty }}</td>
+                    <td>{{ file.effort }}</td>
+
+                    <!-- Maintainability Index -->
+                    <td>{{ file.mi }}</td>
+                    <td class="rank {{ file.mi_rank }}">{{ file.mi_rank }}</td>
+
+                </tr>
+
+                {% endfor %}
+            </table>
+        </div>
+
+    </div>
+</body>
+
+</html>

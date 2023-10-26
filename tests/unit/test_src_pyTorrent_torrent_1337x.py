@@ -112,6 +112,7 @@ def test_get_torrent_links(mock_search, torrent_search):
         "size": "500 MB",
     }
 
+
 def test_convert_size():
     # Test conversion from KB to MB
     assert convert_size("1024 KB", "MB") == 1.0

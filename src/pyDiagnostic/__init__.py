@@ -26,7 +26,7 @@
 # Copyright (c) 2022 Pennyworth Project.  All rights reserved.
 ################################################################################
 
-from .diagnostic import clsDiagnostic as Diagnostic
+from .diagnostic import Inspector
 
 ################################################################################
 # END OF FILE
